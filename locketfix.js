@@ -136,7 +136,7 @@ Object.assign(obj.entries, {
         tag: "LOCKET GOLD nghuyhoang",
         tag_gradient: true,
         tag_style: "gold_gradient",
-        title: "Đã Kich Hoạt 💛",
+        title: "Đã Kích Hoạt 💛",
         feature_set: [
             {
                 title: "TikTok @locketdaubuoi ✨",
@@ -5975,7 +5975,7 @@ Object.assign(obj.entries, {
                                                 ]
                                         },
                                         "max_lines": 1,
-                                        "text": " nochynnguyen 🐸🦀 ",
+                                        "text": " nochynnguyen 🦀 ",
                                         "text_color": "#183153",
                                         "type": "static_content"
                                 }
