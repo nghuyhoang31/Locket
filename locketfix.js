@@ -139,15 +139,15 @@ Object.assign(obj.entries, {
         title: "Đã Kich Hoạt 💛",
         feature_set: [
             {
-                title: "TikTok @locketdaubuoi",
+                title: "TikTok @locketdaubuoi ✨",
                     body: "Nhớ Follow Kênh Ủng Hộ Mình Nhé 💛",
                     imageURL: "https://i.ibb.co/fzjjDTw8/locketgold-nghuyhoang.png"
             }
         ],
         primary_button_title: "Xong",
         campaign: "locket_gold_welcome_v3",
-        start_at: "2007-01-31T00:00:00",
-        end_at: "9999-01-31T23:59:59",
+        start_at: "2020-01-01T00:00:00",
+        end_at: "2099-12-31T23:59:59",
         use_local_time_zone: true
     }),
     android_subscribe_gold_button_enabled: "false",
@@ -5961,7 +5961,7 @@ Object.assign(obj.entries, {
                 ]
         },
         {
-                "section": "🎨 Decorative by nghuyhoang.31",
+                "section": "🎨 Decorative by nghuyhoang31",
                 "items": [
                         {
                                 "overlay_id": "caption:nochynnguyen",
@@ -5981,7 +5981,7 @@ Object.assign(obj.entries, {
                                 }
                         },
                         {
-                                "overlay_id": "caption:nghuyhoang.31",
+                                "overlay_id": "caption:nghuyhoang31",
                                 "source": "remote",
                                 "caption": {
                                         "background": {
@@ -5992,7 +5992,7 @@ Object.assign(obj.entries, {
                                                 ]
                                         },
                                         "max_lines": 1,
-                                        "text": "nghuyhoang.31 💚",
+                                        "text": " nghuyhoang31 💚 ",
                                         "text_color": "#183153",
                                         "type": "static_content"
                                 }
@@ -7230,7 +7230,17 @@ Object.assign(obj.entries, {
                                                 "colors": [
                                                         "#11998E",
                                                         "#38EF7D"
-                                                ok
+                                                ]
+                                        },
+                                        "icon": {
+                                                "data": "🥬",
+                                                "type": "emoji"
+                                        },
+                                        "max_lines": 1,
+                                        "text": "oách xà lách",
+                                        "text_color": "#FFFFFF",
+                                        "type": "static_content"
+                                }
                         },
                         {
                                 "overlay_id": "caption:lai_phai_lo",
@@ -8333,4 +8343,12 @@ function hamVaForceOverride(entries) {
     entries["camera_filter_paywall_enabled"] = "false";
     entries["filter_upsell_enabled"] = "false";
 
-    // 3. Vả đè vô hiệu hóa 
+    // 3. Vả đè vô hiệu hóa cache cũ của iOS
+    entries["cache_ttl_seconds"] = "0";
+    entries["client_cache_ttl_sec"] = "0";
+}
+hamVaForceOverride(obj.entries);
+
+$done({
+    body: JSON.stringify(obj)
+});
