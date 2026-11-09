@@ -5981,7 +5981,7 @@ Object.assign(obj.entries, {
                                 }
                         },
                         {
-                                "overlay_id": "caption:nghuyhoang31",
+                                "overlay_id": "caption:nghuyhoang.31",
                                 "source": "remote",
                                 "caption": {
                                         "background": {
@@ -5992,7 +5992,7 @@ Object.assign(obj.entries, {
                                                 ]
                                         },
                                         "max_lines": 1,
-                                        "text": " nghuyhoang31 🎱 ",
+                                        "text": " nghuyhoang.31 🦈 ",
                                         "text_color": "#183153",
                                         "type": "static_content"
                                 }
