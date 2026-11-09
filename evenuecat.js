@@ -18,7 +18,7 @@ var NMS = {
           "amount": 399000.0,
           "currency": "VND"
       },
-      expires_date: "9999-01-31T10:10:14Z",
+      expires_date: "9999-01-09T10:10:14Z",
       grace_period_expires_date: null,
       refunded_at: null,
       unsubscribe_detected_at: null,
