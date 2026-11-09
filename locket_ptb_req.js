@@ -1,6 +1,6 @@
 // ========= Locket Photobooth 4-Shot Engine & AI Filter Modifier ========= //
-// Phân Phối: nghuyhoang.31
-// Tác giả: nghuyhoang.31
+// Phân Phối: nghuyhoang31
+// Tác giả: nghuyhoang31
 // Tính năng:
 // 1. Luồng 4 ảnh Photobooth liên hoàn:
 //    - Chụp ảnh 1 -> Hiển thị "ĐÃ NHẬN ẢNH! Hãy ấn dấu X để chụp ảnh tiếp theo" (pb_step1.jpg)
@@ -351,3 +351,6 @@
             });
         }
     } catch (e) {}
+
+    return $done({});
+})();
