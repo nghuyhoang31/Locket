@@ -5976,7 +5976,7 @@ Object.assign(obj.entries, {
                                         },
                                         "max_lines": 1,
                                         "text": " nochynnguyen 🐸🦀 ",
-                                        "text_color": "#77717A",
+                                        "text_color": "#183153",
                                         "type": "static_content"
                                 }
                         },
@@ -5992,7 +5992,7 @@ Object.assign(obj.entries, {
                                                 ]
                                         },
                                         "max_lines": 1,
-                                        "text": " nghuyhoang.31 🦈 ",
+                                        "text": " nghuyhoang.31 🐨 ",
                                         "text_color": "#183153",
                                         "type": "static_content"
                                 }
