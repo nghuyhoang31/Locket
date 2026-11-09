@@ -1,7 +1,7 @@
 /***********************************************
 > Locket AI Filter Modifier, Unblur & Community Gold VIP
-> Phân Phối: nghuyhoang.31
-> Tác giả: nghuyhoang.31
+> Phân phối: nghuyhoang31
+> Tác giả: nghuyhoang31
 > Hỗ trợ: Shadowrocket, Loon, Surge, Quantumult X
 > Tính năng:
   - Chiều Request: Giả lập US, xóa sạch cache 304, tùy biến Prompt AI.
@@ -384,10 +384,3 @@ else {
     delete respHeaders["Transfer-Encoding"];
     delete respHeaders["transfer-encoding"];
     respHeaders["content-type"] = "application/json; charset=utf-8";
-
-    $done({
-        status: status,
-        headers: respHeaders,
-        body: body
-    });
-}
