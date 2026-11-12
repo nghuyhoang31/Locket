@@ -277,8 +277,8 @@ obj.entries.camera_roll = JSON.stringify(cameraRollConfig);
 // --- DUNG HỢP BỘ LỌC PHOTOBOOTH & FILTER KHUNG 49+ TỪ SRC HUY HIỆU ---
 var customPhotoboothFilters = [
 	{
-		"uid": "stk_rose_flower",
-		"id": "stk_rose_flower",
+		"uid": "stk-rose-flower",
+		"id": "stk-rose-flower",
 		"name": "Ngậm Hoa Hồng",
 		"prompt": "Show the person in the photo with the exact same pose and background, but have them with a single rose in their mouth. If no person is present in the input, do not add anything to the output.",
 		"productUrl": null,
@@ -321,8 +321,8 @@ var customPhotoboothFilters = [
 		"filterType": "normal"
 	},
 	{
-		"uid": "stk_shrek_ogre",
-		"id": "stk_shrek_ogre",
+		"uid": "stk-shrek-ogre",
+		"id": "stk-shrek-ogre",
 		"name": "Tai Ogre Shrek",
 		"prompt": "Show the person in the photo with the exact same pose and background, but transform them into Shrek with rounded ears, and rustic clothing while preserving the pose. Keep their hairstyle, but make it look natural in the Shrek style.",
 		"productUrl": null,
@@ -365,8 +365,8 @@ var customPhotoboothFilters = [
 		"filterType": "normal"
 	},
 	{
-		"uid": "stk_superhero_cape",
-		"id": "stk_superhero_cape",
+		"uid": "stk-superhero-cape",
+		"id": "stk-superhero-cape",
 		"name": "Siêu Anh Hùng",
 		"prompt": "Show the person in the photo with the exact same pose and background, but suit them up like a superhero in a blue and red outfit with a flowing cape while keeping their pose and framing identical.",
 		"productUrl": null,
@@ -409,8 +409,8 @@ var customPhotoboothFilters = [
 		"filterType": "normal"
 	},
 	{
-		"uid": "stk_spooky_ghost",
-		"id": "stk_spooky_ghost",
+		"uid": "stk-spooky-ghost",
+		"id": "stk-spooky-ghost",
 		"name": "Bóng Ma Nhỏ",
 		"prompt": "Show the person in the photo with the exact same pose, expression, and background, but subtly insert a realistic-looking ghost somewhere in the background. If no person is present, do not add any people to the output.",
 		"productUrl": null,
@@ -453,8 +453,8 @@ var customPhotoboothFilters = [
 		"filterType": "normal"
 	},
 	{
-		"uid": "stk_pirate_hat",
-		"id": "stk_pirate_hat",
+		"uid": "stk-pirate-hat",
+		"id": "stk-pirate-hat",
 		"name": "Mũ Cướp Biển",
 		"prompt": "Show the person in the photo with the exact same pose and background, but dress them like a pirate from Pirates of the Caribbean while keeping their pose and facial expression identical.",
 		"productUrl": null,
@@ -497,8 +497,8 @@ var customPhotoboothFilters = [
 		"filterType": "normal"
 	},
 	{
-		"uid": "stk_volcano_lava",
-		"id": "stk_volcano_lava",
+		"uid": "stk-volcano-lava",
+		"id": "stk-volcano-lava",
 		"name": "Núi Lửa Dung Nham",
 		"prompt": "Show the person in the photo with the exact same pose, background, and facial expression, but replace the ground with molten lava, glowing magma cracks, and volcanic sparks while keeping them rooted to the spot. If no face is present, do not show any people in the output, only ever show people who were in the original input image.",
 		"productUrl": null,
@@ -1454,10 +1454,10 @@ var customPhotoboothFilters = [
                 "type": "normal",
                 "filterType": "cutout",
                 "overlay": true,
-                "imageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_scrapbook_ripped_4cut.png",
-                "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_scrapbook_ripped_4cut.png",
-                "overlayImageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_scrapbook_ripped_4cut.png",
-                "overlayImageURL": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_scrapbook_ripped_4cut.png",
+                "imageUrl": "https://i.ibb.co/XRvL6gf/locket-vip-nghuyhoang31-workers-dev-assets-frames-ptb-scrapbook-ripped-4cut.png",
+                "iconUrl": "https://i.ibb.co/XRvL6gf/locket-vip-nghuyhoang31-workers-dev-assets-frames-ptb-scrapbook-ripped-4cut.png",
+                "overlayImageUrl": "https://i.ibb.co/XRvL6gf/locket-vip-nghuyhoang31-workers-dev-assets-frames-ptb-scrapbook-ripped-4cut.png",
+                "overlayImageURL": "https://i.ibb.co/XRvL6gf/locket-vip-nghuyhoang31-workers-dev-assets-frames-ptb-scrapbook-ripped-4cut.png",
                 "tintColor": "#D6A36A",
                 "colors": [
                         "#D6A36A",
@@ -1468,9 +1468,9 @@ var customPhotoboothFilters = [
                         "#FDE68A"
                 ],
                 "icon": {
-                        "url": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_scrapbook_ripped_4cut.png",
-                        "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_scrapbook_ripped_4cut.png",
-                        "remoteImage": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_scrapbook_ripped_4cut.png",
+                        "url": "https://i.ibb.co/XRvL6gf/locket-vip-nghuyhoang31-workers-dev-assets-frames-ptb-scrapbook-ripped-4cut.png",
+                        "iconUrl": "https://i.ibb.co/XRvL6gf/locket-vip-nghuyhoang31-workers-dev-assets-frames-ptb-scrapbook-ripped-4cut.png",
+                        "remoteImage": "https://i.ibb.co/XRvL6gf/locket-vip-nghuyhoang31-workers-dev-assets-frames-ptb-scrapbook-ripped-4cut.png",
                         "sfSymbol": "square.grid.2x2",
                         "symbol": "square.grid.2x2",
                         "emoji": ""
@@ -1502,10 +1502,10 @@ var customPhotoboothFilters = [
                 "type": "normal",
                 "filterType": "cutout",
                 "overlay": true,
-                "imageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_ripped_paper_4cut.png",
-                "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_ripped_paper_4cut.png",
-                "overlayImageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_ripped_paper_4cut.png",
-                "overlayImageURL": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_ripped_paper_4cut.png",
+                "imageUrl": "https://i.ibb.co/F4YZLRMS/locket-vip-nghuyhoang31-workers-dev-assets-frames-ptb-ripped-paper-4cut.png",
+                "iconUrl": "https://i.ibb.co/F4YZLRMS/locket-vip-nghuyhoang31-workers-dev-assets-frames-ptb-ripped-paper-4cut.png",
+                "overlayImageUrl": "https://i.ibb.co/F4YZLRMS/locket-vip-nghuyhoang31-workers-dev-assets-frames-ptb-ripped-paper-4cut.png",
+                "overlayImageURL": "https://i.ibb.co/F4YZLRMS/locket-vip-nghuyhoang31-workers-dev-assets-frames-ptb-ripped-paper-4cut.png",
                 "tintColor": "#EF4444",
                 "colors": [
                         "#EF4444",
@@ -1516,9 +1516,9 @@ var customPhotoboothFilters = [
                         "#FCA5A5"
                 ],
                 "icon": {
-                        "url": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_ripped_paper_4cut.png",
-                        "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_ripped_paper_4cut.png",
-                        "remoteImage": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_ripped_paper_4cut.png",
+                        "url": "https://i.ibb.co/F4YZLRMS/locket-vip-nghuyhoang31-workers-dev-assets-frames-ptb-ripped-paper-4cut.png",
+                        "iconUrl": "https://i.ibb.co/F4YZLRMS/locket-vip-nghuyhoang31-workers-dev-assets-frames-ptb-ripped-paper-4cut.png",
+                        "remoteImage": "https://i.ibb.co/F4YZLRMS/locket-vip-nghuyhoang31-workers-dev-assets-frames-ptb-ripped-paper-4cut.png",
                         "sfSymbol": "square.grid.2x2",
                         "symbol": "square.grid.2x2",
                         "emoji": ""
@@ -1550,10 +1550,10 @@ var customPhotoboothFilters = [
                 "type": "normal",
                 "filterType": "cutout",
                 "overlay": true,
-                "imageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_denim_ripped_2x2.png",
-                "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_denim_ripped_2x2.png",
-                "overlayImageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_denim_ripped_2x2.png",
-                "overlayImageURL": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_denim_ripped_2x2.png",
+                "imageUrl": "https://i.ibb.co/Y7TVLRvk/locket-vip-nghuyhoang31-workers-dev-assets-frames-ptb-denim-ripped-2x2.png",
+                "iconUrl": "https://i.ibb.co/Y7TVLRvk/locket-vip-nghuyhoang31-workers-dev-assets-frames-ptb-denim-ripped-2x2.png",
+                "overlayImageUrl": "https://i.ibb.co/Y7TVLRvk/locket-vip-nghuyhoang31-workers-dev-assets-frames-ptb-denim-ripped-2x2.png",
+                "overlayImageURL": "https://i.ibb.co/Y7TVLRvk/locket-vip-nghuyhoang31-workers-dev-assets-frames-ptb-denim-ripped-2x2.png",
                 "tintColor": "#38BDF8",
                 "colors": [
                         "#38BDF8",
@@ -1564,9 +1564,9 @@ var customPhotoboothFilters = [
                         "#93C5FD"
                 ],
                 "icon": {
-                        "url": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_denim_ripped_2x2.png",
-                        "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_denim_ripped_2x2.png",
-                        "remoteImage": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_denim_ripped_2x2.png",
+                        "url": "https://i.ibb.co/Y7TVLRvk/locket-vip-nghuyhoang31-workers-dev-assets-frames-ptb-denim-ripped-2x2.png",
+                        "iconUrl": "https://i.ibb.co/Y7TVLRvk/locket-vip-nghuyhoang31-workers-dev-assets-frames-ptb-denim-ripped-2x2.png",
+                        "remoteImage": "https://i.ibb.co/Y7TVLRvk/locket-vip-nghuyhoang31-workers-dev-assets-frames-ptb-denim-ripped-2x2.png",
                         "sfSymbol": "square.grid.2x2",
                         "symbol": "square.grid.2x2",
                         "emoji": ""
@@ -1598,10 +1598,10 @@ var customPhotoboothFilters = [
                 "type": "normal",
                 "filterType": "cutout",
                 "overlay": true,
-                "imageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/photoboot.png",
-                "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/photoboot.png",
-                "overlayImageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/photoboot.png",
-                "overlayImageURL": "https://locket-vip.mhiep20077.workers.dev/assets/frames/photoboot.png",
+                "imageUrl": "https://i.ibb.co/xKJPCYTs/locket-vip-nghuyhoang31-workers-dev-assets-frames-photoboot.png",
+                "iconUrl": "https://i.ibb.co/xKJPCYTs/locket-vip-nghuyhoang31-workers-dev-assets-frames-photoboot.png",
+                "overlayImageUrl": "https://i.ibb.co/xKJPCYTs/locket-vip-nghuyhoang31-workers-dev-assets-frames-photoboot.png",
+                "overlayImageURL": "https://i.ibb.co/xKJPCYTs/locket-vip-nghuyhoang31-workers-dev-assets-frames-photoboot.png",
                 "tintColor": "#FF758C",
                 "colors": [
                         "#FF758C",
@@ -1612,9 +1612,9 @@ var customPhotoboothFilters = [
                         "#FF7EB3"
                 ],
                 "icon": {
-                        "url": "https://locket-vip.mhiep20077.workers.dev/assets/frames/photoboot.png",
-                        "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/photoboot.png",
-                        "remoteImage": "https://locket-vip.mhiep20077.workers.dev/assets/frames/photoboot.png",
+                        "url": "https://i.ibb.co/xKJPCYTs/locket-vip-nghuyhoang31-workers-dev-assets-frames-photoboot.png",
+                        "iconUrl": "https://i.ibb.co/xKJPCYTs/locket-vip-nghuyhoang31-workers-dev-assets-frames-photoboot.png",
+                        "remoteImage": "https://i.ibb.co/xKJPCYTs/locket-vip-nghuyhoang31-workers-dev-assets-frames-photoboot.png",
                         "sfSymbol": "square.grid.2x2",
                         "symbol": "square.grid.2x2",
                         "emoji": ""
@@ -1637,8 +1637,8 @@ var customPhotoboothFilters = [
                 "try_button_enabled": true
         },
         {
-                "uid": "sticker_b_nh_lu_n_minh_tu",
-                "id": "sticker_b_nh_lu_n_minh_tu",
+                "uid": "sticker-minhtue",
+                "id": "sticker-minhtue",
                 "name": "Trend Tíc Tóc",
                 "category": "Frames",
                 "prompt": "sticker_b_nh_lu_n_minh_tu",
@@ -1646,10 +1646,10 @@ var customPhotoboothFilters = [
                 "type": "normal",
                 "filterType": "cutout",
                 "overlay": true,
-                "imageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/sticker_b_nh_lu_n_minh_tu.png",
-                "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/sticker_b_nh_lu_n_minh_tu.png",
-                "overlayImageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/sticker_b_nh_lu_n_minh_tu.png",
-                "overlayImageURL": "https://locket-vip.mhiep20077.workers.dev/assets/frames/sticker_b_nh_lu_n_minh_tu.png",
+                "imageUrl": "https://i.ibb.co/fY7dmxR0/locket-vip-nghuyhoang31-workers-dev-assets-frames-stk-minhtue.png",
+                "iconUrl": "https://i.ibb.co/fY7dmxR0/locket-vip-nghuyhoang31-workers-dev-assets-frames-stk-minhtue.png",
+                "overlayImageUrl": "https://i.ibb.co/fY7dmxR0/locket-vip-nghuyhoang31-workers-dev-assets-frames-stk-minhtue.png",
+                "overlayImageURL": "https://i.ibb.co/fY7dmxR0/locket-vip-nghuyhoang31-workers-dev-assets-frames-stk-minhtue.png",
                 "tintColor": "#FF758C",
                 "colors": [
                         "#FF758C",
@@ -1660,9 +1660,9 @@ var customPhotoboothFilters = [
                         "#FF7EB3"
                 ],
                 "icon": {
-                        "url": "https://locket-vip.mhiep20077.workers.dev/assets/frames/sticker_b_nh_lu_n_minh_tu.png",
-                        "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/sticker_b_nh_lu_n_minh_tu.png",
-                        "remoteImage": "https://locket-vip.mhiep20077.workers.dev/assets/frames/sticker_b_nh_lu_n_minh_tu.png",
+                        "url": "https://i.ibb.co/fY7dmxR0/locket-vip-nghuyhoang31-workers-dev-assets-frames-stk-minhtue.png",
+                        "iconUrl": "https://i.ibb.co/fY7dmxR0/locket-vip-nghuyhoang31-workers-dev-assets-frames-stk-minhtue.png",
+                        "remoteImage": "https://i.ibb.co/fY7dmxR0/locket-vip-nghuyhoang31-workers-dev-assets-frames-stk-minhtue.png",
                         "sfSymbol": "heart.fill",
                         "symbol": "heart.fill",
                         "emoji": ""
@@ -1694,10 +1694,10 @@ var customPhotoboothFilters = [
                 "type": "normal",
                 "filterType": "cutout",
                 "overlay": true,
-                "imageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/cmt_locket.png",
-                "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/cmt_locket.png",
-                "overlayImageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/cmt_locket.png",
-                "overlayImageURL": "https://locket-vip.mhiep20077.workers.dev/assets/frames/cmt_locket.png",
+                "imageUrl": "https://i.ibb.co/nMGXpQSn/locket-vip-nghuyhoang31-workers-dev-assets-frames-stk-cmt-locket.png",
+                "iconUrl": "https://i.ibb.co/nMGXpQSn/locket-vip-nghuyhoang31-workers-dev-assets-frames-stk-cmt-locket.png",
+                "overlayImageUrl": "https://i.ibb.co/nMGXpQSn/locket-vip-nghuyhoang31-workers-dev-assets-frames-stk-cmt-locket.png",
+                "overlayImageURL": "https://i.ibb.co/nMGXpQSn/locket-vip-nghuyhoang31-workers-dev-assets-frames-stk-cmt-locket.png",
                 "tintColor": "#FF758C",
                 "colors": [
                         "#FF758C",
@@ -1708,9 +1708,9 @@ var customPhotoboothFilters = [
                         "#FF7EB3"
                 ],
                 "icon": {
-                        "url": "https://locket-vip.mhiep20077.workers.dev/assets/frames/cmt_locket.png",
-                        "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/cmt_locket.png",
-                        "remoteImage": "https://locket-vip.mhiep20077.workers.dev/assets/frames/cmt_locket.png",
+                        "url": "https://i.ibb.co/nMGXpQSn/locket-vip-nghuyhoang31-workers-dev-assets-frames-stk-cmt-locket.png",
+                        "iconUrl": "https://i.ibb.co/nMGXpQSn/locket-vip-nghuyhoang31-workers-dev-assets-frames-stk-cmt-locket.png",
+                        "remoteImage": "https://i.ibb.co/nMGXpQSn/locket-vip-nghuyhoang31-workers-dev-assets-frames-stk-cmt-locket.png",
                         "sfSymbol": "heart.fill",
                         "symbol": "heart.fill",
                         "emoji": ""
@@ -3274,7 +3274,7 @@ var customPhotoboothFilters = [
                 "iconUrl": "https://uplocket.io.vn/uploads/stickers/stk_dio_disco.png",
                 "referenceImages": [],
                 "requires_gold": false,
-                "requiresGold": false,
+                 "requiresGold": false,
                 "is_gold": false,
                 "isGold": false,
                 "unlocked": true,
@@ -4042,30 +4042,30 @@ var customPhotoboothFilters = [
 	{
 		"id": "group_hot_ai_3d",
 		"title": {
-			"en": "Hiệu Ứng AI 3D Hot 🔥",
-			"vi": "Hiệu Ứng AI 3D Hot 🔥"
+			"en": "Hiệu Ứng AI 3D Hot 🔥 nghuyhoang.31",
+			"vi": "Hiệu Ứng AI 3D Hot 🔥 nghuyhoang.31"
 		},
 		"filterIds": [
-						"stk_rose_flower",
-						"stk_shrek_ogre",
-						"stk_superhero_cape",
-						"stk_spooky_ghost",
-						"stk_pirate_hat",
-						"stk_volcano_lava",
-						"stk_rain_storm",
-						"stk_fortnite_llama",
-						"stk_watercolor_art",
-						"stk_golden_hour",
-						"stk_jungle_leaf",
-						"stk_cute_zombie",
-						"stk_fireworks",
-						"stk_new_year_2026",
-            "stk_harry_potter",
-            "stk_minecraft",
-            "stk_fire_flame",
-            "stk_giant_spider",
-            "stk_ocean_underwater",
-            "stk_ufo_alien"
+						"stk-rose-flower",
+						"stk-shrek-ogre",
+						"stk-superhero-cape",
+						"stk-spooky-ghost",
+						"stk-pirate-hat",
+						"stk-volcano-lava",
+						"stk-rain-storm",
+						"stk-fortnite-llama",
+						"stk-watercolor-art",
+						"stk-golden-hour",
+						"stk-jungle-leaf",
+						"stk-cute-zombie",
+						"stk-fireworks",
+						"stk-new-year-2026",
+            "stk-harry-potter",
+            "stk-minecraft",
+            "stk-fire-flame",
+            "stk-giant-spider",
+            "stk-ocean-underwater",
+            "stk-ufo-alien"
 ],
 		"filter_ids": [
 						"stk_rose_flower",
@@ -4101,8 +4101,8 @@ var customPhotoboothFilters = [
         {
                 "id": "group_photobooth",
                 "title": {
-                        "en": "Khung & Photobooth 📸",
-                        "vi": "Khung & Photobooth 📸"
+                        "en": "Khung & Photobooth 📸 nghuyhoang.31",
+                        "vi": "Khung & Photobooth 📸 nghuyhoang.31"
                 },
                 "filterIds": [
 						"stk_rose_flower",
@@ -4166,8 +4166,8 @@ var customPhotoboothFilters = [
         {
                 "id": "group_frames",
                 "title": {
-                        "en": "Khung Viền & Hot Trend 🖼️",
-                        "vi": "Khung Viền & Hot Trend 🖼️"
+                        "en": "Khung Viền & Hot Trend 🖼️ nghuyhoang.31",
+                        "vi": "Khung Viền & Hot Trend 🖼️  nghuyhoang.31"
                 },
                 "filterIds": [
 						"stk_rose_flower",
