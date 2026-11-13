@@ -5,5 +5,6699 @@
 // Tác giả: @nghuyhoang.31
 // Vui lòng khi chia sẽ hoặc lấy về, làm ơn để nguồn giúp mình. Mình cảm ơn
 // ============================================================
-
-var _0x16392a=_0x9563;(function(_0xa82fa0,_0x397e95){var _0x17c0c0=_0x9563,_0x2ee07f=_0xa82fa0();while(!![]){try{var _0xa8b214=parseInt(_0x17c0c0(0x713))/(0x3f5*0x6+0x25*-0xe5+0x257*0x4)*(-parseInt(_0x17c0c0(0x4b3))/(-0x12e+0x967*0x3+-0x1b05))+parseInt(_0x17c0c0(0x466))/(-0x3e7+0x209a*-0x1+0x2484)*(parseInt(_0x17c0c0(0x8ce))/(0x10f9+0x751+-0x1846))+parseInt(_0x17c0c0(0xb62))/(0x25*-0x7d+-0x1579+0x278f)*(-parseInt(_0x17c0c0(0x787))/(-0x53*0x39+0xca*-0x4+0x15a9*0x1))+parseInt(_0x17c0c0(0x50c))/(-0x2c3+0x13c7*0x1+-0x10fd)*(parseInt(_0x17c0c0(0xc03))/(-0x49*0x7+-0x1463+-0x26*-0x97))+-parseInt(_0x17c0c0(0x864))/(0x1867+-0x233f+-0x1*-0xae1)*(parseInt(_0x17c0c0(0x8f5))/(0x2*0xc7a+-0x336+-0x15b4))+parseInt(_0x17c0c0(0x1fa))/(-0x26f2+-0x47*0x47+0x206*0x1d)*(-parseInt(_0x17c0c0(0xba8))/(-0x12*-0x7+-0x25b3+-0x231*-0x11))+-parseInt(_0x17c0c0(0xd71))/(0x23c2+0x2197*-0x1+-0x10f*0x2)*(-parseInt(_0x17c0c0(0x43e))/(0x172c+0x1*0x1de9+-0x19*0x21f));if(_0xa8b214===_0x397e95)break;else _0x2ee07f['push'](_0x2ee07f['shift']());}catch(_0x59e5a8){_0x2ee07f['push'](_0x2ee07f['shift']());}}}(_0x196f,0x3239f+0x3*-0x8307+0x1721));var ua=$request[_0x16392a(0xb55)][_0x16392a(0x805)]||$request[_0x16392a(0xb55)][_0x16392a(0xbb7)]||'',obj=JSON[_0x16392a(0x664)]($response[_0x16392a(0x422)]);function _0x196f(){var _0x2525f9=['n\x20bè\x20lác\x20m','m\x20phiền\x20th','th\x20of\x20fiel','nt,\x20do\x20not','#C5B5E8','/jKae4Rkw.','aribbean\x20w','đúng\x20là\x20hế','#F1C0D2','Check\x20VAR\x20','#FF8A5B',',\x20subtle\x20m','#E0E7FF','rk.circle.','#CDB4DB','Mong\x20tôn\x20h','group_fram','orage.goog','ng\x20their\x20p','location','sent,\x20do\x20n','_thoi','#00F2FE','\x20night\x20sky','#E9CDE0','i_roi','https://ti','movie.\x0a\x0aFo','#EBCFDF','m.com/nghuyhoang.31','ow\x20people\x20','Fortnite.\x20','ì\x20chưa\x20ngư','óng','\x20Lồ','caption:ae','\x20style\x20of\x20','#38BDF8','m_nay_toi_','ople\x20as\x20Mi','poll','but\x20transf','Giờ\x20mua\x20sắ','#D2E8C9','am_cam_nhe','\x20m\x20ơi\x20:))','#405D70','#FFFFFFE6','#FFB7C5','#8C1938','Xin\x20chào\x202','e\x20output,\x20','parkles','#F07167','\x0a\x0aThe\x20flam','caption:ra','ong_tuong','erred','ộc\x20thân\x20tì','ùm\x20cái','Happy\x20New\x20','dự\x20án\x20ma','#F8D0D8','#D8C6E5','cket\x20đi\x20ba','#C0B7E5','/ERSGe9wZ.','Khung\x20Viền','Đi\x20chơi\x20kh','#203A43','\x20🥲','🏃💨','fed\x20sleeve','n_ha','y\x20đi','#F8D5D9','n_thua','#C9D9F0','vibe\x20này\x20k','en_anh','blank','Nhớ\x20follow','static_con','người\x20vui\x20','Ngủ\x20ngon','Ngọn\x20Lửa\x20R','otion\x20blur','#F3D9C5','d,\x20but\x20mak','#593744','caption:ng','\x20glowing\x20m','_tho_cuoi','í\x20tụt\x20quần','Tiền\x20đâu\x20m','pb_denim_r','một\x20niềm\x20v','Họ\x20thương\x20','_an','#FF6EC7','🎨\x20Decorati','o_nghi_lam','oughts\x20🌙','pastel_vie','th\x20thin\x20sh','🎨\x20Tâm\x20trạn','\x20image.','caption:oa','#FFD1FF','ercent','#39204F','\x20nha,\x20chụp','chịu\x20ngủ','nd\x20creatin','ả\x20đời','t\x20down\x20if\x20','hôm\x20nay\x20cũ','#D0E4FF','ake.fill','d\x20any\x20peop','le\x20to\x20the\x20','braces','crown.fill','m\x20Sét','al\x20input\x20i','i\x20là\x20xong',',\x20chỉ\x20khôn','#A0C4FF','#928DAB','ay_ngay_di','lm_diary',',\x20Học\x20hành','Mixue\x20Time','#636363','#EBCBD8','itial\x20imag','.profile','c_lap_tai_','he\x20output.','iews.png','i_gay_luon','ody.\x20Keep\x20','#AAB4BE','ngao','ai_se_nhu','#2980B9','ent','#B8F3FF','ay_rua_fen','Chụp\x20một\x20p','h.09\x20✨','time','hief','snowflake','#52B69A','t\x20peeking\x20','y_ai','g\x20Heights\x20','oai_le_cua','ring\x20a\x20rob','scooped\x20ne','is\x20present','entical.','t\x20nói\x20nổi','#F2AFC6','normal','\x20&\x20Hot\x20Tre','ong_vua_lo','caption:ua','opping_tim','tie_pie','mượn?','giraffe','#D5A64B','rep','g\x20and\x20back','\x20people\x20in','a_chiu_ngu','ople\x20in\x20th','Phụ\x20tình\x20k','i_xong_lun','m_lanh','haracter\x20f','y_2027','o\x20the\x20spot','hem\x20into\x20a','Không\x20Gian','-chan-1.pn','ed\x20in\x20fron','#F6D9D0','hông','#DFD8C8','#FF638B','ppear\x20as\x20a','đừng\x20im\x20lặ','background','/q4nXD6Jo.','#EC4899','áp\x20lực','#FDE68A','đã\x20đến\x20lúc','Khung\x20Hell','Cả\x20ổ\x20rắn\x20đ','got\x20Robbie','lo_ca_nha_','game,\x20simi','1020','_khong_thu','w_years_da','#4C385C','love_you','rồi','anh','s\x20in\x20the\x20o','#71465D','_art','ce\x20is\x20pres','ing.\x20Keep\x20','ite\x20core,\x20','bolt.badge','Ra\x20đường\x20n','Cảm\x20lạnh','#D94A77','arance','#7888BD','cũng\x20có','1Dzzy/Shin','re-breathi','eet_dream','ng\x20from\x20in','o_thi_nho','as\x20a\x20safe\x20','có\x20tiền\x20th','oi_sinh','but\x20suit\x20t','t\x20loại\x20tài','#a94770','#E5A642','ưng\x20mua\x20đư','trêu\x20bạn','/itGU69Tn.',',\x20tài\x20lanh','\x20believabl','ached','tui\x20hơn\x20hẳ','o\x20the\x20outp','entries','đã\x20xem,\x20ch','#E8CFF0','#9B8AFB','caption:so','Women:\x20Dre','ội\x20tụ','\x20like\x20it\x20w','icators/ha','#FF9AA2','#A2AB58','#b3001e','#405340','ong_ai_cun','ai\x20sợ\x20thì\x20','#F6BFA6','ơng\x20em\x20thi','ge\x20quality','Khung\x20&\x20Ph','#D9E9EF','#E0E5E3','i_hay_noi','o_khong_tr','Bạn\x20bè\x20đan','ui\x20của\x20mìn','Cảm\x20thấy\x20h','o_gi_da','ose,\x20expre','wallet.bif','ume','disco_ligh','_ba_khi_ch','rọng\x20lắm?','ksgiving!','ng\x20ngược','with\x20the\x20e','#E9B9C5','yet_khong_','ghét\x20đứa\x20k','roi','cutesy','one','phim_1','ush_nhin','theo\x20=))','sos','#D4C6F0','andard','\x20single\x20ro','#7D9EAB','\x20in\x20the\x20us','ing\x20or\x20bus','caption:de','ok_ripped_','\x20facial\x20ex','the\x20origin','gấc\x20buồn\x20n','/gphwGSQG.','#F6A53A','ar_assets/','nghuyhoang.31','d\x20should\x20r','5837yfzWKj','thôi\x20thì\x20m','\x20vậy\x20á','#F4E1C5','/KKHQjVIP.','\x20from\x20Mine','deadline\x20d','\x20undershir','Practical\x20','Đời\x20thường','e\x20long\x20puf','t\x20add\x20any\x20','bearded','TIẾP','\x20to\x20the\x20ou','#704A36','outh\x20area\x20','\x20mật\x20thì\x20c','#47616B','#EACBC1','ime!','#1CB5E0','o_kitty_ho','Nhìn\x20là\x20bi','mat_chuoi','iginal\x20inp','y\x20kìa\x20💛','#D9B9D0','#2C5E8F','distance,\x20','#35564F','_v_sao','#6C757D','#205953','to,\x20only\x20s','/77T1zXKS.','#B5FFFC','#26A69A','caption:oo','rstyle,\x20bu','ather','hóa\x20ra\x20tưở','rry','ogwarts','ý\x20là\x20mệt\x20á','eeping\x20the','_lam_vi_da','w.instagra','trời\x20mưa..','#cfedfc','#EDF6F9','ì\x20lạ','#713D20','#FF69B4','#EDE8F5','c_nao_co_t','ackground,','a\x20pirate\x20f','caption:2a','\x20sai,\x20tại\x20','#593B68','nghuyhoang.31','#ECEFF1','#EA580C','ang_that_r','#2C3E50','ng\x20tượng','#FFAB40','#D8D5F0','n\x20phím\x201','#FFFDD0','em\x20nhớ\x20anh','_sen','me!','#F0B5CA','#FF1493','ith\x20the\x20ex','400000000','xĩu\x20dọc','\x20nhân','ng_gio_phu','#394713','ose\x20and\x20fa','#FFB6C1','nh\x20cưới\x20nh','ot\x20include','t,\x20suspend','.\x20If\x20no\x20fa','ện\x20tiếp','#58151B','as\x20created','_cung_khac','ất\x20chill','lloween_in','nema_time','\x20uống\x20nào!','#E2F0B0','g_co','#0F172A','#C8E6C9','_don','r_assets/h','\x20backgroun','sheer\x20bill','not\x20change','ysical\x20fea','caption:pi','cting\x20colo','color_pale','i_di_a','m_nay_slay','#C9D5EE','hoan','trừ\x20điểm\x20a','person\x20is\x20','\x20not\x20chang','hong\x20ạ','#E9C2D5','#F0B6A8','#FFC4D6','aps,\x20a\x20wid','h\x20a\x20bright','\x20people\x20to','không\x20nghe','D\x20ALL\x20FEAT','h_pastel','ng\x20vai\x20chư','/locket-pu','en_dau_ma_','#B9A5FF','ckground,\x20','#E1BEE7','\x20shape\x20fro','e\x20blocks\x20a','thw','\x20nhưng\x20lòn','ing\x20in\x20the','i_song_the','paintpalet','uoi_vui_nh','cash_money','ng_xem','me\x20effect\x20','tatted','#F6D0B2','cket_cuti','Chờ\x20anh\x20ch','#59476F','#6F9C84','t-img','always_ena','ng_choc_be','ter.\x20If\x20no','group_misc','#C77D78','aracters.\x20','_chan','nói\x20chuyện','a\x20ai\x20nấy\x20h','#F7253E','ong_nghe','remote','t_minh','oách\x20xà\x20lá','11671wmyncC','#ADB5BD','#70445A','but\x20have\x20t','\x20present,\x20','streak_con','bé\x20hông\x20có','#F5E7CC','o\x20not\x20add\x20','#FFF0F3','caption:qu','g\x20ngóng\x20mà','le.fill','#83C5BE','#A5D6A7','#3B5BDB','ơi\x20thở\x20cuố','en_dau','#C9E8E9','#633F13','y\x20Ngọt\x20Ngà','nhiệm\x20vụ\x20c','#294B42','setup_read','ì\x20cái\x20này\x20','#4ADEDE','/sKn1mwH3.','#C7D5ED','group_appe','thân\x20ai\x20nấ','#702B16','#FF8E53','#434343','caption:la','#70243D','🛍️','rời\x20màu\x20dạ','fantasy\x20fi','i_roi_toi_','good_morni','#F3B6AF','#5C6BC0','4cut','#818CF8','#FFE0A3','hong_ua','to\x20the\x20pho','nghe\x20chơi','#633F59','no\x20face\x20is','#2539B6','#81C784','#D8C6E8','#91643E','#C7C7DF','\x20in\x20the\x20in','ublic/jour','có\x20ra\x20dại\x20','e\x20a\x20video\x20','h\x20a\x20high-g','#65d9fc','/A7XjgjXm.','#4CA1AF','\x20ever\x20show','Trang\x20phục','691200','Locket\x20Tim','ing','appearing\x20','#634044','#A9B8E8','#E09F3E','caption:ov','brain.head','\x20cứu','lightbulb.','\x20ôm\x20nỗi\x20bu','#7C3AED','hết\x20cứu\x20th','#C0394B','ho\x20ăn','xúc','toothless','#FFC107','#E0F7FA','#DCD6EC','thương\x20ngư','o_hun_mien','ng\x20Nham','\x20their\x20hai','ura','#00A896','#F3E5F5','i\x20ngủ','seal.fill','#B7E4C7','#5D472B','ithin\x20the\x20','hương\x20mình','\x20the\x20photo','i_mot_minh','#D3D0E8','Locket\x20tuy','#FDA085','tieu','#5F4C70','hay\x20hết\x20th','Bất\x20lực','pastel','#C77F9B','skirt\x20that','hrek','🌟🫶🌟','đêm\x20nay\x20ai','t_duyen_he','eaking_new','i\x20rồi','smoke\x20inha','#D6E6D7','ng_pastel','#DBDBDB','_vong','#414345','#C47C89','slimed','\x20tiền\x20thì\x20','#fce03f','Happy\x20Than','#C17F72','girl','Christmas\x20','caption:em','split','#B0BEC5','đời\x20cho\x20gì','at_thi_co_','/YYMilOf6.','streak','t\x20of\x20the\x20m','#D7C7E6','#2193B0','#454660','#812626','lement\x20cap','nang','caption:ne','m_thoughts','pression,\x20','ground.','caption:el','#2C2C2E','Bùng\x20nổ','caption:th','#F6B6C8','et-inspire','\x20identical','caption:sh','#FFD166','#F2B5A7','_vu','Show\x20no\x20ex','có\x20tài\x20ghê','/p4ARtqG1.','#FF4D6D','\x20an\x20lành','l\x20💅','#FC5C7D','_tay_van_o','phien_thie','d.fill','rush\x20strok','iữ\x20chuỗi\x20n','m\x20sunlight','#BEDCEB','stic\x20spide',',\x20do\x20not\x20s','#FF9A9E','questionma','caption:ye','#E9D9EF','round\x20surr','caption:ho','#ED213A','#713F40','Đi\x20làm\x20vì\x20','w_years_ev','#70454D','off','O\x20hovering','offline\x20để','Black\x20Frid','#1C1C1E',',\x20bà\x20chã\x20h','#F8D9A0','on.max.fil','ưa\x20rep,\x20đã','#DCCCF0','yen','#24563A','Kể\x20chuyện\x20','#FFB74D','#FF8FAB','ên\x20dương\x20b','input\x20imag','#604D6C','#F5D9A9','c_so_tai_k','#AFC6D8','🗳️','#FFEDBF','Cứ\x20từ\x20từ\x20k','nh_gai_an_','về\x20kể\x20kh\x20a','\x20🫠','rangers','\x20gu\x20của\x20tấ','old.fill','#F0FFF1','#8EACCD','#FFF0BF','đam\x20mê','ear','#EAC7D8','eflective,','mai\x20tính,\x20','Tiền\x20đình','iệt\x20chứ','#F2C4B6','true','he\x20same\x20po','/bjXF2O5d.','ly_huong','Mắc\x20cỡ\x20quá','sinh_nhat_','#E9C6DB','ssion,\x20and','#66BB6A','#F27121','alter\x20the\x20','pb_vintage','ose\x20and\x20fr','/RAOMbtpc.','#F5D5B6','#F3B9A9','#F4A7C3','n_lui_duoc','#06B6D4','round,\x20and','camera.fil','#505571','m\x20Cá\x20Tính','#F1BDD0','☕🌧️','Cười\x20vcl\x20m','tput.','#86A873','r\x20mouth.\x20I','#64E8C8','#D8B4F8','#EC407A','🏳️','o_bao_tri','một\x20chút\x20h','tire\x20scene','#EAC8D9','uyệt\x20vời','caption:he','c_bay_tinh','hoai\x20sẽ\x20nh','Gián\x20đáng\x20','caption:vl','.png','ai\x20cũng\x20có','#EFC8B1','hello_kitt','sít\x20rịt','utput\x20imag','e\x20of\x20one\x20o','#A8B4C9','ndicator%4','#78A77E','\x20forming\x20a','ose\x20and\x20ba','#124559','\x20themselve','d,\x20but\x20ren','#DED0E0','ng.fill','\x20rồi','tui','the\x20effect','lơ\x20🤡','Tranh\x20Màu\x20','hile\x20keepi','_2026','bạn\x20mình\x20n','#FFEB3B','c_met','rson\x20is\x20pr','Ngôi\x20Sao\x20H','e\x20who\x20were','ller.fill','e\x20look\x20lik','cloud_cove','ua_du_wow','c_co_qua','Mood:\x20Chil','#C4D9CB','lentines_i','Ngày\x20mới\x20v','group_even','Minecraft\x20','ong_ghet_k','#3B00EC','#FF4B2B','.fill','#FFF9C4','#49664E','how\x20any\x20pe','#D5D0E8','hỉ\x20buồn','photoboot','caption:bu','Gục\x20ngã','https://pu','ăm\x20chã\x20húi','#D8C8E8','lor_palett','Chê\x20mạnh','hà\x20iu','#BBC3DD','#D5D9EF','quao','#D1E8C9','ero\x20in\x20a\x20b','_ghe','t_nuoc_mat','#29485D','\x204\x20ô','nd\x20with\x20mo','frosty','n\x20online','#F1C6B8','i\x20mức\x20hơi\x20','#F8DCE5','#84CC16','unding\x20env','ai_oi','🕯️','\x20năng','#15803D','caption:nh','leapis.com','#704B48','y\x20em\x20cute\x20','/IlejAWVQ.','🇺🇸','\x20exact\x20pos','\x20Eve','Giờ\x20Mixue!','ai_3d','staged\x20per','a_nay_tu_l','fireworks','ney_cutout','Wedding\x20Ti','tumn_2026','caption:cr','d\x20gown\x20wit','iu\x20hong','_cha_hui','#3498DB','điện\x20ảnh','_cuu_tui','Nấu\x20xói','#F6D2C2','t,\x20only\x20ev','#BCC5D6','ss\x20them\x20in','nh_dep_tuy','the\x20framin','không\x20ghét','y_ra_de_qu','\x20and\x20refle','#E7C9DF','look\x20natur','Mình\x20là\x20lố','mày\x20lắm\x20đó','#BFA06A','mohawk','only\x20ever\x20','#526C9E','Giờ\x20uống\x20c','#704D35','#B8F2E6','#12383D','lại\x20tự\x20mìn','#283593','but\x20as\x20if\x20','ục\x20đích\x20th','#2C5364','_com_chua','d_welcome_','okay_wig','\x20the\x20outpu','u_ngang','#F8D7A7','ùa\x20Thu','보고\x20싶어\x20🥺','#55CDB5','dify\x20the\x20p','sơ\x20hở\x20là\x20b','Luôn\x20vui\x20t','\x20as\x20a\x20wate','iny_day','leaf.fill','otobooth\x20📸','Hên\x20lắm\x20mớ','không','\x20Pastel','liền','caption:iu','#6B5148','tures,\x20bod','#F5B91E','nite','#6D5140','Chan\x20bố\x20mà','Dễ\x20thương','\x20lý\x20hương','#D7DEEA','#C7DCE8','ing\x20cape\x20w','#A9C1D9','#373653','nh_luan_mi','Phù\x20Thủy\x20H','#104B45','\x20Đới','Eve','#3A1C71','u_anhhh','#E5CFF0','#C4DFD6','mera\x20look.','group_holi','/E84woLlh.','influencer','Xong\x20rồi\x20n','#FFC64B','ệt\x20hong','#EFEBE9','subject\x20as','có\x20nhớ\x20ngư','khung_hell','\x20and\x20long\x20','#8CA6B8','não\x20đang\x20b','#D5D8FF','an_dang_iu','Nơ\x20Pastel\x20','ê\x20nha\x20má','#FF7A59','ote','#DCE5D1','th\x20the\x20fla','#E3D2E4','_tai_tai_l','Sao\x20Vàng\x20X','caption:tu','#29346F','huyện\x20nữa\x20','re\x20scene\x20l','ng_no','iem_vu_di_','#064D43','#A8E6CF','Frames','llo_kitty','star_sign','#D66F78','ấy,\x20không\x20','/3lS0E28Z.','Dress\x20the\x20','sparkles','#F8E2BE','#719BAA','🕶️','/Ca6bMpOL.','scene\x20look','pb_ripped_','#5A4366','i_let_luon','êng\x20bạn\x20th','sống\x20sao\x20c','\x20hai\x20ơi','input,\x20do\x20','#672812','Mắc\x20bẫy\x20tì','caption:xi','.\x20If\x20no\x20pe','siêu\x20cấp\x20b','https://ww','#E11D48','group_hot_','tly\x20insert','#70C1B3','y\x20cảnh\x20này','#D2C6EA','is\x20corset-','#51566D','ound\x20from\x20','nào\x20không\x20','#426450','\x20visible\x20b','w\x20any\x20peop','mới\x20đi\x20á','#651515','#D8EAD8','🎨\x20Daily\x20&\x20','#E0F2F1','caption:ti','#F5F5F0','ar_sign','oan_xinh_i','đừng\x20có\x20là','caption:al','shield.fil','á\x20m\x20ơi','#80CBC4','t\x20was\x20rend','#6A503B','caption:sw','#FF9F1C','Feeling\x20Cu','y_on_backg','spooky_gho','ực\x20Rỡ','o_anh_chut','Miss\x20you','Chất\x20rắn','nghe','#4F5879','_choi_khon','#FF3B5C','u_cuc_dang','/BK4BNlDb.','ic-looking','#F0C58E','caption:br','#000000','star_sign_','body','ngoan\x20xinh','mage.','Thank\x20You\x20','d,\x20but\x20sub','#F7971E','🗡️','#D1D8EA','ack_friday','cket_time','i_dep','Hài\x20hước','òi\x20ai\x20cứu\x20','ill','ernate','n_xanh_xin','Locket','false','g\x20thiên\x20hạ','includes','#1A1A1A','m\x20bé\x20quạo','#B8A1D9','ake_vibes','#6A4549','#FAD0C4','#F9F7A8','beard','12824jNIjUo','.rain.fill','i\x20tin\x20:))','#F7DFCA','#D8C8F4','\x20with\x20the\x20','\x20đi\x20🫶','but\x20show\x20a','Ăn\x20cơm\x20chư','#F08A8E','_promos/go','#176B3A','#EAAFC8','ewhere\x20in\x20','#8E2430','t\x20mình','10\x20điểm\x20kh','_o_ran_doc','#80D8FF','g\x20their\x20po','tten_islan','nay\x20ngủ','#D2B48C','#454545','T23:59:59','_doi_trai','#B7E4A8','#704510','#FFFFFFE5','orm\x20them\x20i','ong_van_de','ipped_2x2','caption:di','standard','URES','#70401F','r\x20perched\x20','#C9CDE2','frame_clas','✨️⭐️✨','201fvYyoA','ien_thi_mo','thế\x20mà\x20lại','#5EFFF5','h_con_tuon','#C45D69','caption:mo','🍽️','đời\x20sai','#6366F1','yet_doi_di','ớng','caption:ga','\x20Cute','moon.zzz.f','e_manh','qua','bowling_ba','ều\x20hành\x20lạ','ảo\x20trì','#694F40','tra\x20overla','caption:y_','en_oiiii','#16213E','do\x20not\x20sho','caption:ci','dicators/s','tiền\x20không','#654B69','\x20almost\x20li','ct\x20same\x20po','minimum_re','mê\x20anh\x20hơn','t_tien_vi_','Deadline\x20d','sf_symbol','côn\x20viên\x20l','#1A1A2E','uá\x20đi\x20mất','i_cong_chu','\x20theatrica','n\x20the\x20orig','ep\x20the\x20pos','\x20nhận\x20bạn\x20','Bóng\x20Ma\x20Nh','caption:bo','#624736','nt\x20in\x20the\x20','on\x20them\x20so','oi_mua','#FCE7F3','#1B5E20','ered\x20insid','ile\x20keepin','clearToken','#FF512F','_chuyen_ng','#93291E','caption:to','od_morning','tent','cation','#FFD49B','illing_tim','hday','#F37335','hem\x20with\x20a','erson\x20in\x20t','owing\x20whit','line,\x20and\x20','t-video','Người\x20im\x20l','s,\x20and\x20vol','tures\x20and\x20','e\x20should\x20a','lten\x20lava,','203074bjSwJo','#263238','i_deo_ma','#0F2027','#704B59','g.png','#FF6B6B','#E2CBE6','#FFC2D1','#FF8C42','Veterans','#FF6F91','la_met','#FFB36B','#1A2980','ình\x20lại\x20mộ','ôm\x20nay:\x20nằ','bled','#E2E9BD','jury,\x20pain','#6E4254','#D62828','\x20nhận\x20nấy,','#E2D7E8','bye_brows','ocean_unde','#8B5CF6','✨⚡️😱⚡✨','#315847','#EAB308','he\x20scene\x20w','#150804','mà\x20giỡn\x20🤨','ted\x20tightl','Phụ\x20huynh\x20','d,\x20and\x20ima','face.smili','#E6C8E7','dangiu','0.8','#FFE4EC','hôm\x20nay\x20tô','_san_san','ound.\x20If\x20n','#545677','#FF6B81','uch\x20as\x20the','Sò\x20Hải\x20Cẩu','_duong_ne_','Có\x20tiền\x20là','#C9CEE3','nukkah_202','Một\x20ngày\x20r','0.6','#FFCA70','group_phot','out\x20from\x20b','caption:et','ien\x20somewh','Potter\x20wea','igns','ãn!','h_phuc','#9C27B0','#F6D0DF','\x20on\x20top\x20of','looks_maxx','ex_den_hoi','pin\x20người\x20','🎨\x20Deadline','#78A9F5','Dinner\x20Tim','caption:go','t_patricks','T00:00:00','#11998E','#FF493F','ực\x20Cháy','princess','Này\x20là\x20hết','on_duoc_om','Party\x20Time','tcamera.co','wali_2026','on\x20is\x20pres','không\x20phải','golden_hou','#E0CDEB','caption:be','2387ztttTu','❤️‍🔥','#FFB199','Khung\x20Film','ng_cung_di','ăn\x20nhó','\x20hay','h\x20đa\x20tình','Ngậm\x20Hoa\x20H','ó\x20yêu\x20hong','tui\x20không\x20','ve\x20by\x20Duy\x20','pb_scrapbo','#FF7EB3','\x20originati','cũng\x20fomo\x20','ne\x20time.','_o_et','nh\x20yêu','khung_shin','flag.fill','i_chieu_tr','\x20tắt\x20nguồn','figure.run','idgets.png','UFO\x20&\x20Alie','nd\x20show\x20pe','subject.\x20E','bớt\x20báo\x20gi','_khi','ong','ir\x20shoulde','#EFD0C7','locket_gol','t\x20show\x20any','khung_khon','#00897B','\x20Gold\x20rồi\x20','#542323','#6D9DB8','iu\x20thì\x20nói','owing\x20fire','cái\x20đéo\x20má','#E53935','at_nguon','#168AAD','\x20hảo\x20nhưng','fline_de_h','them\x20like\x20','\x20onto\x20the\x20','tin','n_lam_moi_','#FFE66D','y\x20people\x20t','cdn.locket','#E5E6D0','\x20somewhere','checkmark.','d.2x2','#173767','ng\x20in\x20the\x20','nz_flex','em\x20hong\x20có','Cutie\x20Pie\x20','#DCCAE9','Viền\x20Ren','0|0|6','Diwali','#7566D9','fortnite_l','\x20Xanh','frame.\x20If\x20','buon','hân\x20phẩm','#55415F','Bóc\x20trúng\x20','cutout','được\x20dỗ','#592313','#E5B7CD','i,\x20làm\x20nhi','\x20dỗi,\x20em\x20c','#7B2CBF','\x20Berry\x20Day','#6fb1d3','#493824','tructured,','side\x20the\x20b','inal\x20input','2099-12-31','#E2E8F0','fein\x20gấp','group_cute','đó.','chưa?','ose,\x20backg','#65A30D','#D9DFC5','rom\x20Harry\x20','#F3D8B8','#FF6A88','#FFF1B6','Chạy\x20ngay\x20','ng_ban_tuo','\x20&\x20Thả\x20thí','#E9D8B8','ything\x20to\x20','#F6C5B9','shadows.\x20I','Sweet\x20Hear','#2C1A0E','ople\x20who\x20w','#F6C6A8','ot\x20add\x20any','Khung\x20Y2K\x20','ng_be_oi','#FBBF24','caption:il','cter\x20của\x20c','#FFF59D','g\x20khác,\x20ri','caption:lo','on\x20nearby\x20','2020-01-01','#1F1C2C','#D9FFF5','ere\x20in\x20the','_do','frame_happ','#E6C8C9','#E5CFF4','nhăm\x20nhăm','se\x20in\x20thei','n.upanhlay','birthday.c','i\x20love\x20lạp','đó\x20😎','#C9B1FF','Shin-Chan','#FE5196','#78909C','a_a','#E9D2B8','output,\x20on','pb_single_','um_biet_nu','question','#4E342E','f\x20no\x20perso','ương?','e\x20everythi','#D9ED9A','#35475D','/Gm6AI5Vf.','#6DD5ED','hủ\x20đời\x20tra','bíc\x20gòi\x20kh','#52658F','\x20add\x20any\x20p','\x20nghe\x20mắc\x20','el_so_hai_','paywall_te','#CBB4DE','#F0D0DC','#F2B6B8','#D7A86E','Shrek\x20styl','á\x20làn','Flex\x20💅','eople\x20to\x20t','ssion,\x20ide','\x20đi\x20💛','ehind\x20the\x20','o_kitty_pa','ay_moi_vui','#B2DFDB','ngu','\x20kênh\x20tikt','phiền','à\x20phê!','ngại','#546E7A','Dỗi\x20rồi','#A855F7','review','#D4E3EB','goodnight','#E63946','tiff\x20and\x20r','hand.raise','ut.','c\x20nữa','#F0D1A4','#8E354A','ut\x20image.','Lên\x20Locket','#F0B6B6','bao','aming,\x20dep','caption:sn','hông\x20sài\x20t','h\x20💛','#FFAD73','url','New\x20Year\x27s','#71351F','caption:mu','ant.fill','caption:gi','necraft\x20ch','#AAB2C0','eng_cuoi_l','cube.fill','Ủa\x20alo','í\x20🏃🏾‍♂️💨','#000000E6','aptured\x20du','ered.\x20Do\x20n','ủa\x20tưởng\x20m','rty_time','#FFB703','i,\x20lộ\x20hết\x20','#243B55','#2E7D32','#EAD1F0','en_dinh','et_roi_kho','#B8E04A','obooth','ết\x20uy\x20tín','quote','e\x20it\x20was\x20c','#00D4FF','blic/journ','#F9D423','#C3B1E1','#F77F00','ks,\x20and\x20fe','#F5C9B8','#D5E3E8','craft-styl','#FF0844','ibb.co/1Yt','e,\x20facial\x20','aduation_d','caption:eh','gòi\x20xong\x20l','Này,\x20nhớ\x20b','Snake\x20Vibe','fire_flame','hơn\x20ai,\x20tu','#654EA3','#F8D5A8','ys\x20or\x20text','#88D49E','#754252','#FFD1BA','#D7CCC8','#17483F','present,\x20d','#F59E0B','khung_hoa_','#C4B5FD','e\x20the\x20back','locket','#633B24','_cute','ironment\x20w','caption:ve','\x20??','pb_strawbe','Giờ\x20ăn\x20tối','ck_cutout','caption:vi','n_island_b','ring\x20peak\x20','#E64980','đẹp\x20không\x20','caption:me','nh_hoa_hoi','y_la_het_c','Baby\x20Love\x20','dding_time','Hay\x20ra\x20dẻ\x20','_memory','/Kl3WF7kN.','\x20yellow-wh','LOCKET\x20GOL','nh\x20cảm','#B185DB','ffee_time','#E8D5AD','caption:re','ai\x20rồi\x20cũn','tui\x20là\x20nạn','_vote_2026','lloween_20','lười\x20học\x20q','hưng\x20chưa\x20','be_khong_p','caption:ca','agma\x20crack','ays/star_s','Xin\x20chào\x20M','Overthinki','#EABF0F','#EBCFD0','he\x20waist\x20a','#FF8A50','ace,\x20expre','rồi\x20lét\x20lu','#E8C979','lạy\x20ai','ồng','Thân\x20chưa\x20','t\x20cả,\x20may\x20','Muốn\x20được\x20','caption:pa','#C4C8EF','per','_da_tinh','Kiểm\x20tra\x20n','#cdd64c','bạn!\x20Vui\x20l','#624C6B','d/forgotte','#51546E','cal\x20and\x20do','dress.\x0a\x0aCo','#F3AFC7','frame_berr','oundings\x20o','ho\x20vừa\x20lòn','an_chua_ma','#CFD8DC','caption:du','y2k_silver','#E73C7E','rồi\x20gay\x20lu','Sự\x20kiện','/LQWMIicB.','d.\x20If\x20no\x20p','#F0D5E8','e_ma_lai_h','parse','hé\x20lô\x20cả\x20n','y\x20🐱','crush\x20nhìn','cloud.bolt','ều\x20lên','#174C58','Nói\x20hết\x20bí','đấm\x20nhau\x20k','but\x20with\x20t','#A81818','eling_cute','🌧️','oa\x20sen\x20thấ','nhìn\x20bầu\x20t','#80DEEA','matic,\x20wit','Hello\x20Kitt','party_time','em_tra_nha','#EACBE0','#FFD700','#D5B8D2','stflight','AI\x203D\x20Hot\x20','y_days','y\x20shape,\x20o','#67455C','#D6A36A','u_em_nhiem','chắc\x20tại\x20m','drop.fill','#C2185B','warm\x20glow\x20','ăn\x20nói\x20xà\x20','!\x20Đã\x20#day#','ùng','#F4C3D5','#FCA5A5','e\x20same\x20glo','ng_lam_be_','lays/forgo','_hong','an_bo_may_','#64B5F6','#DDD0F2','terial,\x20wi','/GcdaJHFy.','less\x20way.\x20','Night\x20Vibe','tôi\x20tưởng\x20','#A8C3A0','#5D3F59','#DCCBFF','le\x20in\x20the\x20','#F7D4DF','#0EA5E9','#4CAF50','\x20đây','hile\x20prese','#D7B77D','#C6E2D2','#514368','hì\x20xoá\x20app','#5D4037','#141E30','i_khong_ho','/Mw2lEyZa.','as\x20underwa','#E9DDC9','#C4FFF0','#FFD45C','#EED1C8','caption:si','#EBC6B8','n\x20bạn\x20là\x20b',',\x20không\x20th','#000046','h\x20bạn\x20là\x20t','còn\x20cái\x20nị','ai_dep','#20212D','#DFCBEA','\x20một\x20phát\x20','ợc\x20trà\x20sữa','#19A1D8','Rainy\x20Day\x20','regular','_tien_noi_','by_love','Tôi\x20sống\x20t','caption:e_','#FF7B54','t_noi_noi','enabled','pb_galaxy','al_calenda','Show\x20the\x20p','#F3C1D4','d\x20silhouet','#F4D5B6','ình\x20không\x20','target','ly\x20ever\x20sh','#6D4C41','#BBC9D8','#232526','1000','caption:ke','alone\x20😭','n_hom_qua','#DCD2E9','\x20Hôn','se\x20and\x20pos','light.beac','#153F3D','#F2BFC8','i_phai_lo','yet_doi_kh','diary','#F3C4C4','uong_nguoi','tical.','#812D49','#D2C8FF','atching\x20ha','/v6H7SoQw.','#70475D','stortion\x20i','m\x20rooted\x20t','#D8B4E2','lgia','/xBNYQv0A.','e\x20and\x20fram','n_nhan','\x20biến','f\x20no\x20face\x20','nhớ\x20anh\x20tớ','/2LCkIMOS.','#EACDE2','ang','#FF9999','#EBD8C7','#FFF0C2','i_tinh_nay','#C4D7F2','halloween_','#37474F','ve\x20by\x20Lock','fect\x20appea','ệ\x20thống:\x20đ','2592000','#B7D96C','t\x20make\x20it\x20','#344536','al\x20in\x20the\x20','#EAD6AA','/HmfZ08L9.','#F0C4A8','#FFFFFFDB','i_it_lo','#A18E72','Locket\x20xác','#E91E63','er.fill','Đám\x20cưới\x20n','#15345C','#A183B3','đọc\x20số\x20tài','/eIXwHlV5.','breaking_n','Tai\x20Ogre\x20S','\x20Do\x20not\x20mo','#F5FFB8','#FFF1A8','1QwWKMl','_em','xui_duoc_v','ook\x20like\x20i','canic\x20spar','ch_xa_lach','#E8C6DE','bây\x20giờ','adline_ruo','_ve','ạnh\x20phúc','ckline\x20for','hỏ?','/QjqQ20hC.','_on_ap_luc','Thủy\x20Cung\x20','_yeu','lan','cloud.moon','#C8E1D2','ếng\x20coi','#672016','ublic/over','#654018','y\x20or\x20an\x20al','caption:le','g\x20thì\x20khôn','#70495D','i_tru_dead','h_thuong_e','ong_love_h','🎨\x20Gen\x20Z\x20&\x20','erson\x27s\x20ph','caption:no','Mưa\x20Bão\x20Sấ','nd\x20rustic\x20','p\x20the\x20back','show\x20peopl','any\x20people','tin\x20nổi','caption:co','The\x20person','✨💟✨','#70465B','clown','d\x20vinyl.\x20T','#00BFA5','i\x20hơn\x20hôm\x20','#70475C','tars','ression\x20id','the\x20photo\x20','rdi\x20or\x20Mar','ận\x20của\x20Loc','NO\x20MEMORY\x20','úng\x20dưới\x20m','cloud.sun.','g\x20a\x20struct','#BCCCDC','#38EF7D','Lúc\x20nào\x20có','à\x20lơ\x20🤡','iginal,\x20wi','unded\x20neck','ssy\x20red\x20ma','that\x20part\x20','#6D5436','#70474B','03x.png','/EO18VJqL.','o\x20phải\x20ai\x20','uered\x20red\x20','ét\x20ô\x20ét','#F0B5CB','ớ,\x20quay\x20lạ','o\x20person\x20i','#B3C5FF','eck_var','026','Đủ\x20bá\x20khí\x20','_alo','#C2E9FB','r\x20with\x20war','ootd','#E8C6C6','#E6DDD8','cau','\x20chứ\x20taa\x20💅','caption:ki','#0097A7','#E8CDEB','Sweet\x20Drea','chụp\x20mới\x20c','#F57C00','#414C72','#B8C9E8','hết\x20duyên\x20','#FF758C','gs://locke','Llama\x20Fort','cloud.fill','Bất\x20ổn\x20thậ','_holo','er\x20show\x20pe','ong_du_tot','#EBCDE4','hông\x20biết\x20','es.\x20If\x20no\x20','amera_roll','adline_di','ng\x20slay','hông\x20ấy\x20mì','#9A8FBF','/b3e5SMT6.','is\x20visible','e\x20scoop\x20ro','253752XAnDIe','ting_time','#183153','photobooth','#FFC857','#FFD6E0','#A3C957','uoi_im_lan','#D3A625','Khung\x20Deni','\x20the\x20Jacob','music','xue_time','ntity,\x20or\x20','\x20khoản','#B8C8B3','\x20mất\x20chuỗi','am_nham','út\x20thôi','minimum_di','ssion\x20iden','#334EAC','sitions.\x20I','#A8F5D0','Rớt\x20nước\x20m','i\x20thì\x20thôi','✨🔐💛✨','y_2027_alt','with\x20round','#594015','o\x20were\x20in\x20','#EA384D','mệt','below','#faed32','/kyzGgnKy.','#6B4B3E','\x20Sky\x20Diary','d.slash.fi','#287271','u_tinh_kho','Núi\x20Lửa\x20Du','Đã\x20#day#\x20n','\x20oi','m\x20im','đừng\x20xem','harry_pott','Zombie\x20Chi','o\x20Kitty\x20Hồ','\x20to\x20the\x20or','e\x20the\x20enti','Tới\x20rồi\x20tớ','ợc\x20chưa','#BE8C62','ght_vibes','caption:ma','#643F00','ong_phai_g','#D8D1F2','gold_gradi','heir\x20surro','t\x20Robbie\x20s','hơn\x20thua,\x20','e\x20Wutherin','#A4E6C8','#FFF3D0','nói\x20ít\x20thô','#EF4444','he\x20photo\x20o','i_it_lam_n','#DDE9D8','#FFB26B','ey\x20are\x20per','iu_luon_a','\x20and\x20their','em\x20ổn,\x20ổn\x20','h\x20bạn\x20là\x20g','he\x20photo\x20w','#704C47','#00BCD4','the\x20scene.','Quá\x20là\x20điệ','\x20của\x20bạn,\x20','#FF8E72','sử\x20dụng\x20ch','output.','moon.stars','\x20mê\x20ngủ','#4A00E0','eu_cap_ba_','hem\x20as\x20a\x20c','ng\x20có\x20chọc','_an_ma','anksgiving','#8B4513','caption:gr','m_nuoc_chu','#525866','am_suc_man','tuyệt\x20vời,','caption:mi','rain_storm','nd\x20🖼️','nh\x20💕','Đang\x20bận\x20t','g\x20ưa','ong_the_ti','#B9D7D0','#f00008','#FFE5EC','\x20Cổ\x20Điển','caption:an','n\x20undernea','square.gri','lation,\x20in','lạnh\x20thấy\x20','cape','ạn\x20cute','person.fil','reak','n\x20ảnh','#FF0062','t_cu','Giáng\x20sinh','superhero_','#A6C1EE','User-Agent','\x20the\x20Margo','quá','#F97316','Cần\x20nạp\x20ca','#6D9EEB','\x20Y2K\x20Holo','#2F4712','#4F4770','#EDCDB4','ent,\x20do\x20no','#BDE0FE','caption:cu','\x20in\x20the\x20or','_vong_that','\x20đau','caption:fl','157680000','#58C9A5','Biển\x20ơiiii','#384358','\x20the\x20overa','sweet_hear','l\x20flame\x20ef','#424B70','_xem_chua_','facial\x20fea','chinh','_nay_nam_i','f\x20the\x20four','_anh_me_ng','#A8E063','Caption','/Ya9kkP4b.','t\x20sự','rose_flowe','🎨\x20Holiday\x20','caption:st','_la','#F5D2C8','xin\x20mờii','p_khong_ly','y\x20vọng,\x20mộ','t_thuong','_dieu_hanh','Halloween','\x20xưởng\x20❤️❤️❤️','ine','#B3E5FC','#1A237E','n_pham','/x84e4vYZ.','e\x20and\x20cine','ng\x20với\x20em\x20','#FFB4A2','\x20ghost\x20som','clothing\x20w','Hóng\x20drama','Cảm\x20thấy\x20d','en_mua_tra','orso\x20in\x20th','nmark.bubb','o_han','bá\x20khí\x20nga','#E7D8B8','cháy\x20ví','Magic\x202','Người\x20lạ','mắc\x20cỡ\x20quá','#8CA6DB','cmt_locket','ông','ir\x20and\x20out','c_trung_si','#E0C3FC','u_ngon','✨💗✨','#F6D1B5','Trầm\x20cảm\x20n','\x20:))','#1A237EE6','xjnh\x20gái','hong_nghe','#FFFFFF','độc\x20lập\x20tà','frame_sky_','lại\x20phải\x20l','#D5DDF8','#D76D77','exclamatio','#263D27','#FFF0A8','ông\x20có\x20như','#FFD180','\x20subtle\x20UF','9XoFzDu','Happy\x20Grad','heir\x20backg','ể\x20mỗi\x20anh','/ckAcbUl1.','caption:ro','khung_ngoi','\x20is\x20extrem','_sao_hong_','gradient','#B8E0D2','ke\x20polishe','#E3E9C5','#F5CBA1','ặng\x20gặp\x20ng','#FF8FA3','#725CFF','#D6B8E8','#35451B','uáa','in_la_biet','#CEAF76','xĩu\x20ngang\x20','nstraints:','ong_cam_xu','VOTE','ng_nao','er\x20from\x20th','\x20shirt\x20wor','denim_ripp','àm,\x20tay\x20vẫ','santa_cuto','people\x20to\x20','he\x20bodice\x20','_diem','#F09819','#F4D1B0','em_cute','mage\x20unalt','#6A0572','oi_hoc_qua','oning,\x20lac','\x20ngày\x20rồi.','#E9D9E8','forming\x20a\x20','ith\x20plants','g_gian_xan','s\x20of\x20the\x20C','mắc\x20mệt\x20qu','ng_im_lang','ng_drama','#52647A','ing\x20identi','cho\x20hun\x20mi','storical-i','OOTD','_bien_co_b','Đại\x20Dương','lucky_face','locket_cou','#FF6B35','ving\x20the\x20o','ufo_alien','#6B1833','\x20staged\x20vi','#65462D','#455467','#F4CB78','đẹp\x20chai','#E8D2DF','khi','#FFE8A3','#C9E5EE','#3F554E','rful\x20light','_ngu','rwater','#006D77','#F77062','\x20Do\x20not\x20sh','caption:po','d\x20outfit\x20w','điên\x20đầu\x20q','Chúc\x20mừng\x20','s\x20🌌','Hồi\x20chiều\x20','#FFE0A0','m_nhau_kho',',\x20damage,\x20','paper_4cut','h.09/','_hong_thi_','ured,\x20cors','ien','nh_thay_me','\x20•\x20🔥#strea','a\x20dramatic','Không\x20vấn\x20','nsure\x20the\x20','Cũng\x20cứng\x20','\x20in\x20the\x20sk','hết\x20tiền\x20v','and\x20backgr','ews','#5F5646','et_voi','12132mVoQGl','#FECFEF','#343A40','#FFCCBC','nner_time','#F4C5D9','#A1C4FD','#504567','#D8F3DC','e.\x20The\x20ski','Không\x20cảm\x20','#D9D0EF','\x20not\x20show\x20','/Tu7Dt4le.','#754454','#3F51B5','t-filters','ere\x20hidden','_m_oi','#7873F5','#FF8C00','#802D50','ui\x20vẻ','#BBDEFB','gày\x20rồi!\x20K','ong_khong','#789CB5','f\x20the\x20subj','ptured\x20wit','Đã\x20xác\x20nhậ','#4862F7','ect\x27s\x20face','\x20the\x20white','golden\x20hou','\x20hoá\x20ra\x20lố','\x20mua\x20được\x20','#EBD0E5','_so_thi_di','caption:dr','1138260IdMrix','or\x20distres','ristmas_da','#FED78B','ection_day','#C9DCEB','i\x20xui\x20được','#B0C9D9','caption:ph','?\x20thôi\x20khỏ','Retain\x20the','camera.com','#F3D2D9','#607D8B','#F3C4B9','Một\x20follow','caption:bi','_day','person\x27s\x20f','#FFB347','ground\x20100','\x20Hoài\x20Cổ','✨💎✨','t\x20đống\x20thấ','loss,\x20lacq','/gxzBXrkx.','he_choi','Đã\x20xác\x20min','hưng\x20hệ\x20đi','ss_you','hông\x20phụ\x20b','lama','flower_cro','mẹ\x20🥶','#FF91AE','caption:ba','sic_pb','clothing,\x20','_chua','features,\x20','Tóc','#F5D0C3','rt\x20looks\x20s','#FFD1DC','ông?','Trend\x20Tíc\x20','in_charact','Mũ\x20Cướp\x20Bi','ed\x20ears,\x20a','sticker_fa','#A0F0E0','#93C5FD','#DCE8EF','uộc\x20đời\x20mì','#FF5722','#EFC2B5','the\x20backgr','sual\x20effec','#F4C9BB','Feeling\x20Ha','#740001','#8A2387','y_2026','ì\x20nói\x20chuy','ublic/gold','#DCCAF0','#694A67','\x20&\x20Tiền\x20💸','🎨\x20Chứng\x20nh','i\x20love\x20you','khung_xanh','dd\x20a\x20soft\x20','_den_luc_t','h\x20a\x20modern','\x20a\x20charact','\x20in\x20the\x20ou','e\x20a\x20superh','kkah!','/I3P77Cgk.','p_trai_co_','#FB7185','in\x20the\x20exa','#C18A6E','é\x20ngoan','nto\x20Shrek\x20','_uy_tin','holiday_in','#B71C1C','rain.fill','1440','dùng\x20còn\x201','formance\x20e','ld_promo_w','tte','se\x20and\x20exp','#70435B','#F1F7C8','#B993D6','hoa_hoc','#EEC5DD','%403x.png','caption:do','xact\x20same\x20','m_nay_noi_','#C9184A','pose\x20and\x20b','\x20ghê','erson\x20is\x20p','caption:bl','unseen','Xin\x20vĩnh\x20b','hong\x20bé\x20ơi','\x20Scrapbook','stringify','_nho_anhh','ay_vi','_tien_lam_','cowboy_cow','#51e6e4','LEFT\x20BEHIN','yeu_hong','không\x20hoàn','Tôi\x20yêu\x20Vi','caption:i_','Cu\x20🐎','#FFB3C6','#370C6F','#46664C','caption:lu','#72EFDD','caption:gu','but\x20replac','Vinh','#E2CBEF','Chưa\x20đủ\x20wo','#6C7A89','#EAD9B7','2026','Good\x20morni','quá\x20à!','_hong_sai','lar\x20to\x20the','#F0D0B1','n_vinh_bie','dicator%40','u_huynh_du','#FFD08A','#E0E9C9','round.\x20If\x20','a_la_dien_','#0000001A','up_moi_cho','\x20If\x20no\x20per','heart','ghting\x20of\x20','thân\x20chưa\x20','\x20có\x20khí\x20ch','|1|8|4|2|1','🙏🥺','ersons\x20in\x20','#EFD6D8','Cha\x20này\x20tự','🎨\x20Meme\x20&\x20X','#C8A6C4','đủ\x20tốt','ái\x20đẹp','\x20Denim\x204\x20ô','#4B5E70','#DC2626','#35B5E8','#575CD4','ely\x20volumi','Toang\x20thật','nline','nh\x20nầy','#F5E2BD','#8A304F','#26D0CE','jungle_lea','cket_xinh','Ủa\x20alo,\x20gì','e\x20the\x20scen','_noi_xa_lo','te.fill','#E0F7D9','ng_fomo','iem_vu_hom','#3867FF','on_ngu_chu','ệt\x20Nam','#FF7043','sweat_hear','#FFC0CB','ó\x20gì\x20sai','Vô\x20chụp\x20Lo','who\x20were\x20i','#FFDEE9','caption:na','Matcha\x20Lat','cinching\x20t','caption:kh','#FF8E9E','e_2026','#780c23','ươi','#D5E6A8','#D9ED92','elf_cutout','hellokitty','#823FFF','\x20ngày\x20rồi\x20','n_cai_nit','hai_ai','\x20people\x20wh','/WlnPm8fN.','#101010E6','ng_biet_la','r\x20Men:\x20Dre','resent,\x20do','nous\x20and\x20s','caption:ni','#F8DDE5','#D8D0F0','#E8D1F2','#FFC371','_vai_chuon','\x20a\x20realist','/GSfYXmKd.','sic','ời\x20buồn\x20kh','#E2DCE9','#39B8A5','⚡️😵‍💫⚡','#164E52','y_snap','tất\x20cả,\x20nh','movieclapp','#EF7402','ạn\x20bè\x20khôn','#145A64','iên\x20hạ','\x20houes.\x20Ke','caption:tr','#5367C5','i_chat','#D2C8E8','_4cut','au\x20đi','battery.0p','n_nguoi_du','buns','#B8F0D8','#F6E5D2','how\x20each\x20p','Hoa\x20Xinh\x20P','#D2D1ED','t\x20Nam','#FF9800','#C5DDF1','an_trong_l','\x20trừ\x20deadl','Photobooth','pose.\x20Keep','#D31027','astel','#FF783F','#202124','ks\x20while\x20k','#FFD6A5','iệt\x20cụ','Cái\x20gì\x20vậy','_nha_thay_','ng_phu_ban','\x20iu\x20của\x20ai','in\x20front\x20o','#F3C7D9','#57A99A','#AEB8D1','vl\x20m\x20ơi?','#7AA6C2','ng_ton_hoa','vergrown\x20w','caption:ha','_indicator','#6A82FB','ời\x20đẹp','_tu_tu_kho','#F5C5A9','thui\x20mừ\x20đừ','heart.fill','#C27F5E','#4B626B','khung_spid','shrek_ogre','#F8BBD0','Có\x20biến\x20có','happy_birt','🇻🇳','Locket\x20Việ','Coffee\x20Tim','eye.fill','ong_thay_k','caption:fi','m_me','#FFDDE1','the\x20output','#B5E5D5','\x20luyến\x20ghê','\x20red\x20edges','fill','#694A68','ắt\x20⭐️','blic.locke','=))','#292E49','emain\x20in\x20t','#4A9FEF','#FFE4E1','chịu\x20luôn\x20','emoji','odnight','o_anh_phie','https://cd','#F2B5C8','lue\x20and\x20re','#B8C9F2','y\x20&\x20Sao','gày\x20đi\x20nào','Giờ\x20thư\x20gi','c_co_qua_h','the\x20dress\x20','eu_ban','Nước','yet_voi_uo','son\x20is\x20pre','day','à\x20tiêu','#627D98','cutii','i_het_bi_m','ay_a','#F1C9C1','#4FACFE','\x20do\x20not\x20ad','y\x20to\x20the\x20t','#2979FF','#F0B8CD','#16A085','hieu','c_buon_ngu','n\x20the\x20near','caption:au','i_nho_em','#9295BE','cute_zombi','te\x20WITHOUT','#AB1745','\x20Happy\x20Sna','oulder\x20str','er\x27s\x20backg','Đẹp\x20trai\x20c','\x20trời','#F43F5E','n_vien_la_','g_gap_nguo','th\x20with\x20a\x20','#22C55E','_hong_doi','s\x20present,','#C8540D','ristmas_ev','flame.fill','m\x20the\x20wais','#E8D9E6','group_cost','m/locket-p','Tuất','_i_voted_2','custom','\x20in\x20a\x20seam','#E2C8ED','ương\x20mại!','ile\x20preser','easter_bun','Tuyệt\x20đối\x20','ởng','#FFFF00','i_chuyen_m','caption:da','g\x20vậy?\x20💛','#283B66','tới\x20công\x20c','Xinh\x20đẹp\x20t','#9A789D','ve_vietnam','blic/overl','u_xoi','yvinh09','png','#E7C9EF','_ngoan','stmas!','line','terans_day','#075E54','le\x20heat\x20di','i_net_ky','m\x20🧊','🌪️','mà\x20dỡn','Shopping\x20T','aming\x20iden','#F4A6B7','#D2E2E8','caption:hy','#EED9B9','#F1C9B9','#DA251D','_tao_ma_ca','\x20zombie\x20wh','#D5D5F0','\x20full\x20bell','but\x20turn\x20t','#7D91A8','#52734D','cảnh\x20báo:\x20','#F2E3F7','Siêu\x20Anh\x20H','der\x20the\x20en','#172554','Không\x20thể\x20','_gi_luon','tưởng\x20gì,\x20','ình\x20quan\x20t','nhiệm\x20vụ\x20h','oi_xiu','_muon','iu\x20hong\x20th','round','#8D6E63','c_nga','#45475F','rom\x20Pirate','#F6EBDD','cái\x20nết\x20kỳ','quậy\x20rứa\x20f','#5B5472','#F6D365','image','cao','#FF9A8B','oi_vcl_m_o','#E8BFCB','n_moii','não\x20nghỉ\x20l','#F2BDA5','t_rit','#FF416C','Dating\x20Tim','#087E8B','#F2D2B7','lên\x20chùa\x20k','#FFE0E9','#69420A','\x20em\x20một\x20cá','#64152F','/YatSePfJ.','ok\x20@duyvin','#E0D1DE','ring\x20just\x20','by\x20air.\x0a\x0aA','ith\x20firewo','stel_ngot_','nh_la_lop','g\x20&\x20Bất\x20ổn','y\x20lo,\x20dram','i_gi_vay_t','ce\x20a\x20reali','e\x20the\x20grou','splay_coun','easter_chi','#644C68','á\x20khí','2:00\x20AM\x20Th','weather','bob_cut','on_vui_tuo','🎨\x20Tình\x20yêu','tcha_latte','r\x20position','yle\x20with\x20m','pb_holo_4c','_ho_la_bao','_nha_ma','leprechaun','act\x20same\x20p','ổ\x20lém','rai\x20đẹp','ove_lapxuo','uyen_ghe','style,\x20fit','circle.fil','#F7C9D9','icators/va','them\x20and\x20t','#E7C8D6','s.\x20Do\x20not\x20','#526A82','Xin\x20lũi\x20đư','#8E2DE2','n_chua_kho','Lâu\x20rồi\x20đó','ì\x20bảo','#DED3F4','Cười\x20xỉu','yêu\x20cục\x20dà','#8E3B46','#F4BDD0','resent,\x20re','Silver\x20Hol','caption:gh','fig','\x20iPhone\x20ca','anh\x20có\x20thư','_gion','_tay_sao_v','un\x20á','#F44336','oliday_ind','#684B4B','hát\x20cho\x20bạ','#5B4A35','gamecontro','\x20original\x20','assign','#6D597A','#FCBF49','#7B1FA2','blonde_ble','#1672D4','#258DEB','#FFD1C9','Yeu\x20Emmm','ktok.com/@','Nắng\x20Hoàng','caption:we','#C8DDEB','caption:ai','ket','If\x20no\x20pers','Cinema\x20Tim','oa_ra_lop','#D9F477','t\x20vọng','.\x20Đã\x20#day#','\x20💛','miệng\x20cười','ion\x20of\x20the','but\x20dress\x20','#731B0D','#F8759B','\x20face\x20is\x20p','_nho','khung_past','cả\x20nhà\x20thấ',',\x20and\x20gent','#F5D9E1','#425348','#334E68','không\x20biết','main\x20chara','_thi_noi','rks\x20explod','volcano_la','ground,\x20fr','#D1E5E7','pose.\x0a\x0aKee','u_emmm','Chilling\x20T','#23466F','òng\x20không\x20','#C8D5E2','Flex\x20đến\x20h','_sua','sun.max.fi','mewhere,\x20s','#F6D9A8','tured\x20in-c','u_diem_aur','_ke_kh_ai_','Sinh\x20Nhật\x20','ạnh\x20con\x20tư','Ngày\x20lễ','\x20photo,\x20do','tortoise.f','3x.png','#EE9CA7','Attention','#56CFE1','Merry\x20Chri','#16A34A','2027','Goodnight','ew\x20people\x20','\x20not\x20add\x20n','caption:of','\x20but\x20with\x20','Yeu\x20Anhhh','headers','nting\x20with','Xinh\x20gái\x20ấ','_be_can_do','\x20hồi\x20sinh','#E8DFC6','yen_duong','ương\x20tư','el_vien_re','ng_tu','#F0C9DD','#D18D59','Tinh\x20hoa\x20h','15GOFmRr','yêu\x20em\x20là\x20','t_on_that_','_tu','#E2CFEA','#A07DAD','#DFF3FF','I\x20voted!','riginal\x20li','anh\x20là\x20ngo','rving\x20the\x20',',\x20đừng\x20có\x20','\x20Jacob\x20Elo','esent,\x20do\x20','view','ĐANG\x20TRỰC\x20','et_dua_kia','/WXQ5IJRY.','#91A7FF','#F5D2DD','#D5D1C4','turn\x20the\x20i','hien_cuu_k','đi\x20về','r\x20or\x20head.','hé!','ng\x20act,\x20ca','%\x20unchange','tput,\x20only','#6A4248','buồn\x20ngủ\x20n','ppy','Year!','+1\x20máy\x20bị\x20','but\x20show\x20t','khung_anh_','_ra_dai_kh','https://i.','/KMjL2bn1.','ê\x20????','ld_promo_v','consistent','#F4C6B4','#FFFBF8','/aAvLUQ2t.','link.com/i','#FFB182','#B8E7FF','cơm\x20nước\x20g','ng_con_1','#56AB2F','cai_nay','Sóng\x20gió\x20p','nh_la_tai_','ll\x20compsit',',\x20as\x20if\x20th','moi_anh','đề\x20gì\x20luôn','u_troi_da_','#233746','🎨\x20General','#205844','m_thay_han','xinh\x20là\x20mộ','giant_spid','hế\x20đấy','#D4F1BE','#FFD200','#633B12','fit.\x0a\x0aFor\x20','2136RzIpsD','al\x20image.\x20','#334155','#3977D5','cial\x20expre','#B82D59','not\x20add\x20an','i\x20chính,\x20đ','/kSaUH2JF.','Lên\x20hình\x20g','#D5CDE5','aturing\x20a\x20','#812D4A','sition,\x20wh','#E94057','user-agent','#59636E','caption:am','nh_cuoi_nh','local','#10B981','#8F9FE8','#681D2A','d,\x20but\x20pla','#FF5F6D','ld_promo_c','#EC0C00','#F2C8B8','#DEC9E4','Tưởng\x20love','uation\x20Day','amera.\x20Do\x20','#B5C8DE','miss_you','camera.mac','#FCFF57','https://st','Hảo\x20hán','te\x20🍵','#F44772','ama_ai_hon','Nhện\x20Khổng','nh_tue','ia\x20ghê\x20😒','#684B3D','nal_calend','caption:fe','tốt\x20nghiệp','but\x20fill\x20t','/kY7CANZp.','tyle:\x20A\x20dr','#FDC830','film_nosta','quyết\x20k\x20để','5|11|7|9|3','\x20flowing\x20b','#103F43','\x20dạ?','Happy\x20Hanu','khum\x20có\x20bí','covery_cou','pirate_hat','tiep','caption:10','love_bug','#398A8C','n_noi','Giảm\x20sức\x20m','ời\x20không\x20t','#1B5E20E6','nhớ\x20thì\x20nh','#D9A4B3','em\x20bé\x20cần\x20','#6B2814','#267DD7','#455A64','#EBC6E8','Rừng\x20Nhiệt','ại\x20lệ\x20của\x20','rcolor\x20pai','ith\x20a\x20flow','❤️‍🩹','#FF4E50','#2FA85F','wand.and.s','caption:ge','hem\x20up\x20lik','Never','erthinking','ủa\x20rồi\x20ai\x20','#0A84FF','648YkaFAy','/JNBpQnLu.','#BCAAA4','#FD8205','n\x20is\x20prese','/DgoIoU3M.','027!','itioning\x20w','watercolor','\x20Elordi\x20st','#70445C','t_cuu_thie','999999999','Ngoại\x20hình','i\x20buồn','#3B82F6','#FF8A80','#1E90FF','Pháo\x20Hoa\x20R','t_luc','wedding','#FBC2EB','#FF007F','amatic,\x20hi','/xxXEkGa0.','.xmark','\x20Ripped\x20Pa','cket_dangi','#F5B8A9','lại\x20một\x20mì','Gửi\x20cho\x20họ','ng_truc_ti','#FFE3A3','caption:ch','orange\x20and','flame\x27s\x20po','bất\x20ngờ\x20đi','without\x20sh','#CDE6D5','cket_dep','ae\x20sãn\x20sàn','sos.circle','sticker_bi','#FFEE58','nspired\x20re','gi_sai','t_bao','\x20bé','#E9CDE8','#E85D75','ae\x20tao\x20ma\x20','#FFF0B5','Nhện\x20Đỏ','minecraft','#E7D1F2','ow\x20burns,\x20','ười\x20hay\x20nó','cần\x20lý\x20do'];_0x196f=function(){return _0x2525f9;};return _0x196f();}function _0x9563(_0x1b55fb,_0x51f266){_0x1b55fb=_0x1b55fb-(0x77b+-0x220f+-0x1c4f*-0x1);var _0x344885=_0x196f();var _0x1f5d73=_0x344885[_0x1b55fb];return _0x1f5d73;}if(ua[_0x16392a(0x435)](_0x16392a(0x432))){var eEydid=(_0x16392a(0xbde)+_0x16392a(0x992)+_0x16392a(0x54e))[_0x16392a(0x27e)]('|'),qpJLgo=-0x10b3+-0xa22+0x1ad5;while(!![]){switch(eEydid[qpJLgo++]){case'0':Object[_0x16392a(0xb0b)](obj[_0x16392a(0xd33)],{'cdn_domain_replacements':JSON[_0x16392a(0x966)]({'firebasestorage.googleapis.com':_0x16392a(0x542)+_0x16392a(0x900)}),'cdn_domain_replacements_video':_0x16392a(0x2de),'storage_bucket':_0x16392a(0x775)+_0x16392a(0x1eb),'storage_bucket_video':_0x16392a(0x775)+_0x16392a(0x4ad),'camera_filter_storage_bucket':_0x16392a(0x775)+_0x16392a(0x8de),'image_cache_max_age_sec':_0x16392a(0x816),'image_cache_max_size':_0x16392a(0xdbe),'history_cache_age_days':_0x16392a(0x6cf),'user_cache_max_age_sec':_0x16392a(0x23b),'friends_cache_max_age_sec':_0x16392a(0x6fb),'image_fetch_cache':_0x16392a(0x2de),'image_cache_use_shared':_0x16392a(0x2de),'use_doc_dir_for_image_cache':_0x16392a(0x2de),'efficient_history_cache_invalidation':_0x16392a(0x2de),'timestamp_based_history_fetches':_0x16392a(0x2de),'get_latest_moment_v2':_0x16392a(0x2de),'fetch_users_from_cloud_function':_0x16392a(0x2de),'refresh_interval':'60','firestore_refresh_v2':_0x16392a(0x2de),'firestore_refresh_v3':_0x16392a(0x2de),'keychain_access_retries':_0x16392a(0x2de),'blocked_users_cached_sync_enabled':_0x16392a(0x2de),'beta_features_enabled':_0x16392a(0x2de),'join_testflight_enabled':_0x16392a(0x2de),'safety_center':_0x16392a(0x2de),'help_center':_0x16392a(0x2de),'support_v2':_0x16392a(0x2de),'privacy_choices_setting':_0x16392a(0x2de),'request_att_permission':_0x16392a(0x2de),'invite_link_preview_variant':'4','share_history_config':JSON[_0x16392a(0x966)]({'prompt_enabled':![],'fetching_enabled':!![]}),'share_history_prompt_enabled':_0x16392a(0x433),'use_thumbnails_for_sharing':_0x16392a(0x2de),'use_thumbnails_in_timeline':_0x16392a(0x2de),'upload_use_webp_thumbnails':_0x16392a(0x2de),'persist_onboarding_step':_0x16392a(0x2de),'onboarding_contact_permission_step':_0x16392a(0x2de)});continue;case'1':Object[_0x16392a(0xb0b)](obj[_0x16392a(0xd33)],{'max_friends_count':_0x16392a(0xc0f),'friend_limit_mode':'0','soft_friend_limit_threshold_count':_0x16392a(0xc0f),'show_friend_limit_on_cam':_0x16392a(0x433),'signup_max_friends_count':_0x16392a(0xc0f),'celebrity_inbox_limit':_0x16392a(0xc0f),'celebrity_inbox_enabled':_0x16392a(0x2de),'celebrity_vip_qr_redemption_enabled':_0x16392a(0x2de),'friend_limit_geo_override':JSON[_0x16392a(0x966)]({'experiments':{},'area_code_overrides':{}}),'friends_sheet_locket_count_config':JSON[_0x16392a(0x966)]({'items':[{'threshold':0x0,'icon_name':_0x16392a(0x98e)},{'threshold':0x1,'icon_name':_0x16392a(0xa16)},{'threshold':0xa,'emoji':'🤍'},{'threshold':0x64,'emoji':'💛'},{'threshold':0x1f4,'emoji':_0x16392a(0x50d)},{'threshold':0x3e8,'emoji':_0x16392a(0x26a)},{'threshold':0x7d0,'emoji':_0x16392a(0x73d)},{'threshold':0x1388,'emoji':_0x16392a(0x9dd)},{'threshold':0x2710,'emoji':_0x16392a(0x4ce)}]}),'friend_locket_count_config':JSON[_0x16392a(0x966)]({'items':[{'threshold':0x0,'icon_name':_0x16392a(0x98e)},{'threshold':0x1,'icon_name':_0x16392a(0xa16)},{'threshold':0xa,'emoji':'🤍'},{'threshold':0x64,'emoji':'💛'},{'threshold':0x1f4,'emoji':_0x16392a(0x50d)},{'threshold':0x3e8,'emoji':_0x16392a(0x851)},{'threshold':0x7d0,'emoji':_0x16392a(0x465)},{'threshold':0x1388,'emoji':_0x16392a(0x90b)},{'threshold':0x2710,'emoji':_0x16392a(0x7a1)}]}),'new_friends_monitoring_enabled':_0x16392a(0x2de),'improved_friend_suggestions':_0x16392a(0x2de),'show_friend_suggestions_by_default':_0x16392a(0x2de),'emoji_friend_suggestions':_0x16392a(0x2de),'friend_suggestions_v2':_0x16392a(0x2de),'prompt_contact_permissions_on_search':_0x16392a(0x2de),'populate_phone_numbers_from_suggest_friends':_0x16392a(0x2de),'hide_friends_enabled':_0x16392a(0x2de),'hide_invite_links':_0x16392a(0x433),'hide_skip_contacts':_0x16392a(0x2de),'show_all_contacts':_0x16392a(0x2de),'show_invite_suggestions':_0x16392a(0x2de),'show_no_friends_bottom_sheet':_0x16392a(0x433),'signup_allow_skip_add_friends':_0x16392a(0x2de),'signup_custom_profile_picture':_0x16392a(0x2de),'user_data_export_enabled':_0x16392a(0x2de),'username_suggestions_enabled':_0x16392a(0x2de)});continue;case'2':Object[_0x16392a(0xb0b)](obj[_0x16392a(0xd33)],{'moment_views_enabled':_0x16392a(0x2de),'moment_views_v2':_0x16392a(0x2de),'record_moment_views':_0x16392a(0x2de),'notify_moment_views':_0x16392a(0x2de),'get_moment_views_as_cloud_function':_0x16392a(0x2de),'moment_reactions_v2':_0x16392a(0x2de),'chat_reactions_enabled':_0x16392a(0x2de),'conversation_reactions':_0x16392a(0x2de),'typing_indicators_enabled':_0x16392a(0x2de),'unsend_message_enabled':_0x16392a(0x2de),'reply_prototype_enabled':_0x16392a(0x2de),'messages_integration':_0x16392a(0x2de),'conversations_enabled':_0x16392a(0x2de),'fetch_moments_in_conversation':_0x16392a(0x2de),'hide_chat_button':_0x16392a(0x433),'groups_enabled':_0x16392a(0x2de),'group_contact_invites_enabled':_0x16392a(0x2de),'groups_onboarding_accept_invite_preview_enabled':_0x16392a(0x2de),'group_scrapbook_config':JSON[_0x16392a(0x966)]({'enabled':!![],'moment_limit':0x3b9ac9ff,'default_layout':{'show_member_joined':!![],'parallax_percentage':0x32,'is_device_tilt_enabled':![],'cutout_percentage':0x64},'photos_button_enabled':!![]}),'chat_hyperlink_enabled_mode':_0x16392a(0x1ec)+_0x16392a(0x4c4),'send_to_self_only_mode':_0x16392a(0x1ec)+_0x16392a(0x4c4),'time_travel_rewind_v2_enabled':_0x16392a(0x2de),'conversation_drafts_enabled':'1','calendar_delete_moment_enabled':_0x16392a(0x2de),'calendar_rewind_enabled':_0x16392a(0x433),'locket_yearbook_story_sharing_encouraged':_0x16392a(0x2de),'rollcall_enabled':_0x16392a(0x2de),'rollcall_comment_actions':_0x16392a(0x2de),'rollcall_profile_button':_0x16392a(0x2de),'rollcall_prompt_export_after_share':_0x16392a(0x2de),'rollcall_confirm_skip_tagging':_0x16392a(0x433),'rollcall_tap_to_tag_enabled':_0x16392a(0x433),'moment_upload_queue_persistence_v2':'1'});continue;case'3':Object[_0x16392a(0xb0b)](obj[_0x16392a(0xd33)],{'camera':JSON[_0x16392a(0x966)]({'gold_max_duration':0x3c,'max_duration':0x3c,'ultra_wide':!![],'volume_button':!![],'flash_button':!![],'telephoto':!![],'srgb':!![],'lanczos':!![],'quality_mbps':0.6}),'camera_roll':JSON[_0x16392a(0x966)]({'gold_max_duration':0x1e,'video_max_duration':0x1e,'max_duration':0x1e,'trim_max_duration':0x1e,'camera_roll_max_duration':0x1e,'quality_mbps':0.6,'flash_button':!![]}),'live_photos':JSON[_0x16392a(0x966)]({'capture':!![],'video':!![],'viewing':!![],'catch_up':!![],'widget_playback':!![],'widget_looping_mode':_0x16392a(0x962)}),'camera_filter_config':JSON[_0x16392a(0x966)]({'allows_custom_filters':!![],'show_filter_button':!![],'sheet_enabled':!![],'open_sheet_immediately':!![],'sheet_filters':[{'id':_0x16392a(0x3f2)+_0x16392a(0x362),'title':{'en':_0x16392a(0x67c)+'🔥'},'filter_ids':[_0x16392a(0x365),_0x16392a(0x7b5)+'er',_0x16392a(0xc38),_0x16392a(0x605),_0x16392a(0xba2)+'er',_0x16392a(0x4cc)+_0x16392a(0x8b0),_0x16392a(0x8a2),_0x16392a(0x9b4)+'ts',_0x16392a(0xb32)+'va',_0x16392a(0x7ec),_0x16392a(0x551)+_0x16392a(0x914),_0x16392a(0xc0b)+_0x16392a(0xd14),_0x16392a(0x509)+'r']},{'id':_0x16392a(0x4ea)+_0x16392a(0x5f0),'title':{'en':_0x16392a(0xd45)+_0x16392a(0x39a)},'filter_ids':[_0x16392a(0x656)+_0x16392a(0x67d),_0x16392a(0x58c)+_0x16392a(0x9df),_0x16392a(0x85a)+_0x16392a(0x6db),_0x16392a(0x78a)+_0x16392a(0x9eb),_0x16392a(0x78a)+_0x16392a(0x616),_0x16392a(0xae0)+'ut',_0x16392a(0x518)+_0x16392a(0xd68)+_0x16392a(0x224),_0x16392a(0x3e4)+_0x16392a(0x8bd),_0x16392a(0xc9c)+_0x16392a(0x45d)]},{'id':_0x16392a(0xc4d)+'es','title':{'en':_0x16392a(0xc80)+_0x16392a(0xce3)+_0x16392a(0x7ed)},'filter_ids':[_0x16392a(0x464)+_0x16392a(0x919),_0x16392a(0xc2d)+_0x16392a(0x3ad)+_0x16392a(0xbd2),_0x16392a(0x84b),_0x16392a(0x3c0)+_0x16392a(0x5b9)+_0x16392a(0xacd)+_0x16392a(0xccc),_0x16392a(0x3c0)+_0x16392a(0xd87)+_0x16392a(0x271),_0x16392a(0xb28)+_0x16392a(0xb5d)+'n',_0x16392a(0x611)+_0x16392a(0xca4)+_0x16392a(0x431)+'h',_0x16392a(0xa19)+_0x16392a(0xc76),_0x16392a(0x52f)+_0x16392a(0x892)+_0x16392a(0x1d3),_0x16392a(0x86a)+_0x16392a(0x86c)+_0x16392a(0x266),_0x16392a(0xb28)+_0x16392a(0x5ac)+_0x16392a(0x769),_0x16392a(0x51f)+_0x16392a(0x1f2),_0x16392a(0xb85)+_0x16392a(0x9c5)+_0x16392a(0xd90),_0x16392a(0x93b)+_0x16392a(0xb02)+_0x16392a(0x6f0),_0x16392a(0x2e3)+_0x16392a(0x30c)+'y',_0x16392a(0x59c)+_0x16392a(0x65c)+_0x16392a(0x779),_0x16392a(0x59c)+_0x16392a(0x881)+'ed',_0x16392a(0x59c)+_0x16392a(0xbdc)+_0x16392a(0x6e7)]},{'id':_0x16392a(0x1ef)+_0x16392a(0xcd5),'title':{'en':_0x16392a(0x42d)},'filter_ids':[_0x16392a(0x38d),_0x16392a(0x3b9),_0x16392a(0x4f5)+_0x16392a(0x23d),_0x16392a(0x24c),_0x16392a(0x4cb),_0x16392a(0x412)+'st',_0x16392a(0xa57)+'e']},{'id':_0x16392a(0x216)+_0x16392a(0xd1c),'title':{'en':_0x16392a(0xc10)},'filter_ids':[_0x16392a(0x477)+'ll',_0x16392a(0xb0f)+_0x16392a(0xd30),_0x16392a(0x43d),_0x16392a(0xada),_0x16392a(0x9ef),_0x16392a(0x1e5),_0x16392a(0x37f),_0x16392a(0xcb6),_0x16392a(0x4cb),_0x16392a(0x828)+'r',_0x16392a(0x9a7)+'f']},{'id':_0x16392a(0x330)+'t','title':{'en':_0x16392a(0x65f)},'filter_ids':[_0x16392a(0x614),_0x16392a(0x276),_0x16392a(0x501),_0x16392a(0xd51)+'ts',_0x16392a(0x1e2),_0x16392a(0xa1d)+_0x16392a(0x4a7)]},{'id':_0x16392a(0x568),'title':{'en':_0x16392a(0x3a6)},'filter_ids':[_0x16392a(0xd5b),_0x16392a(0x926)+'ce',_0x16392a(0x915)+'wn',_0x16392a(0xbe8)]},{'id':_0x16392a(0xa6b)+_0x16392a(0xd50),'title':{'en':_0x16392a(0x23a)},'filter_ids':[_0x16392a(0xc17),_0x16392a(0x96a)+_0x16392a(0x27b),_0x16392a(0xce9),_0x16392a(0x73f),_0x16392a(0xa1a),_0x16392a(0x803)+_0x16392a(0x7fb),_0x16392a(0xbe5)]},{'id':_0x16392a(0x3b7)+_0x16392a(0xa44),'title':{'en':_0x16392a(0xb45)},'filter_ids':[_0x16392a(0xa74)+_0x16392a(0x366),_0x16392a(0xad5)+_0x16392a(0x61c),_0x16392a(0xd7d),_0x16392a(0xae3),_0x16392a(0x89e),_0x16392a(0x81b)+'ts',_0x16392a(0x9c4),_0x16392a(0x883)+'ut',_0x16392a(0x34e)]}],'filter_groups':[{'id':_0x16392a(0x3f2)+_0x16392a(0x362),'title':{'en':_0x16392a(0x67c)+'🔥'},'filter_ids':[_0x16392a(0x365),_0x16392a(0x7b5)+'er',_0x16392a(0xc38),_0x16392a(0x605),_0x16392a(0xba2)+'er',_0x16392a(0x4cc)+_0x16392a(0x8b0),_0x16392a(0x8a2),_0x16392a(0x9b4)+'ts',_0x16392a(0xb32)+'va',_0x16392a(0x7ec),_0x16392a(0x551)+_0x16392a(0x914),_0x16392a(0xc0b)+_0x16392a(0xd14),_0x16392a(0x509)+'r']},{'id':_0x16392a(0x4ea)+_0x16392a(0x5f0),'title':{'en':_0x16392a(0xd45)+_0x16392a(0x39a)},'filter_ids':[_0x16392a(0x656)+_0x16392a(0x67d),_0x16392a(0x58c)+_0x16392a(0x9df),_0x16392a(0x85a)+_0x16392a(0x6db),_0x16392a(0x78a)+_0x16392a(0x9eb),_0x16392a(0x78a)+_0x16392a(0x616),_0x16392a(0xae0)+'ut',_0x16392a(0x518)+_0x16392a(0xd68)+_0x16392a(0x224),_0x16392a(0x3e4)+_0x16392a(0x8bd),_0x16392a(0xc9c)+_0x16392a(0x45d)]},{'id':_0x16392a(0xc4d)+'es','title':{'en':_0x16392a(0xc80)+_0x16392a(0xce3)+_0x16392a(0x7ed)},'filter_ids':[_0x16392a(0x464)+_0x16392a(0x919),_0x16392a(0xc2d)+_0x16392a(0x3ad)+_0x16392a(0xbd2),_0x16392a(0x84b),_0x16392a(0x3c0)+_0x16392a(0x5b9)+_0x16392a(0xacd)+_0x16392a(0xccc),_0x16392a(0x3c0)+_0x16392a(0xd87)+_0x16392a(0x271),_0x16392a(0xb28)+_0x16392a(0xb5d)+'n',_0x16392a(0x611)+_0x16392a(0xca4)+_0x16392a(0x431)+'h',_0x16392a(0xa19)+_0x16392a(0xc76),_0x16392a(0x52f)+_0x16392a(0x892)+_0x16392a(0x1d3),_0x16392a(0x86a)+_0x16392a(0x86c)+_0x16392a(0x266),_0x16392a(0xb28)+_0x16392a(0x5ac)+_0x16392a(0x769),_0x16392a(0x51f)+_0x16392a(0x1f2),_0x16392a(0xb85)+_0x16392a(0x9c5)+_0x16392a(0xd90),_0x16392a(0x93b)+_0x16392a(0xb02)+_0x16392a(0x6f0),_0x16392a(0x2e3)+_0x16392a(0x30c)+'y',_0x16392a(0x59c)+_0x16392a(0x65c)+_0x16392a(0x779),_0x16392a(0x59c)+_0x16392a(0x881)+'ed',_0x16392a(0x59c)+_0x16392a(0xbdc)+_0x16392a(0x6e7)]},{'id':_0x16392a(0x1ef)+_0x16392a(0xcd5),'title':{'en':_0x16392a(0x42d)},'filter_ids':[_0x16392a(0x38d),_0x16392a(0x3b9),_0x16392a(0x4f5)+_0x16392a(0x23d),_0x16392a(0x24c),_0x16392a(0x4cb),_0x16392a(0x412)+'st',_0x16392a(0xa57)+'e']},{'id':_0x16392a(0x216)+_0x16392a(0xd1c),'title':{'en':_0x16392a(0xc10)},'filter_ids':[_0x16392a(0x477)+'ll',_0x16392a(0xb0f)+_0x16392a(0xd30),_0x16392a(0x43d),_0x16392a(0xada),_0x16392a(0x9ef),_0x16392a(0x1e5),_0x16392a(0x37f),_0x16392a(0xcb6),_0x16392a(0x4cb),_0x16392a(0x828)+'r',_0x16392a(0x9a7)+'f']},{'id':_0x16392a(0x330)+'t','title':{'en':_0x16392a(0x65f)},'filter_ids':[_0x16392a(0x614),_0x16392a(0x276),_0x16392a(0x501),_0x16392a(0xd51)+'ts',_0x16392a(0x1e2),_0x16392a(0xa1d)+_0x16392a(0x4a7)]},{'id':_0x16392a(0x568),'title':{'en':_0x16392a(0x3a6)},'filter_ids':[_0x16392a(0xd5b),_0x16392a(0x926)+'ce',_0x16392a(0x915)+'wn',_0x16392a(0xbe8)]},{'id':_0x16392a(0xa6b)+_0x16392a(0xd50),'title':{'en':_0x16392a(0x23a)},'filter_ids':[_0x16392a(0xc17),_0x16392a(0x96a)+_0x16392a(0x27b),_0x16392a(0xce9),_0x16392a(0x73f),_0x16392a(0xa1a),_0x16392a(0x803)+_0x16392a(0x7fb),_0x16392a(0xbe5)]},{'id':_0x16392a(0x3b7)+_0x16392a(0xa44),'title':{'en':_0x16392a(0xb45)},'filter_ids':[_0x16392a(0xa74)+_0x16392a(0x366),_0x16392a(0xad5)+_0x16392a(0x61c),_0x16392a(0xd7d),_0x16392a(0xae3),_0x16392a(0x89e),_0x16392a(0x81b)+'ts',_0x16392a(0x9c4),_0x16392a(0x883)+'ut',_0x16392a(0x34e)]}],'picker_filters':[_0x16392a(0x38d),_0x16392a(0x3b9),_0x16392a(0x4f5)+_0x16392a(0x23d),_0x16392a(0x24c),_0x16392a(0x4cb),_0x16392a(0x477)+'ll',_0x16392a(0xb0f)+_0x16392a(0xd30),_0x16392a(0x43d),_0x16392a(0xada),_0x16392a(0x9ef),_0x16392a(0x1e5),_0x16392a(0x37f),_0x16392a(0xcb6),_0x16392a(0x276),_0x16392a(0x501),_0x16392a(0xd51)+'ts',_0x16392a(0x1e2),_0x16392a(0xa1d)+_0x16392a(0x4a7),_0x16392a(0xd5b),_0x16392a(0x926)+'ce',_0x16392a(0x915)+'wn',_0x16392a(0xbe8),_0x16392a(0xc17),_0x16392a(0x96a)+_0x16392a(0x27b),_0x16392a(0xce9),_0x16392a(0x73f),_0x16392a(0xa74)+_0x16392a(0x366),_0x16392a(0xad5)+_0x16392a(0x61c),_0x16392a(0xd7d),_0x16392a(0xae3),_0x16392a(0x89e),_0x16392a(0x81b)+'ts',_0x16392a(0x9c4),_0x16392a(0x883)+'ut',_0x16392a(0x34e),_0x16392a(0x656)+_0x16392a(0x67d),_0x16392a(0x58c)+_0x16392a(0x9df),_0x16392a(0x85a)+_0x16392a(0x6db),_0x16392a(0x78a)+_0x16392a(0x9eb),_0x16392a(0x78a)+_0x16392a(0x616),_0x16392a(0xae0)+'ut',_0x16392a(0x518)+_0x16392a(0xd68)+_0x16392a(0x224),_0x16392a(0x3e4)+_0x16392a(0x8bd),_0x16392a(0xc9c)+_0x16392a(0x45d),_0x16392a(0x464)+_0x16392a(0x919),_0x16392a(0xc2d)+_0x16392a(0x3ad)+_0x16392a(0xbd2),_0x16392a(0x84b),_0x16392a(0x3c0)+_0x16392a(0x5b9)+_0x16392a(0xacd)+_0x16392a(0xccc),_0x16392a(0x3c0)+_0x16392a(0xd87)+_0x16392a(0x271),_0x16392a(0xb28)+_0x16392a(0xb5d)+'n',_0x16392a(0x611)+_0x16392a(0xca4)+_0x16392a(0x431)+'h',_0x16392a(0xa19)+_0x16392a(0xc76),_0x16392a(0x52f)+_0x16392a(0x892)+_0x16392a(0x1d3),_0x16392a(0x86a)+_0x16392a(0x86c)+_0x16392a(0x266),_0x16392a(0xb28)+_0x16392a(0x5ac)+_0x16392a(0x769),_0x16392a(0x51f)+_0x16392a(0x1f2),_0x16392a(0xb85)+_0x16392a(0x9c5)+_0x16392a(0xd90),_0x16392a(0x93b)+_0x16392a(0xb02)+_0x16392a(0x6f0),_0x16392a(0x2e3)+_0x16392a(0x30c)+'y',_0x16392a(0x59c)+_0x16392a(0x65c)+_0x16392a(0x779),_0x16392a(0x59c)+_0x16392a(0x881)+'ed',_0x16392a(0x59c)+_0x16392a(0xbdc)+_0x16392a(0x6e7),_0x16392a(0x614),_0x16392a(0x365),_0x16392a(0x7b5)+'er',_0x16392a(0xc38),_0x16392a(0x605),_0x16392a(0xba2)+'er',_0x16392a(0x4cc)+_0x16392a(0x8b0),_0x16392a(0x8a2),_0x16392a(0x9b4)+'ts',_0x16392a(0x828)+'r',_0x16392a(0xa1a),_0x16392a(0x803)+_0x16392a(0x7fb),_0x16392a(0x412)+'st',_0x16392a(0xbe5),_0x16392a(0xb32)+'va',_0x16392a(0x7ec),_0x16392a(0x551)+_0x16392a(0x914),_0x16392a(0xc0b)+_0x16392a(0xd14),_0x16392a(0x509)+'r',_0x16392a(0x9a7)+'f',_0x16392a(0xa57)+'e'],'remote_filters':[{'uid':_0x16392a(0x828)+'r','id':_0x16392a(0x828)+'r','name':_0x16392a(0x514)+_0x16392a(0x645),'prompt':_0x16392a(0x6c5)+_0x16392a(0x4aa)+_0x16392a(0x7d4)+_0x16392a(0xdbd)+_0x16392a(0xae4)+_0x16392a(0x314)+_0x16392a(0x1d8)+_0x16392a(0x1fd)+_0x16392a(0x4a9)+_0x16392a(0xd63)+_0x16392a(0x590)+_0x16392a(0x2fa)+_0x16392a(0x5a0)+_0x16392a(0xc07)+_0x16392a(0x496)+_0x16392a(0x3ea)+_0x16392a(0xbae)+_0x16392a(0x576)+_0x16392a(0xa26)+'.','productUrl':null,'colors':[_0x16392a(0x3f1),_0x16392a(0x945)],'captureButtonColors':[_0x16392a(0x3f1),_0x16392a(0x945)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x41c)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x41c)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x41c)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0xbca)+'ro','emoji':''},'textColor':_0x16392a(0x858),'style':_0x16392a(0x558),'overlay':!![],'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x41c)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x41c)+_0x16392a(0xa83),'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x41c)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x41c)+_0x16392a(0xa83),'referenceImages':[],'type':_0x16392a(0xce2),'filterType':_0x16392a(0xce2)},{'uid':_0x16392a(0xa1a),'id':_0x16392a(0xa1a),'name':_0x16392a(0x70f)+_0x16392a(0x269),'prompt':_0x16392a(0x6c5)+_0x16392a(0x4aa)+_0x16392a(0x7d4)+_0x16392a(0xdbd)+_0x16392a(0xae4)+_0x16392a(0x314)+_0x16392a(0x1d8)+_0x16392a(0xc66)+_0x16392a(0x45b)+_0x16392a(0x949)+_0x16392a(0x7a3)+_0x16392a(0x925)+_0x16392a(0x736)+_0x16392a(0x83d)+_0x16392a(0x69f)+_0x16392a(0xb6c)+_0x16392a(0x9fb)+_0x16392a(0x253)+_0x16392a(0xd98)+_0x16392a(0x6fd)+_0x16392a(0x37b)+_0x16392a(0x6ff)+_0x16392a(0x5b2)+'e.','productUrl':null,'colors':[_0x16392a(0x353),_0x16392a(0x56c)],'captureButtonColors':[_0x16392a(0x353),_0x16392a(0x56c)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x237)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x237)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x237)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0x2d7),'emoji':''},'textColor':_0x16392a(0x858),'style':_0x16392a(0x558),'overlay':!![],'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x237)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x237)+_0x16392a(0xa83),'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x237)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x237)+_0x16392a(0xa83),'referenceImages':[],'type':_0x16392a(0xce2),'filterType':_0x16392a(0xce2)},{'uid':_0x16392a(0x803)+_0x16392a(0x7fb),'id':_0x16392a(0x803)+_0x16392a(0x7fb),'name':_0x16392a(0xaa0)+_0x16392a(0x688),'prompt':_0x16392a(0x6c5)+_0x16392a(0x4aa)+_0x16392a(0x7d4)+_0x16392a(0xdbd)+_0x16392a(0xae4)+_0x16392a(0x314)+_0x16392a(0x1d8)+_0x16392a(0xd27)+_0x16392a(0xbfe)+_0x16392a(0x941)+_0x16392a(0x348)+_0x16392a(0xa39)+_0x16392a(0x8b5)+_0x16392a(0xbf8)+_0x16392a(0x3aa)+_0x16392a(0x31f)+_0x16392a(0xc4f)+_0x16392a(0x2ea)+_0x16392a(0xa90)+_0x16392a(0x6de),'productUrl':null,'colors':[_0x16392a(0x99d),_0x16392a(0x580)],'captureButtonColors':[_0x16392a(0x99d),_0x16392a(0x580)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x2eb)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x2eb)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x2eb)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0x409)+'l','emoji':''},'textColor':_0x16392a(0x858),'style':_0x16392a(0x558),'overlay':!![],'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x2eb)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x2eb)+_0x16392a(0xa83),'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x2eb)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x2eb)+_0x16392a(0xa83),'referenceImages':[],'type':_0x16392a(0xce2),'filterType':_0x16392a(0xce2)},{'uid':_0x16392a(0x412)+'st','id':_0x16392a(0x412)+'st','name':_0x16392a(0x493)+'ỏ','prompt':_0x16392a(0x6c5)+_0x16392a(0x4aa)+_0x16392a(0x7d4)+_0x16392a(0xdbd)+_0x16392a(0xae4)+_0x16392a(0xd4e)+_0x16392a(0x2e5)+_0x16392a(0x1bc)+_0x16392a(0x426)+_0x16392a(0x3f3)+_0x16392a(0x9d7)+_0x16392a(0x41d)+_0x16392a(0x83c)+_0x16392a(0x44b)+_0x16392a(0x92d)+_0x16392a(0x4de)+_0x16392a(0x75e)+_0x16392a(0xa65)+_0x16392a(0xa4c)+_0x16392a(0xcb4)+_0x16392a(0xcb5)+_0x16392a(0x7dc),'productUrl':null,'colors':[_0x16392a(0xc62),_0x16392a(0x225)],'captureButtonColors':[_0x16392a(0xc62),_0x16392a(0x225)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x6e2)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x6e2)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x6e2)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0x7dd)+_0x16392a(0x335),'emoji':''},'textColor':_0x16392a(0x858),'style':_0x16392a(0x558),'overlay':!![],'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x6e2)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x6e2)+_0x16392a(0xa83),'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x6e2)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x6e2)+_0x16392a(0xa83),'referenceImages':[],'type':_0x16392a(0xce2),'filterType':_0x16392a(0xce2)},{'uid':_0x16392a(0xbe5),'id':_0x16392a(0xbe5),'name':_0x16392a(0x924)+'ển','prompt':_0x16392a(0x6c5)+_0x16392a(0x4aa)+_0x16392a(0x7d4)+_0x16392a(0xdbd)+_0x16392a(0xae4)+_0x16392a(0x314)+_0x16392a(0x1d8)+_0x16392a(0xb23)+_0x16392a(0x53c)+_0x16392a(0xdaa)+_0x16392a(0xaaf)+_0x16392a(0x893)+_0x16392a(0xc43)+_0x16392a(0x31f)+_0x16392a(0xc4f)+_0x16392a(0xdc3)+_0x16392a(0xbac)+_0x16392a(0x79b)+_0x16392a(0x6de),'productUrl':null,'colors':[_0x16392a(0xdd3),_0x16392a(0x566)],'captureButtonColors':[_0x16392a(0xdd3),_0x16392a(0x566)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xc08)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xc08)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xc08)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0x520),'emoji':''},'textColor':_0x16392a(0x858),'style':_0x16392a(0x558),'overlay':!![],'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xc08)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xc08)+_0x16392a(0xa83),'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xc08)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xc08)+_0x16392a(0xa83),'referenceImages':[],'type':_0x16392a(0xce2),'filterType':_0x16392a(0xce2)},{'uid':_0x16392a(0xb32)+'va','id':_0x16392a(0xb32)+'va','name':_0x16392a(0x7b0)+_0x16392a(0x252),'prompt':_0x16392a(0x6c5)+_0x16392a(0x4aa)+_0x16392a(0x7d4)+_0x16392a(0xdbd)+_0x16392a(0xae4)+_0x16392a(0x56b)+_0x16392a(0x2f1)+_0x16392a(0xd69)+_0x16392a(0x28d)+_0x16392a(0x978)+_0x16392a(0xad3)+_0x16392a(0x34d)+_0x16392a(0x4b2)+_0x16392a(0xc98)+_0x16392a(0x639)+_0x16392a(0x4af)+_0x16392a(0x717)+_0x16392a(0xa00)+_0x16392a(0xd9e)+_0x16392a(0x6e5)+_0x16392a(0xcf5)+_0x16392a(0xdc8)+_0x16392a(0xd15)+_0x16392a(0x80f)+_0x16392a(0x52e)+_0x16392a(0xced)+_0x16392a(0x38e)+_0x16392a(0x372)+_0x16392a(0x77a)+_0x16392a(0x57b)+_0x16392a(0x58a)+_0x16392a(0xb0a)+_0x16392a(0x2c5)+'e.','productUrl':null,'colors':[_0x16392a(0xdb0),_0x16392a(0x7ca)],'captureButtonColors':[_0x16392a(0xdb0),_0x16392a(0x7ca)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xd01)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xd01)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xd01)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0xa68),'emoji':''},'textColor':_0x16392a(0x858),'style':_0x16392a(0x558),'overlay':!![],'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xd01)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xd01)+_0x16392a(0xa83),'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xd01)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xd01)+_0x16392a(0xa83),'referenceImages':[],'type':_0x16392a(0xce2),'filterType':_0x16392a(0xce2)},{'uid':_0x16392a(0x7ec),'id':_0x16392a(0x7ec),'name':_0x16392a(0x735)+_0x16392a(0xcb8),'prompt':_0x16392a(0x8ff)+_0x16392a(0x35f)+_0x16392a(0x5ff)+_0x16392a(0x91c)+_0x16392a(0xd8e)+_0x16392a(0x8ca)+_0x16392a(0x3f9)+_0x16392a(0xd6a)+_0x16392a(0xba9)+_0x16392a(0x3dd)+_0x16392a(0x3be)+_0x16392a(0x93f)+_0x16392a(0x87f)+_0x16392a(0x7c6)+_0x16392a(0xcda)+_0x16392a(0xc58)+_0x16392a(0x9ce)+_0x16392a(0x374)+_0x16392a(0x791)+_0x16392a(0xc0c)+_0x16392a(0xadf)+_0x16392a(0x6e1)+_0x16392a(0x84d)+_0x16392a(0xba7)+_0x16392a(0xd38)+_0x16392a(0x374)+_0x16392a(0x806)+_0x16392a(0x7c4)+_0x16392a(0xbda)+_0x16392a(0xc1a)+_0x16392a(0x89a)+_0x16392a(0xc2f)+_0x16392a(0x36a)+_0x16392a(0x235)+_0x16392a(0x90d)+_0x16392a(0x75a)+_0x16392a(0x268)+_0x16392a(0x86b)+_0x16392a(0x9a0)+_0x16392a(0x9d0)+_0x16392a(0x562)+_0x16392a(0x313)+_0x16392a(0xa9a)+_0x16392a(0x1da)+_0x16392a(0xa69)+_0x16392a(0xcb0)+_0x16392a(0x754)+_0x16392a(0x785)+_0x16392a(0x231)+_0x16392a(0xcc4)+_0x16392a(0x8d7)+_0x16392a(0x91f)+_0x16392a(0x5c8)+_0x16392a(0x2d9)+_0x16392a(0x484)+_0x16392a(0x86f)+_0x16392a(0x740)+_0x16392a(0x885)+_0x16392a(0x3f7)+_0x16392a(0xae9)+_0x16392a(0x4d4)+_0x16392a(0xa4d)+_0x16392a(0x841)+_0x16392a(0x68b)+_0x16392a(0x753)+_0x16392a(0x692)+_0x16392a(0xca5)+_0x16392a(0xa5b)+_0x16392a(0x1ce)+_0x16392a(0x786)+_0x16392a(0x752)+_0x16392a(0x4ac)+_0x16392a(0xa3f)+_0x16392a(0x9bc)+_0x16392a(0x63f)+_0x16392a(0xcae)+_0x16392a(0x74c)+_0x16392a(0x8c0)+_0x16392a(0x294)+_0x16392a(0x6c7)+_0x16392a(0xa58)+_0x16392a(0x3fc)+_0x16392a(0x88d)+_0x16392a(0xd66)+_0x16392a(0x5f9)+_0x16392a(0xbb3)+_0x16392a(0x1bd)+_0x16392a(0x4ab)+_0x16392a(0xd7b)+_0x16392a(0xc85)+_0x16392a(0x880)+_0x16392a(0x7f7)+_0x16392a(0xa62)+_0x16392a(0xcdd)+_0x16392a(0x71e)+_0x16392a(0x8ee)+_0x16392a(0xd78)+_0x16392a(0xcd8)+_0x16392a(0x4eb)+_0x16392a(0x5b8)+(_0x16392a(0x654)+_0x16392a(0x87b)+_0x16392a(0x710)+_0x16392a(0x394)+_0x16392a(0x733)+_0x16392a(0x1bf)+_0x16392a(0x3a1)+_0x16392a(0x67e)+_0x16392a(0xade)+_0x16392a(0xd16)+_0x16392a(0x376)+_0x16392a(0xcec)+_0x16392a(0x909)+_0x16392a(0xb7d)+_0x16392a(0x661)+_0x16392a(0x960)+_0x16392a(0xafb)+_0x16392a(0xb77)+_0x16392a(0x88a)+_0x16392a(0x5e5)+_0x16392a(0xdc6)+_0x16392a(0xb6e)+_0x16392a(0x747)+_0x16392a(0xd08)+_0x16392a(0x316)+_0x16392a(0xd12)+_0x16392a(0x30e)+'e.'),'productUrl':null,'colors':[_0x16392a(0xc12),_0x16392a(0x46f)],'captureButtonColors':[_0x16392a(0xc12),_0x16392a(0x46f)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xbd9)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xbd9)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xbd9)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0x668)+_0x16392a(0x43f),'emoji':''},'textColor':_0x16392a(0x858),'style':_0x16392a(0x558),'overlay':!![],'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xbd9)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xbd9)+_0x16392a(0xa83),'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xbd9)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xbd9)+_0x16392a(0xa83),'referenceImages':[],'type':_0x16392a(0xce2),'filterType':_0x16392a(0xce2)},{'uid':_0x16392a(0x551)+_0x16392a(0x914),'id':_0x16392a(0x551)+_0x16392a(0x914),'name':_0x16392a(0x776)+_0x16392a(0x3a3),'prompt':_0x16392a(0x6c5)+_0x16392a(0x4aa)+_0x16392a(0x7d4)+_0x16392a(0xdbd)+_0x16392a(0xae4)+_0x16392a(0xd4e)+_0x16392a(0x2e5)+_0x16392a(0x1bc)+_0x16392a(0xc95)+_0x16392a(0x7b9)+_0x16392a(0x3d2)+_0x16392a(0x716)+_0x16392a(0x40c)+_0x16392a(0x49b)+_0x16392a(0x234)+_0x16392a(0xd0a)+_0x16392a(0x982)+_0x16392a(0xc61)+_0x16392a(0xc5c)+_0x16392a(0x29a)+_0x16392a(0x47b)+_0x16392a(0x609)+_0x16392a(0x4f4)+_0x16392a(0x25d)+_0x16392a(0x3ee)+_0x16392a(0x324)+_0x16392a(0xb6f)+_0x16392a(0xbae)+_0x16392a(0x541)+_0x16392a(0xd32)+_0x16392a(0x5ca),'productUrl':null,'colors':[_0x16392a(0x5c3),_0x16392a(0xd02)],'captureButtonColors':[_0x16392a(0x5c3),_0x16392a(0xd02)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x6a7)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x6a7)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x6a7)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0xb09)+_0x16392a(0x327),'emoji':''},'textColor':_0x16392a(0x858),'style':_0x16392a(0x558),'overlay':!![],'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x6a7)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x6a7)+_0x16392a(0xa83),'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x6a7)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x6a7)+_0x16392a(0xa83),'referenceImages':[],'type':_0x16392a(0xce2),'filterType':_0x16392a(0xce2)},{'uid':_0x16392a(0xc0b)+_0x16392a(0xd14),'id':_0x16392a(0xc0b)+_0x16392a(0xd14),'name':_0x16392a(0x31e)+_0x16392a(0xa41),'prompt':_0x16392a(0x6c5)+_0x16392a(0x4aa)+_0x16392a(0x7d4)+_0x16392a(0xdbd)+_0x16392a(0xae4)+_0x16392a(0xd4e)+_0x16392a(0x2e5)+_0x16392a(0x1bc)+_0x16392a(0x317)+_0x16392a(0xaa1)+_0x16392a(0x301)+_0x16392a(0x397)+_0x16392a(0xbf7)+_0x16392a(0xb56)+_0x16392a(0xbdf)+_0x16392a(0x2a4)+_0x16392a(0x77e)+_0x16392a(0x1c8)+_0x16392a(0x60f)+_0x16392a(0x202)+_0x16392a(0x739)+_0x16392a(0xd7f)+_0x16392a(0x2f8),'productUrl':null,'colors':[_0x16392a(0x2f0),_0x16392a(0xa5f)],'captureButtonColors':[_0x16392a(0x2f0),_0x16392a(0xa5f)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xac7)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xac7)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xac7)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0x1e0)+_0x16392a(0x9ac),'emoji':''},'textColor':_0x16392a(0x858),'style':_0x16392a(0x558),'overlay':!![],'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xac7)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xac7)+_0x16392a(0xa83),'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xac7)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xac7)+_0x16392a(0xa83),'referenceImages':[],'type':_0x16392a(0xce2),'filterType':_0x16392a(0xce2)},{'uid':_0x16392a(0x509)+'r','id':_0x16392a(0x509)+'r','name':_0x16392a(0xb15)+_0x16392a(0x6d4),'prompt':_0x16392a(0x6c5)+_0x16392a(0x4aa)+_0x16392a(0x7d4)+_0x16392a(0xdbd)+_0x16392a(0xae4)+_0x16392a(0xd4e)+_0x16392a(0x2e5)+_0x16392a(0x1bc)+_0x16392a(0xc95)+_0x16392a(0x9aa)+_0x16392a(0x328)+_0x16392a(0x5f3)+_0x16392a(0x5e4)+_0x16392a(0x61f)+_0x16392a(0x8ef)+_0x16392a(0x765)+_0x16392a(0x2a6)+_0x16392a(0x3c1)+_0x16392a(0x578)+_0x16392a(0x5a0)+_0x16392a(0xc07)+_0x16392a(0xc40)+_0x16392a(0x5aa)+_0x16392a(0x5b5)+_0x16392a(0xcc7),'productUrl':null,'colors':[_0x16392a(0x610),_0x16392a(0x808)],'captureButtonColors':[_0x16392a(0x610),_0x16392a(0x808)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x629)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x629)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x629)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0xb3d)+'ll','emoji':''},'textColor':_0x16392a(0x858),'style':_0x16392a(0x558),'overlay':!![],'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x629)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x629)+_0x16392a(0xa83),'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x629)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x629)+_0x16392a(0xa83),'referenceImages':[],'type':_0x16392a(0xce2),'filterType':_0x16392a(0xce2)},{'uid':_0x16392a(0x9a7)+'f','id':_0x16392a(0x9a7)+'f','name':_0x16392a(0xbf5)+_0x16392a(0x3b0),'prompt':_0x16392a(0x6c5)+_0x16392a(0x4aa)+_0x16392a(0x7d4)+_0x16392a(0xdbd)+_0x16392a(0xae4)+_0x16392a(0x56b)+_0x16392a(0x2f1)+_0x16392a(0xd69)+_0x16392a(0x28d)+_0x16392a(0x66d)+_0x16392a(0x866)+_0x16392a(0x2ae)+_0x16392a(0x657)+_0x16392a(0xa0e)+_0x16392a(0x891)+_0x16392a(0xa70)+_0x16392a(0x694)+_0x16392a(0x73c)+_0x16392a(0x7d1)+_0x16392a(0x1bc)+_0x16392a(0xd70)+_0x16392a(0xa30)+_0x16392a(0x2df)+_0x16392a(0x79d)+_0x16392a(0x6ec)+_0x16392a(0xcde)+_0x16392a(0x2a9)+_0x16392a(0x338)+_0x16392a(0xcef)+_0x16392a(0xc70)+_0x16392a(0x380)+_0x16392a(0x738)+_0x16392a(0x326)+_0x16392a(0x812)+_0x16392a(0xd8a)+_0x16392a(0x5ce),'productUrl':null,'colors':[_0x16392a(0xb4d),_0x16392a(0x358)],'captureButtonColors':[_0x16392a(0xb4d),_0x16392a(0x358)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x3e2)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x3e2)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x3e2)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0x399),'emoji':''},'textColor':_0x16392a(0x858),'style':_0x16392a(0x558),'overlay':!![],'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x3e2)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x3e2)+_0x16392a(0xa83),'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x3e2)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x3e2)+_0x16392a(0xa83),'referenceImages':[],'type':_0x16392a(0xce2),'filterType':_0x16392a(0xce2)},{'uid':_0x16392a(0xa57)+'e','id':_0x16392a(0xa57)+'e','name':_0x16392a(0x7b6)+'bi','prompt':_0x16392a(0x6c5)+_0x16392a(0x4aa)+_0x16392a(0x7d4)+_0x16392a(0xdbd)+_0x16392a(0xae4)+_0x16392a(0x314)+_0x16392a(0x1d8)+_0x16392a(0xa9b)+_0x16392a(0xcf6)+_0x16392a(0xa98)+_0x16392a(0x49c)+_0x16392a(0x451)+_0x16392a(0x953)+_0x16392a(0x745)+_0x16392a(0xcdf),'productUrl':null,'colors':[_0x16392a(0xbbc),_0x16392a(0x4cd)],'captureButtonColors':[_0x16392a(0xbbc),_0x16392a(0x4cd)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xb8e)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xb8e)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xb8e)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0x7fd)+'l','emoji':''},'textColor':_0x16392a(0x858),'style':_0x16392a(0x558),'overlay':!![],'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xb8e)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xb8e)+_0x16392a(0xa83),'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xb8e)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xb8e)+_0x16392a(0xa83),'referenceImages':[],'type':_0x16392a(0xce2),'filterType':_0x16392a(0xce2)},{'uid':_0x16392a(0x365),'id':_0x16392a(0x365),'name':_0x16392a(0xc15)+_0x16392a(0x413),'prompt':_0x16392a(0x6c5)+_0x16392a(0x4aa)+_0x16392a(0x7d4)+_0x16392a(0xdbd)+_0x16392a(0xae4)+_0x16392a(0x314)+_0x16392a(0x1d8)+_0x16392a(0xbd8)+_0x16392a(0x4d1)+_0x16392a(0xacc)+_0x16392a(0xb31)+_0x16392a(0x1de)+_0x16392a(0xc54)+_0x16392a(0x379)+_0x16392a(0x1c1)+_0x16392a(0x8ae)+_0x16392a(0x53d)+_0x16392a(0x527)+_0x16392a(0x8c6)+_0x16392a(0x1c8)+_0x16392a(0x946)+_0x16392a(0x485)+_0x16392a(0x6d5)+_0x16392a(0xc0a)+_0x16392a(0x25b)+_0x16392a(0x553)+_0x16392a(0x22b)+_0x16392a(0x1fe)+_0x16392a(0x47f)+_0x16392a(0x3fd)+_0x16392a(0x69a)+_0x16392a(0x59b)+_0x16392a(0x6cb)+_0x16392a(0xc5b)+_0x16392a(0x9b8)+_0x16392a(0x490)+_0x16392a(0x564)+_0x16392a(0xca7),'productUrl':null,'colors':[_0x16392a(0xd02),_0x16392a(0x4cd)],'captureButtonColors':[_0x16392a(0xd02),_0x16392a(0x4cd)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x9cb)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x9cb)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x9cb)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0x3de),'emoji':''},'textColor':_0x16392a(0x858),'style':_0x16392a(0x558),'overlay':![],'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x9cb)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x9cb)+_0x16392a(0xa83),'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x9cb)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x9cb)+_0x16392a(0xa83),'referenceImages':[],'type':_0x16392a(0xce2),'filterType':_0x16392a(0xce2)},{'uid':_0x16392a(0x7b5)+'er','id':_0x16392a(0x7b5)+'er','name':_0x16392a(0x3ae)+_0x16392a(0xd9c),'prompt':_0x16392a(0x6c5)+_0x16392a(0x4aa)+_0x16392a(0x7d4)+_0x16392a(0xdbd)+_0x16392a(0xae4)+_0x16392a(0x314)+_0x16392a(0x1d8)+_0x16392a(0xb84)+_0x16392a(0x7e1)+_0x16392a(0xcf3)+_0x16392a(0x56e)+_0x16392a(0x4ee)+_0x16392a(0xcdc)+_0x16392a(0x30f)+_0x16392a(0x822)+_0x16392a(0x9e6)+_0x16392a(0x491)+_0x16392a(0x6e9)+_0x16392a(0x898)+_0x16392a(0x653)+_0x16392a(0x1c9)+_0x16392a(0x613)+_0x16392a(0x28e),'productUrl':null,'colors':[_0x16392a(0x931),_0x16392a(0x78f)],'captureButtonColors':[_0x16392a(0x931),_0x16392a(0x78f)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x8db)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x8db)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x8db)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0xbfc)+_0x16392a(0x744),'emoji':''},'textColor':_0x16392a(0x858),'style':_0x16392a(0x558),'overlay':![],'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x8db)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x8db)+_0x16392a(0xa83),'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x8db)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x8db)+_0x16392a(0xa83),'referenceImages':[],'type':_0x16392a(0xce2),'filterType':_0x16392a(0xce2)},{'uid':_0x16392a(0xc38),'id':_0x16392a(0xc38),'name':_0x16392a(0x331)+'3D','prompt':_0x16392a(0x6c5)+_0x16392a(0x4aa)+_0x16392a(0x7d4)+_0x16392a(0xdbd)+_0x16392a(0xae4)+_0x16392a(0xd4e)+_0x16392a(0x2e5)+_0x16392a(0x1bc)+_0x16392a(0xc95)+_0x16392a(0x5a2)+_0x16392a(0x548)+_0x16392a(0x3e3)+_0x16392a(0xd3a)+_0x16392a(0xdcb)+_0x16392a(0xd76)+_0x16392a(0x5fc)+_0x16392a(0x1db)+_0x16392a(0x526)+_0x16392a(0xc64)+_0x16392a(0x5dd)+_0x16392a(0x1f1)+_0x16392a(0xb1a)+_0x16392a(0x507)+_0x16392a(0x80f)+_0x16392a(0xd7c)+_0x16392a(0x884)+_0x16392a(0xa26)+'.','productUrl':null,'colors':[_0x16392a(0xa63),_0x16392a(0x69c)],'captureButtonColors':[_0x16392a(0xa63),_0x16392a(0x69c)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x660)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x660)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x660)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0x5e0),'emoji':''},'textColor':_0x16392a(0x858),'style':_0x16392a(0x558),'overlay':![],'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x660)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x660)+_0x16392a(0xa83),'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x660)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x660)+_0x16392a(0xa83),'referenceImages':[],'type':_0x16392a(0xce2),'filterType':_0x16392a(0xce2)},{'uid':_0x16392a(0x605),'id':_0x16392a(0x605),'name':_0x16392a(0xc92)+_0x16392a(0x500),'prompt':_0x16392a(0x6c5)+_0x16392a(0x994)+_0x16392a(0x746)+_0x16392a(0xd56)+_0x16392a(0x95b)+_0x16392a(0x95e)+_0x16392a(0xda9)+_0x16392a(0xb53)+_0x16392a(0x8c4)+_0x16392a(0x48f)+_0x16392a(0x81c)+_0x16392a(0x6f9)+_0x16392a(0xaca)+_0x16392a(0xa07)+_0x16392a(0x8e9)+_0x16392a(0x8ed)+_0x16392a(0xb99)+_0x16392a(0x7cf)+_0x16392a(0x890)+_0x16392a(0x21f)+_0x16392a(0xd20)+_0x16392a(0xb7c)+_0x16392a(0x8ea)+_0x16392a(0x93e)+_0x16392a(0xaff)+_0x16392a(0x3b6)+_0x16392a(0xc73)+_0x16392a(0x4b1)+_0x16392a(0xcfe)+_0x16392a(0x8a4)+_0x16392a(0x92e)+_0x16392a(0xdc7)+_0x16392a(0xcf9)+_0x16392a(0x284)+_0x16392a(0xd81)+_0x16392a(0xc28)+_0x16392a(0x535)+_0x16392a(0x51a)+_0x16392a(0xd22)+_0x16392a(0x563)+_0x16392a(0xcca)+_0x16392a(0x31c)+_0x16392a(0xd2f)+_0x16392a(0x839)+_0x16392a(0x674)+_0x16392a(0x1cf)+_0x16392a(0x62a)+_0x16392a(0xd17)+_0x16392a(0xc25)+_0x16392a(0xa29)+_0x16392a(0xc48)+_0x16392a(0xc93)+_0x16392a(0xb2a)+_0x16392a(0xa8a)+_0x16392a(0x6e4)+_0x16392a(0xa53)+_0x16392a(0xacb)+_0x16392a(0x93c)+_0x16392a(0x685)+_0x16392a(0x586)+_0x16392a(0x81f)+_0x16392a(0x4b0)+_0x16392a(0x91a)+_0x16392a(0xb8b)+_0x16392a(0x443)+_0x16392a(0xc26)+_0x16392a(0xbb5)+_0x16392a(0xa73)+_0x16392a(0x8a1)+_0x16392a(0xb6a)+_0x16392a(0x98f)+_0x16392a(0x7d7)+_0x16392a(0x8b3)+_0x16392a(0xc3a)+_0x16392a(0x26f)+_0x16392a(0x7f9)+_0x16392a(0x4c6)+_0x16392a(0x8bc)+_0x16392a(0x8f6)+_0x16392a(0xaef)+_0x16392a(0x2e8)+_0x16392a(0x907)+_0x16392a(0x641)+_0x16392a(0x5b6)+_0x16392a(0x794)+_0x16392a(0xb35)+_0x16392a(0x737)+_0x16392a(0xb33)+_0x16392a(0x5d2)+_0x16392a(0xc3f)+_0x16392a(0x4d6)+_0x16392a(0xd44)+_0x16392a(0x295)+_0x16392a(0x7b8)+_0x16392a(0x751)+_0x16392a(0x3cb)+_0x16392a(0x1e4)+_0x16392a(0x23e)+_0x16392a(0xd24)+_0x16392a(0x363)+(_0x16392a(0x950)+_0x16392a(0x289)+_0x16392a(0xb40)+_0x16392a(0xbc7)+_0x16392a(0x1be)+_0x16392a(0x81a)+_0x16392a(0xb98)+_0x16392a(0xb22)+_0x16392a(0xb46)+_0x16392a(0xb51)+_0x16392a(0xb50)+_0x16392a(0x228)+_0x16392a(0xd93)+_0x16392a(0x9f2)+_0x16392a(0x4aa)+_0x16392a(0x7cb)+_0x16392a(0x51c)),'productUrl':null,'colors':[_0x16392a(0x808),_0x16392a(0x4d0)],'captureButtonColors':[_0x16392a(0x808),_0x16392a(0x4d0)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x3b8)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x3b8)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x3b8)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0xa68),'emoji':''},'textColor':_0x16392a(0x858),'style':_0x16392a(0x558),'overlay':![],'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x3b8)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x3b8)+_0x16392a(0xa83),'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x3b8)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x3b8)+_0x16392a(0xa83),'referenceImages':[],'type':_0x16392a(0xce2),'filterType':_0x16392a(0xce2)},{'uid':_0x16392a(0xba2)+'er','id':_0x16392a(0xba2)+'er','name':_0x16392a(0xbd1)+_0x16392a(0xc5f),'prompt':_0x16392a(0x6c5)+_0x16392a(0x4aa)+_0x16392a(0x7d4)+_0x16392a(0xdbd)+_0x16392a(0xae4)+_0x16392a(0xd4e)+_0x16392a(0x2e5)+_0x16392a(0x1bc)+_0x16392a(0xbbf)+_0x16392a(0xad2)+_0x16392a(0x2a8)+_0x16392a(0x462)+_0x16392a(0x497)+_0x16392a(0xb3e)+_0x16392a(0x4e1)+_0x16392a(0x52b)+_0x16392a(0xb7a)+_0x16392a(0x98d)+_0x16392a(0xa43)+_0x16392a(0xc51)+_0x16392a(0x57d)+_0x16392a(0x1d0)+_0x16392a(0x38e)+'t.','productUrl':null,'colors':[_0x16392a(0xbaa),_0x16392a(0x7ca)],'captureButtonColors':[_0x16392a(0xbaa),_0x16392a(0x7ca)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x29c)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x29c)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x29c)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0x5db),'emoji':''},'textColor':_0x16392a(0x858),'style':_0x16392a(0x558),'overlay':![],'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x29c)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x29c)+_0x16392a(0xa83),'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x29c)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x29c)+_0x16392a(0xa83),'referenceImages':[],'type':_0x16392a(0xce2),'filterType':_0x16392a(0xce2)},{'uid':_0x16392a(0x4cc)+_0x16392a(0x8b0),'id':_0x16392a(0x4cc)+_0x16392a(0x8b0),'name':_0x16392a(0x722)+_0x16392a(0x89d),'prompt':_0x16392a(0x6c5)+_0x16392a(0x4aa)+_0x16392a(0x7d4)+_0x16392a(0xdbd)+_0x16392a(0xae4)+_0x16392a(0x56b)+_0x16392a(0x2f1)+_0x16392a(0xd69)+_0x16392a(0x28d)+_0x16392a(0x388)+_0x16392a(0xaed)+_0x16392a(0x7c3)+_0x16392a(0x354)+_0x16392a(0x617)+_0x16392a(0x6a8)+_0x16392a(0x1ee)+_0x16392a(0xb26)+_0x16392a(0x9cf)+_0x16392a(0x8da)+_0x16392a(0x739)+_0x16392a(0x940)+_0x16392a(0xb7e)+_0x16392a(0x239)+_0x16392a(0x9ca)+_0x16392a(0x7a5)+_0x16392a(0xd6a)+_0x16392a(0xcb9)+_0x16392a(0x424),'productUrl':null,'colors':[_0x16392a(0x2f0),_0x16392a(0xc12)],'captureButtonColors':[_0x16392a(0x2f0),_0x16392a(0xc12)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xc42)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xc42)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xc42)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0x683),'emoji':''},'textColor':_0x16392a(0x858),'style':_0x16392a(0x558),'overlay':![],'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xc42)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xc42)+_0x16392a(0xa83),'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xc42)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xc42)+_0x16392a(0xa83),'referenceImages':[],'type':_0x16392a(0xce2),'filterType':_0x16392a(0xce2)},{'uid':_0x16392a(0x8a2),'id':_0x16392a(0x8a2),'name':_0x16392a(0x525)+'n','prompt':_0x16392a(0x6c5)+_0x16392a(0x4aa)+_0x16392a(0x7d4)+_0x16392a(0xdbd)+_0x16392a(0xae4)+_0x16392a(0x314)+_0x16392a(0x1d8)+_0x16392a(0x445)+_0x16392a(0x863)+_0x16392a(0x2b6)+_0x16392a(0x8c8)+_0x16392a(0x72b)+_0x16392a(0x4ed)+_0x16392a(0x8df)+_0x16392a(0x544)+_0x16392a(0xd65)+_0x16392a(0xa5c)+_0x16392a(0x989)+_0x16392a(0x22b)+_0x16392a(0x1fe)+_0x16392a(0x47f)+_0x16392a(0x3fd)+_0x16392a(0x69a)+_0x16392a(0x59b)+_0x16392a(0x6cb)+_0x16392a(0xc5b)+_0x16392a(0x9b8)+_0x16392a(0x490)+_0x16392a(0x564)+_0x16392a(0xca7),'productUrl':null,'colors':[_0x16392a(0xbbc),_0x16392a(0x4cd)],'captureButtonColors':[_0x16392a(0xbbc),_0x16392a(0x4cd)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x784)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x784)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x784)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0x3de),'emoji':''},'textColor':_0x16392a(0x858),'style':_0x16392a(0x558),'overlay':![],'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x784)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x784)+_0x16392a(0xa83),'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x784)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x784)+_0x16392a(0xa83),'referenceImages':[],'type':_0x16392a(0xce2),'filterType':_0x16392a(0xce2)},{'uid':_0x16392a(0x9b4)+'ts','id':_0x16392a(0x9b4)+'ts','name':_0x16392a(0x579)+'ts','prompt':_0x16392a(0x81b)+'ts','productUrl':null,'colors':[_0x16392a(0x945),_0x16392a(0x499)],'captureButtonColors':[_0x16392a(0x945),_0x16392a(0x499)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xd75)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xd75)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xd75)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0x3de),'emoji':''},'textColor':_0x16392a(0x858),'style':_0x16392a(0x558),'overlay':!![],'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xd75)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xd75)+_0x16392a(0xa83),'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xd75)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xd75)+_0x16392a(0xa83),'referenceImages':[],'type':_0x16392a(0xce2),'filterType':_0x16392a(0x558)},{'uid':_0x16392a(0x656)+_0x16392a(0x67d),'id':_0x16392a(0x656)+_0x16392a(0x67d),'name':_0x16392a(0x9fa)+_0x16392a(0x55f)+'s','category':_0x16392a(0x9fa),'prompt':_0x16392a(0x61a)+_0x16392a(0xd9b),'style':_0x16392a(0x558),'type':_0x16392a(0xce2),'filterType':_0x16392a(0x558),'overlay':!![],'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x90e)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x90e)+_0x16392a(0xa83),'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x90e)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x90e)+_0x16392a(0xa83),'tintColor':_0x16392a(0xdc4),'colors':[_0x16392a(0xdc4),_0x16392a(0xda6)],'captureButtonColors':[_0x16392a(0xdc4),_0x16392a(0xda6)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x90e)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x90e)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x90e)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0x7f8)+_0x16392a(0x546),'symbol':_0x16392a(0x7f8)+_0x16392a(0x546),'emoji':''},'outputUrl':null,'productUrl':null,'textColor':_0x16392a(0x858),'referenceImages':[]},{'uid':_0x16392a(0x58c)+_0x16392a(0x9df),'id':_0x16392a(0x58c)+_0x16392a(0x9df),'name':_0x16392a(0x9fa)+_0x16392a(0xa5a)+'p','category':_0x16392a(0x9fa),'prompt':_0x16392a(0x2e9),'style':_0x16392a(0x558),'type':_0x16392a(0xce2),'filterType':_0x16392a(0x558),'overlay':!![],'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x826)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x826)+_0x16392a(0xa83),'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x826)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x826)+_0x16392a(0xa83),'tintColor':_0x16392a(0x3d6),'colors':[_0x16392a(0x3d6),_0x16392a(0x60a)],'captureButtonColors':[_0x16392a(0x3d6),_0x16392a(0x60a)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x826)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x826)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x826)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0x7f8)+_0x16392a(0x546),'symbol':_0x16392a(0x7f8)+_0x16392a(0x546),'emoji':''},'outputUrl':null,'productUrl':null,'textColor':_0x16392a(0x858),'referenceImages':[]},{'uid':_0x16392a(0x85a)+_0x16392a(0x6db),'id':_0x16392a(0x85a)+_0x16392a(0x6db),'name':_0x16392a(0x9fa)+_0x16392a(0x7ac),'category':_0x16392a(0x9fa),'prompt':_0x16392a(0x6c3),'style':_0x16392a(0x558),'type':_0x16392a(0xce2),'filterType':_0x16392a(0x558),'overlay':!![],'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xb73)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xb73)+_0x16392a(0xa83),'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xb73)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xb73)+_0x16392a(0xa83),'tintColor':_0x16392a(0x2fc),'colors':[_0x16392a(0x2fc),_0x16392a(0x5f7)],'captureButtonColors':[_0x16392a(0x2fc),_0x16392a(0x5f7)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xb73)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xb73)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xb73)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0x7f8)+_0x16392a(0x546),'symbol':_0x16392a(0x7f8)+_0x16392a(0x546),'emoji':''},'outputUrl':null,'productUrl':null,'textColor':_0x16392a(0x858),'referenceImages':[]},{'uid':_0x16392a(0x78a)+_0x16392a(0x9eb),'id':_0x16392a(0x78a)+_0x16392a(0x9eb),'name':_0x16392a(0x9fa)+_0x16392a(0x34c),'category':_0x16392a(0x9fa),'prompt':_0x16392a(0x78a)+_0x16392a(0x9eb),'style':_0x16392a(0x558),'type':_0x16392a(0xce2),'filterType':_0x16392a(0x558),'overlay':!![],'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x943)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x943)+_0x16392a(0xa83),'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x943)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x943)+_0x16392a(0xa83),'tintColor':_0x16392a(0x78c),'colors':[_0x16392a(0x78c),_0x16392a(0x4db)],'captureButtonColors':[_0x16392a(0x78c),_0x16392a(0x4db)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x943)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x943)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x943)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0x7f8)+_0x16392a(0x546),'symbol':_0x16392a(0x7f8)+_0x16392a(0x546),'emoji':''},'outputUrl':null,'productUrl':null,'textColor':_0x16392a(0x858),'referenceImages':[]},{'uid':_0x16392a(0x78a)+_0x16392a(0x616),'id':_0x16392a(0x78a)+_0x16392a(0x616),'name':_0x16392a(0x9fa)+_0x16392a(0x473),'category':_0x16392a(0x9fa),'prompt':_0x16392a(0x78a)+_0x16392a(0x616),'style':_0x16392a(0x558),'type':_0x16392a(0xce2),'filterType':_0x16392a(0x558),'overlay':!![],'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x720)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x720)+_0x16392a(0xa83),'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x720)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x720)+_0x16392a(0xa83),'tintColor':_0x16392a(0x78c),'colors':[_0x16392a(0x78c),_0x16392a(0x4db)],'captureButtonColors':[_0x16392a(0x78c),_0x16392a(0x4db)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x720)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x720)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x720)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0x7f8)+_0x16392a(0x546),'symbol':_0x16392a(0x7f8)+_0x16392a(0x546),'emoji':''},'outputUrl':null,'productUrl':null,'textColor':_0x16392a(0x858),'referenceImages':[]},{'uid':_0x16392a(0xae0)+'ut','id':_0x16392a(0xae0)+'ut','name':_0x16392a(0x9fa)+_0x16392a(0x80b),'category':_0x16392a(0x9fa),'prompt':_0x16392a(0xae0)+'ut','style':_0x16392a(0x558),'type':_0x16392a(0xce2),'filterType':_0x16392a(0x558),'overlay':!![],'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x6ee)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x6ee)+_0x16392a(0xa83),'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x6ee)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x6ee)+_0x16392a(0xa83),'tintColor':_0x16392a(0x612),'colors':[_0x16392a(0x612),_0x16392a(0xc49)],'captureButtonColors':[_0x16392a(0x612),_0x16392a(0xc49)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x6ee)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x6ee)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x6ee)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0x7f8)+_0x16392a(0x546),'symbol':_0x16392a(0x7f8)+_0x16392a(0x546),'emoji':''},'outputUrl':null,'productUrl':null,'textColor':_0x16392a(0x858),'referenceImages':[]},{'uid':_0x16392a(0x518)+_0x16392a(0xd68)+_0x16392a(0x224),'id':_0x16392a(0x518)+_0x16392a(0xd68)+_0x16392a(0x224),'name':_0x16392a(0x9fa)+_0x16392a(0x965),'category':_0x16392a(0x9fa),'prompt':_0x16392a(0x518)+_0x16392a(0xd68)+_0x16392a(0x224),'style':_0x16392a(0x558),'type':_0x16392a(0xce2),'filterType':_0x16392a(0x558),'overlay':!![],'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x758)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x758)+_0x16392a(0xa83),'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x758)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x758)+_0x16392a(0xa83),'tintColor':_0x16392a(0x680),'colors':[_0x16392a(0x680),_0x16392a(0xd04)],'captureButtonColors':[_0x16392a(0x680),_0x16392a(0xd04)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x758)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x758)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x758)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0x7f8)+_0x16392a(0x546),'symbol':_0x16392a(0x7f8)+_0x16392a(0x546),'emoji':''},'outputUrl':null,'productUrl':null,'textColor':_0x16392a(0x858),'referenceImages':[]},{'uid':_0x16392a(0x3e4)+_0x16392a(0x8bd),'id':_0x16392a(0x3e4)+_0x16392a(0x8bd),'name':_0x16392a(0x9fa)+_0x16392a(0xc1d)+_0x16392a(0x64b),'category':_0x16392a(0x9fa),'prompt':_0x16392a(0x3e4)+_0x16392a(0x8bd),'style':_0x16392a(0x558),'type':_0x16392a(0xce2),'filterType':_0x16392a(0x558),'overlay':!![],'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x6e8)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x6e8)+_0x16392a(0xa83),'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x6e8)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x6e8)+_0x16392a(0xa83),'tintColor':_0x16392a(0x7ca),'colors':[_0x16392a(0x7ca),_0x16392a(0x68a)],'captureButtonColors':[_0x16392a(0x7ca),_0x16392a(0x68a)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x6e8)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x6e8)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x6e8)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0x7f8)+_0x16392a(0x546),'symbol':_0x16392a(0x7f8)+_0x16392a(0x546),'emoji':''},'outputUrl':null,'productUrl':null,'textColor':_0x16392a(0x858),'referenceImages':[]},{'uid':_0x16392a(0xc9c)+_0x16392a(0x45d),'id':_0x16392a(0xc9c)+_0x16392a(0x45d),'name':_0x16392a(0x9fa)+_0x16392a(0x99b),'category':_0x16392a(0x9fa),'prompt':_0x16392a(0xc9c)+_0x16392a(0x45d),'style':_0x16392a(0x558),'type':_0x16392a(0xce2),'filterType':_0x16392a(0x558),'overlay':!![],'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x214)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x214)+_0x16392a(0xa83),'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x214)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x214)+_0x16392a(0xa83),'tintColor':_0x16392a(0xc62),'colors':[_0x16392a(0xc62),_0x16392a(0x928)],'captureButtonColors':[_0x16392a(0xc62),_0x16392a(0x928)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x214)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x214)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x214)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0x7f8)+_0x16392a(0x546),'symbol':_0x16392a(0x7f8)+_0x16392a(0x546),'emoji':''},'outputUrl':null,'productUrl':null,'textColor':_0x16392a(0x858),'referenceImages':[]},{'uid':_0x16392a(0x464)+_0x16392a(0x919),'id':_0x16392a(0x464)+_0x16392a(0x919),'name':_0x16392a(0x9fa)+_0x16392a(0x7f5),'category':_0x16392a(0x9fa),'prompt':_0x16392a(0x33b),'style':_0x16392a(0x558),'type':_0x16392a(0xce2),'filterType':_0x16392a(0x558),'overlay':!![],'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x2e0)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x2e0)+_0x16392a(0xa83),'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x2e0)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x2e0)+_0x16392a(0xa83),'tintColor':_0x16392a(0x774),'colors':[_0x16392a(0x774),_0x16392a(0x519)],'captureButtonColors':[_0x16392a(0x774),_0x16392a(0x519)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x2e0)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x2e0)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x2e0)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0x7f8)+_0x16392a(0x546),'symbol':_0x16392a(0x7f8)+_0x16392a(0x546),'emoji':''},'outputUrl':null,'productUrl':null,'textColor':_0x16392a(0x858),'referenceImages':[]},{'uid':_0x16392a(0xc2d)+_0x16392a(0x3ad)+_0x16392a(0xbd2),'id':_0x16392a(0xc2d)+_0x16392a(0x3ad)+_0x16392a(0xbd2),'name':_0x16392a(0x922)+_0x16392a(0x91d),'category':_0x16392a(0x3d7),'prompt':_0x16392a(0xc2d)+_0x16392a(0x3ad)+_0x16392a(0xbd2),'style':_0x16392a(0x558),'type':_0x16392a(0xce2),'filterType':_0x16392a(0x558),'overlay':!![],'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xbb0)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xbb0)+_0x16392a(0xa83),'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xbb0)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xbb0)+_0x16392a(0xa83),'tintColor':_0x16392a(0x774),'colors':[_0x16392a(0x774),_0x16392a(0x519)],'captureButtonColors':[_0x16392a(0x774),_0x16392a(0x519)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xbb0)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xbb0)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xbb0)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0xa16),'symbol':_0x16392a(0xa16),'emoji':''},'outputUrl':null,'productUrl':null,'textColor':_0x16392a(0x858),'referenceImages':[]},{'uid':_0x16392a(0x84b),'id':_0x16392a(0x84b),'name':_0x16392a(0xa1f)+_0x16392a(0x9f5),'category':_0x16392a(0x3d7),'prompt':_0x16392a(0x84b),'style':_0x16392a(0x558),'type':_0x16392a(0xce2),'filterType':_0x16392a(0x558),'overlay':!![],'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xc1b)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xc1b)+_0x16392a(0xa83),'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xc1b)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xc1b)+_0x16392a(0xa83),'tintColor':_0x16392a(0x774),'colors':[_0x16392a(0x774),_0x16392a(0x519)],'captureButtonColors':[_0x16392a(0x774),_0x16392a(0x519)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xc1b)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xc1b)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xc1b)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0xa16),'symbol':_0x16392a(0xa16),'emoji':''},'outputUrl':null,'productUrl':null,'textColor':_0x16392a(0x858),'referenceImages':[]},{'uid':_0x16392a(0x3c0)+_0x16392a(0x5b9)+_0x16392a(0xacd)+_0x16392a(0xccc),'id':_0x16392a(0x3c0)+_0x16392a(0x5b9)+_0x16392a(0xacd)+_0x16392a(0xccc),'name':_0x16392a(0x675)+_0x16392a(0x20e)+'o','category':_0x16392a(0x3d7),'prompt':_0x16392a(0x3c0)+_0x16392a(0x5b9)+_0x16392a(0xacd)+_0x16392a(0xccc),'style':_0x16392a(0x558),'type':_0x16392a(0xce2),'filterType':_0x16392a(0x558),'overlay':!![],'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x282)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x282)+_0x16392a(0xa83),'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x282)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x282)+_0x16392a(0xa83),'tintColor':_0x16392a(0x774),'colors':[_0x16392a(0x774),_0x16392a(0x519)],'captureButtonColors':[_0x16392a(0x774),_0x16392a(0x519)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x282)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x282)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x282)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0xa16),'symbol':_0x16392a(0xa16),'emoji':''},'outputUrl':null,'productUrl':null,'textColor':_0x16392a(0x858),'referenceImages':[]},{'uid':_0x16392a(0x3c0)+_0x16392a(0xd87)+_0x16392a(0x271),'id':_0x16392a(0x3c0)+_0x16392a(0xd87)+_0x16392a(0x271),'name':_0x16392a(0xd06)+_0x16392a(0x7b7)+'ng','category':_0x16392a(0x3d7),'prompt':_0x16392a(0x3c0)+_0x16392a(0xd87)+_0x16392a(0x271),'style':_0x16392a(0x558),'type':_0x16392a(0xce2),'filterType':_0x16392a(0x558),'overlay':!![],'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x3dc)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x3dc)+_0x16392a(0xa83),'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x3dc)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x3dc)+_0x16392a(0xa83),'tintColor':_0x16392a(0x774),'colors':[_0x16392a(0x774),_0x16392a(0x519)],'captureButtonColors':[_0x16392a(0x774),_0x16392a(0x519)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x3dc)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x3dc)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x3dc)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0xa16),'symbol':_0x16392a(0xa16),'emoji':''},'outputUrl':null,'productUrl':null,'textColor':_0x16392a(0x858),'referenceImages':[]},{'uid':_0x16392a(0xb28)+_0x16392a(0xb5d)+'n','id':_0x16392a(0xb28)+_0x16392a(0xb5d)+'n','name':_0x16392a(0x3c6)+_0x16392a(0x54d),'category':_0x16392a(0x3d7),'prompt':_0x16392a(0xb28)+_0x16392a(0xb5d)+'n','style':_0x16392a(0x558),'type':_0x16392a(0xce2),'filterType':_0x16392a(0x558),'overlay':!![],'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xd2d)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xd2d)+_0x16392a(0xa83),'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xd2d)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xd2d)+_0x16392a(0xa83),'tintColor':_0x16392a(0x774),'colors':[_0x16392a(0x774),_0x16392a(0x519)],'captureButtonColors':[_0x16392a(0x774),_0x16392a(0x519)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xd2d)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xd2d)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xd2d)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0xa16),'symbol':_0x16392a(0xa16),'emoji':''},'outputUrl':null,'productUrl':null,'textColor':_0x16392a(0x858),'referenceImages':[]},{'uid':_0x16392a(0x611)+_0x16392a(0xca4)+_0x16392a(0x431)+'h','id':_0x16392a(0x611)+_0x16392a(0xca4)+_0x16392a(0x431)+'h','name':_0x16392a(0x9f3)+_0x16392a(0x9fd),'category':_0x16392a(0x3d7),'prompt':_0x16392a(0x611)+_0x16392a(0xca4)+_0x16392a(0x431)+'h','style':_0x16392a(0x558),'type':_0x16392a(0xce2),'filterType':_0x16392a(0x558),'overlay':!![],'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x701)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x701)+_0x16392a(0xa83),'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x701)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x701)+_0x16392a(0xa83),'tintColor':_0x16392a(0x96b),'colors':[_0x16392a(0x96b),_0x16392a(0x278)],'captureButtonColors':[_0x16392a(0x96b),_0x16392a(0x278)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x701)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x701)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x701)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0xa16),'symbol':_0x16392a(0xa16),'emoji':''},'outputUrl':null,'productUrl':null,'textColor':_0x16392a(0x858),'referenceImages':[]},{'uid':_0x16392a(0xa19)+_0x16392a(0xc76),'id':_0x16392a(0xa19)+_0x16392a(0xc76),'name':_0x16392a(0xc37),'category':_0x16392a(0x3d7),'prompt':_0x16392a(0xa19)+_0x16392a(0xc76),'style':_0x16392a(0x558),'type':_0x16392a(0xce2),'filterType':_0x16392a(0x558),'overlay':!![],'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x35d)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x35d)+_0x16392a(0xa83),'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x35d)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x35d)+_0x16392a(0xa83),'tintColor':_0x16392a(0xd3e),'colors':[_0x16392a(0xd3e),_0x16392a(0xd3e)],'captureButtonColors':[_0x16392a(0xd3e),_0x16392a(0xd3e)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x35d)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x35d)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x35d)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0xa16),'symbol':_0x16392a(0xa16),'emoji':''},'outputUrl':null,'productUrl':null,'textColor':_0x16392a(0x858),'referenceImages':[]},{'uid':_0x16392a(0x52f)+_0x16392a(0x892)+_0x16392a(0x1d3),'id':_0x16392a(0x52f)+_0x16392a(0x892)+_0x16392a(0x1d3),'name':_0x16392a(0xcf7)+_0x16392a(0x552),'category':_0x16392a(0x3d7),'prompt':_0x16392a(0x52f)+_0x16392a(0x892)+_0x16392a(0x1d3),'style':_0x16392a(0x558),'type':_0x16392a(0xce2),'filterType':_0x16392a(0x558),'overlay':!![],'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xb88)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xb88)+_0x16392a(0xa83),'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xb88)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xb88)+_0x16392a(0xa83),'tintColor':_0x16392a(0x236),'colors':[_0x16392a(0x236),_0x16392a(0x236)],'captureButtonColors':[_0x16392a(0x236),_0x16392a(0x236)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xb88)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xb88)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xb88)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0xa16),'symbol':_0x16392a(0xa16),'emoji':''},'outputUrl':null,'productUrl':null,'textColor':_0x16392a(0x858),'referenceImages':[]},{'uid':_0x16392a(0x86a)+_0x16392a(0x86c)+_0x16392a(0x266),'id':_0x16392a(0x86a)+_0x16392a(0x86c)+_0x16392a(0x266),'name':_0x16392a(0x325)+_0x16392a(0x645),'category':_0x16392a(0x3d7),'prompt':_0x16392a(0x86a)+_0x16392a(0x86c)+_0x16392a(0x266),'style':_0x16392a(0x558),'type':_0x16392a(0xce2),'filterType':_0x16392a(0x558),'overlay':!![],'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xc04)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xc04)+_0x16392a(0xa83),'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xc04)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xc04)+_0x16392a(0xa83),'tintColor':_0x16392a(0x774),'colors':[_0x16392a(0x774),_0x16392a(0x519)],'captureButtonColors':[_0x16392a(0x774),_0x16392a(0x519)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xc04)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xc04)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xc04)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0xa16),'symbol':_0x16392a(0xa16),'emoji':''},'outputUrl':null,'productUrl':null,'textColor':_0x16392a(0x858),'referenceImages':[]},{'uid':_0x16392a(0xb28)+_0x16392a(0x5ac)+_0x16392a(0x769),'id':_0x16392a(0xb28)+_0x16392a(0x5ac)+_0x16392a(0x769),'name':_0x16392a(0x4e2)+_0x16392a(0x39d),'category':_0x16392a(0x3d7),'prompt':_0x16392a(0xb28)+_0x16392a(0x5ac)+_0x16392a(0x769),'style':_0x16392a(0x558),'type':_0x16392a(0xce2),'filterType':_0x16392a(0x558),'overlay':!![],'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x5a5)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x5a5)+_0x16392a(0xa83),'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x5a5)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x5a5)+_0x16392a(0xa83),'tintColor':_0x16392a(0xda2),'colors':[_0x16392a(0xda2),_0x16392a(0xda2)],'captureButtonColors':[_0x16392a(0xda2),_0x16392a(0xda2)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x5a5)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x5a5)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x5a5)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0xa16),'symbol':_0x16392a(0xa16),'emoji':''},'outputUrl':null,'productUrl':null,'textColor':_0x16392a(0x858),'referenceImages':[]},{'uid':_0x16392a(0x51f)+_0x16392a(0x1f2),'id':_0x16392a(0x51f)+_0x16392a(0x1f2),'name':_0x16392a(0x596),'category':_0x16392a(0x3d7),'prompt':_0x16392a(0x51f)+_0x16392a(0x1f2),'style':_0x16392a(0x558),'type':_0x16392a(0xce2),'filterType':_0x16392a(0x558),'overlay':!![],'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xc7f)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xc7f)+_0x16392a(0xa83),'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xc7f)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xc7f)+_0x16392a(0xa83),'tintColor':_0x16392a(0x7f3),'colors':[_0x16392a(0x7f3),_0x16392a(0x7a9)],'captureButtonColors':[_0x16392a(0x7f3),_0x16392a(0x7a9)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xc7f)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xc7f)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xc7f)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0xa16),'symbol':_0x16392a(0xa16),'emoji':''},'outputUrl':null,'productUrl':null,'textColor':_0x16392a(0x858),'referenceImages':[]},{'uid':_0x16392a(0xb85)+_0x16392a(0x9c5)+_0x16392a(0xd90),'id':_0x16392a(0xb85)+_0x16392a(0x9c5)+_0x16392a(0xd90),'name':_0x16392a(0x675)+_0x16392a(0xa3b),'category':_0x16392a(0x3d7),'prompt':_0x16392a(0xb85)+_0x16392a(0x9c5)+_0x16392a(0xd90),'style':_0x16392a(0x558),'type':_0x16392a(0xce2),'filterType':_0x16392a(0x558),'overlay':!![],'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x868)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x868)+_0x16392a(0xa83),'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x868)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x868)+_0x16392a(0xa83),'tintColor':_0x16392a(0x9c0),'colors':[_0x16392a(0x9c0),_0x16392a(0xd29)],'captureButtonColors':[_0x16392a(0x9c0),_0x16392a(0xd29)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x868)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x868)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x868)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0xa16),'symbol':_0x16392a(0xa16),'emoji':''},'outputUrl':null,'productUrl':null,'textColor':_0x16392a(0x858),'referenceImages':[]},{'uid':_0x16392a(0x93b)+_0x16392a(0xb02)+_0x16392a(0x6f0),'id':_0x16392a(0x93b)+_0x16392a(0xb02)+_0x16392a(0x6f0),'name':_0x16392a(0x3ce)+_0x16392a(0xd11),'category':_0x16392a(0x3d7),'prompt':_0x16392a(0x93b)+_0x16392a(0xb02)+_0x16392a(0x6f0),'style':_0x16392a(0x558),'type':_0x16392a(0xce2),'filterType':_0x16392a(0x558),'overlay':!![],'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x693)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x693)+_0x16392a(0xa83),'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x693)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x693)+_0x16392a(0xa83),'tintColor':_0x16392a(0x560),'colors':[_0x16392a(0x560),_0x16392a(0x64e)],'captureButtonColors':[_0x16392a(0x560),_0x16392a(0x64e)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x693)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x693)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x693)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0xa16),'symbol':_0x16392a(0xa16),'emoji':''},'outputUrl':null,'productUrl':null,'textColor':_0x16392a(0x858),'referenceImages':[]},{'uid':_0x16392a(0x2e3)+_0x16392a(0x30c)+'y','id':_0x16392a(0x2e3)+_0x16392a(0x30c)+'y','name':_0x16392a(0xb43)+_0x16392a(0x675)+'y','category':_0x16392a(0x3d7),'prompt':_0x16392a(0x2e3)+_0x16392a(0x30c)+'y','style':_0x16392a(0x558),'type':_0x16392a(0xce2),'filterType':_0x16392a(0x558),'overlay':!![],'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x70d)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x70d)+_0x16392a(0xa83),'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x70d)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x70d)+_0x16392a(0xa83),'tintColor':_0x16392a(0x774),'colors':[_0x16392a(0x774),_0x16392a(0x519)],'captureButtonColors':[_0x16392a(0x774),_0x16392a(0x519)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x70d)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x70d)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x70d)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0xa16),'symbol':_0x16392a(0xa16),'emoji':''},'outputUrl':null,'productUrl':null,'textColor':_0x16392a(0x858),'referenceImages':[]},{'uid':_0x16392a(0x59c)+_0x16392a(0x65c)+_0x16392a(0x779),'id':_0x16392a(0x59c)+_0x16392a(0x65c)+_0x16392a(0x779),'name':_0x16392a(0x57e)+_0x16392a(0xafc)+'o','category':_0x16392a(0x3d7),'prompt':_0x16392a(0x59c)+_0x16392a(0x65c)+_0x16392a(0x779),'style':_0x16392a(0x558),'type':_0x16392a(0xce2),'filterType':_0x16392a(0x558),'overlay':!![],'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x838)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x838)+_0x16392a(0xa83),'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x838)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x838)+_0x16392a(0xa83),'tintColor':_0x16392a(0x612),'colors':[_0x16392a(0x612),_0x16392a(0xc49)],'captureButtonColors':[_0x16392a(0x612),_0x16392a(0xc49)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x838)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x838)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x838)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0xa16),'symbol':_0x16392a(0xa16),'emoji':''},'outputUrl':null,'productUrl':null,'textColor':_0x16392a(0x858),'referenceImages':[]},{'uid':_0x16392a(0x59c)+_0x16392a(0x881)+'ed','id':_0x16392a(0x59c)+_0x16392a(0x881)+'ed','name':_0x16392a(0x790)+_0x16392a(0x2f4),'category':_0x16392a(0x3d7),'prompt':_0x16392a(0x59c)+_0x16392a(0x881)+'ed','style':_0x16392a(0x558),'type':_0x16392a(0xce2),'filterType':_0x16392a(0x558),'overlay':!![],'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xd94)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xd94)+_0x16392a(0xa83),'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xd94)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xd94)+_0x16392a(0xa83),'tintColor':_0x16392a(0xc62),'colors':[_0x16392a(0xc62),_0x16392a(0x928)],'captureButtonColors':[_0x16392a(0xc62),_0x16392a(0x928)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xd94)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xd94)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xd94)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0xa16),'symbol':_0x16392a(0xa16),'emoji':''},'outputUrl':null,'productUrl':null,'textColor':_0x16392a(0x858),'referenceImages':[]},{'uid':_0x16392a(0x59c)+_0x16392a(0xbdc)+_0x16392a(0x6e7),'id':_0x16392a(0x59c)+_0x16392a(0xbdc)+_0x16392a(0x6e7),'name':_0x16392a(0x50f)+_0x16392a(0x90a),'category':_0x16392a(0x3d7),'prompt':_0x16392a(0x59c)+_0x16392a(0xbdc)+_0x16392a(0x6e7),'style':_0x16392a(0x558),'type':_0x16392a(0xce2),'filterType':_0x16392a(0x558),'overlay':!![],'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xd6c)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xd6c)+_0x16392a(0xa83),'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xd6c)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xd6c)+_0x16392a(0xa83),'tintColor':_0x16392a(0x680),'colors':[_0x16392a(0x680),_0x16392a(0xd04)],'captureButtonColors':[_0x16392a(0x680),_0x16392a(0xd04)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xd6c)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xd6c)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0xd6c)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0xa16),'symbol':_0x16392a(0xa16),'emoji':''},'outputUrl':null,'productUrl':null,'textColor':_0x16392a(0x858),'referenceImages':[]},{'uid':_0x16392a(0x614),'id':_0x16392a(0x614),'name':_0x16392a(0xd79)+_0x16392a(0x847),'prompt':_0x16392a(0x614),'productUrl':null,'colors':[_0x16392a(0x247),_0x16392a(0x612)],'captureButtonColors':[_0x16392a(0x247),_0x16392a(0x612)],'icon':{'url':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x7aa)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x7aa)+_0x16392a(0xa83),'remoteImage':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x7aa)+_0x16392a(0xa83),'sfSymbol':_0x16392a(0x3de),'emoji':''},'textColor':_0x16392a(0x858),'style':_0x16392a(0x558),'overlay':!![],'overlayImageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x7aa)+_0x16392a(0xa83),'overlayImageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x7aa)+_0x16392a(0xa83),'imageUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x7aa)+_0x16392a(0xa83),'iconUrl':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x7aa)+_0x16392a(0xa83),'referenceImages':[],'type':_0x16392a(0xce2),'filterType':_0x16392a(0x558)}]}),'camera_filter_fetch_cache_max_age_seconds':'0','capture_classification_config':JSON[_0x16392a(0x966)]({'detection':!![],'debug_caption':![],'expanded_sheet_legacy_support':!![],'display_reaction_suggestions':!![]}),'camera_roll_preview_enabled':_0x16392a(0x2de),'camera_roll_video_enabled':_0x16392a(0x2de),'camera_roll_video_upload_enabled':_0x16392a(0x2de),'internal_camera_roll_video_upload_enabled':_0x16392a(0x2de),'longer_camera_roll_videos_enabled':_0x16392a(0x2de),'video_sound_enabled':_0x16392a(0x2de),'microphone_enabled':_0x16392a(0x2de),'camera_microphone_enabled':_0x16392a(0x2de),'audio_session_deactivation_enabled':_0x16392a(0x2de),'zoom_enabled':_0x16392a(0x2de),'upload_main':_0x16392a(0x433),'upload_main_image_quality':_0x16392a(0x4e8),'upload_main_image_size':_0x16392a(0x94e),'upload_thumbnail_image_quality':_0x16392a(0x4da),'upload_thumbnail_image_size':_0x16392a(0xd0b)});continue;case'4':Object[_0x16392a(0xb0b)](obj[_0x16392a(0xd33)],{'daily_reminder_config':JSON[_0x16392a(0x966)]({'is_time_sensitive':!![],'items':[{'day':0x1,'title_string':{'en':_0x16392a(0x9b7)+_0x16392a(0xc7d)+_0x16392a(0xb20)},'streak_body_string':{'en':_0x16392a(0xbb1)+_0x16392a(0x2a5)+_0x16392a(0xa3c)+_0x16392a(0x8c3)+'k#'},'body_string':{'en':_0x16392a(0xcd2)+_0x16392a(0xb07)+_0x16392a(0xc3d)+_0x16392a(0xa2c)},'body_string_plural':{'en':_0x16392a(0xcd2)+_0x16392a(0xb07)+_0x16392a(0xc3d)+_0x16392a(0xa2c)}},{'day':0x3,'hour':0xa,'title_string':{'en':_0x16392a(0x603)+_0x16392a(0x9e3)+_0x16392a(0xa7a)},'body_string':{'en':_0x16392a(0xc21)+_0x16392a(0x6b7)+_0x16392a(0xc27)+_0x16392a(0x687)+_0x16392a(0x9c7)+_0x16392a(0x569)},'body_string_plural':{'en':_0x16392a(0xc21)+_0x16392a(0x6b7)+_0x16392a(0xc27)+_0x16392a(0x687)+_0x16392a(0x9c7)+_0x16392a(0x569)}},{'day':0x7,'hour':0x13,'title_string':{'en':_0x16392a(0xd4a)+_0x16392a(0x205)+_0x16392a(0xd8b)},'body_string':{'en':_0x16392a(0xc9e)+_0x16392a(0x37d)+_0x16392a(0xb1f)+_0x16392a(0x88e)},'body_string_plural':{'en':_0x16392a(0xc9e)+_0x16392a(0x37d)+_0x16392a(0xb1f)+_0x16392a(0x88e)}},{'day':0xe,'hour':0xa,'title_string':{'en':_0x16392a(0xaf4)+_0x16392a(0xcac)+_0x16392a(0x5b7)},'body_string':{'en':_0x16392a(0x7b1)+_0x16392a(0x8e6)+_0x16392a(0x5d4)+_0x16392a(0x6a3)+_0x16392a(0x444)},'body_string_plural':{'en':_0x16392a(0x7b1)+_0x16392a(0x8e6)+_0x16392a(0x5d4)+_0x16392a(0x6a3)+_0x16392a(0x444)}}]})});continue;case'5':obj[_0x16392a(0xb4a)]=_0x16392a(0x8b7)+_0x16392a(0x64f)+_0x16392a(0xb39)+_0x16392a(0x7db)+_0x16392a(0x74a)+_0x16392a(0x389)+_0x16392a(0xa72);continue;case'6':Object[_0x16392a(0xb0b)](obj[_0x16392a(0xd33)],{'overlay_navigator_enabled':_0x16392a(0x2de),'overlays_v2_config':JSON[_0x16392a(0x966)]({'suggestions_enabled':!![]}),'captions_enabled':_0x16392a(0x2de),'music_caption_enabled':_0x16392a(0x2de),'music_caption_song_preview_enabled':_0x16392a(0x2de),'link_caption_link_enabled':_0x16392a(0x2de),'overlay_dynamic_captions':JSON[_0x16392a(0x966)]([_0x16392a(0x45f),_0x16392a(0xc65),_0x16392a(0x1c2)+_0x16392a(0x952),_0x16392a(0x5c4),_0x16392a(0x792),_0x16392a(0xc50),_0x16392a(0xad9),_0x16392a(0xcd4),_0x16392a(0x283),_0x16392a(0x3d9),_0x16392a(0x676),_0x16392a(0x89f)+'nt',_0x16392a(0x221)+'ng',_0x16392a(0x5c6),_0x16392a(0x766),_0x16392a(0xbc9),_0x16392a(0xa6f),_0x16392a(0x6f6)+_0x16392a(0x97e)]),'overlay_items':JSON[_0x16392a(0x966)]([{'section':_0x16392a(0xb9e),'items':[{'overlay_id':_0x16392a(0x82a)+_0x16392a(0xd62),'source':_0x16392a(0xbbb),'caption':{'type':_0x16392a(0x45f)},'sort_order':0x0},{'overlay_id':_0x16392a(0x8b4)+'ll','source':_0x16392a(0xbbb),'caption':{'type':_0x16392a(0xc65)},'sort_order':0x1},{'overlay_id':_0x16392a(0x73b)+_0x16392a(0x341)+'e','source':_0x16392a(0xbbb),'caption':{'type':_0x16392a(0x1c2)+_0x16392a(0x952)},'sort_order':0x2},{'overlay_id':_0x16392a(0x630)+_0x16392a(0xb70),'source':_0x16392a(0xbbb),'caption':{'type':_0x16392a(0x5c4)},'sort_order':0x3},{'overlay_id':_0x16392a(0x5da)+_0x16392a(0x9d9),'source':_0x16392a(0xbbb),'caption':{'type':_0x16392a(0x792)},'sort_order':0x4},{'overlay_id':_0x16392a(0x585)+_0x16392a(0x4a4),'source':_0x16392a(0xbbb),'caption':{'type':_0x16392a(0xc50)},'sort_order':0x5},{'overlay_id':_0x16392a(0xb16)+_0x16392a(0xd99),'source':_0x16392a(0xbbb),'caption':{'type':_0x16392a(0xad9)},'sort_order':0x6},{'overlay_id':_0x16392a(0x403)+'me','source':_0x16392a(0xbbb),'caption':{'type':_0x16392a(0xcd4)},'sort_order':0x7},{'overlay_id':_0x16392a(0x82a)+_0x16392a(0x7fe),'source':_0x16392a(0xbbb),'caption':{'type':_0x16392a(0x283)},'sort_order':0x8},{'overlay_id':_0x16392a(0x82a)+_0x16392a(0x405),'source':_0x16392a(0xbbb),'caption':{'type':_0x16392a(0x3d9)},'sort_order':0x9},{'overlay_id':_0x16392a(0x204)+_0x16392a(0x3c9),'source':_0x16392a(0xbbb),'caption':{'type':_0x16392a(0x5f2)},'sort_order':0xa},{'overlay_id':_0x16392a(0x41f)+_0x16392a(0x26d)+'s','source':_0x16392a(0xbbb),'caption':{'type':_0x16392a(0x70e)+_0x16392a(0x8cb)},'sort_order':0xb}]},{'section':_0x16392a(0x829)+_0x16392a(0x825),'items':[{'overlay_id':_0x16392a(0xa0f)+_0x16392a(0x634)+'26','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x4d2),_0x16392a(0xa66)]},'icon':{'type':_0x16392a(0xab5),'data':_0x16392a(0xbcc)+_0x16392a(0xc4e)+_0x16392a(0x35a)+_0x16392a(0x1d5)+_0x16392a(0x5f5)+_0x16392a(0x6c4)+_0x16392a(0x1bb)+_0x16392a(0xb05)+_0x16392a(0xd3b)+_0x16392a(0xdce)+_0x16392a(0x985)+_0x16392a(0xb48),'source':_0x16392a(0x5d7)},'max_lines':0x1,'text':_0x16392a(0x832),'localized_text':{'en':_0x16392a(0x832),'vn':_0x16392a(0x832)},'text_color':_0x16392a(0xb90),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xa54)+_0x16392a(0x368),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x8ba),_0x16392a(0xd6d)]},'icon':{'data':'🍂','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x63b)+_0x16392a(0x391),'localized_text':{'en':_0x16392a(0x63b)+_0x16392a(0x391),'vn':_0x16392a(0x63b)+_0x16392a(0x391)},'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x28f)+_0x16392a(0x8f9)+_0x16392a(0x633),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x209),_0x16392a(0x620)]},'icon':{'data':_0x16392a(0x35e),'type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x87d),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)},'region':['VN']},{'overlay_id':_0x16392a(0x28f)+_0x16392a(0x8f9)+_0x16392a(0xa6e)+_0x16392a(0x761),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x858),_0x16392a(0x344)]},'icon':{'data':_0x16392a(0x2ca),'type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xb69),'text_color':_0x16392a(0x420),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)},'region':['VN']},{'overlay_id':_0x16392a(0x45e)+_0x16392a(0x506),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xc06),_0x16392a(0x8f8)]},'icon':{'data':'🪔','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x54f),'text_color':_0x16392a(0xb24),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)},'region':['VN']},{'overlay_id':_0x16392a(0x618)+_0x16392a(0xa88)+_0x16392a(0x320),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xb8d),_0x16392a(0x768)]},'icon':{'data':_0x16392a(0x35e),'type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x425)+_0x16392a(0x4bd),'text_color':_0x16392a(0xd8d),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)},'region':['VN']},{'overlay_id':_0x16392a(0x292)+_0x16392a(0x7e4)+_0x16392a(0x320),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x879),_0x16392a(0x22f)]},'icon':{'data':'🦃','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x279)+_0x16392a(0xd54),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)},'region':['VN']},{'overlay_id':_0x16392a(0x961)+_0x16392a(0x42a)+_0x16392a(0x320),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x436),_0x16392a(0x455)]},'icon':{'data':_0x16392a(0x21d),'type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x2b8)+'ay','text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)},'region':['VN']},{'overlay_id':_0x16392a(0xa0f)+_0x16392a(0x4e6)+'6','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x22c),_0x16392a(0x8ec)]},'icon':{'data':'🕎','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xbe2)+_0x16392a(0x942),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)},'region':['VN']},{'overlay_id':_0x16392a(0xc24)+_0x16392a(0xa67)+_0x16392a(0x9bf),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xbfb),_0x16392a(0x449)]},'icon':{'data':_0x16392a(0x356),'type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x27c)+_0x16392a(0x3b1),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)},'region':['VN']},{'overlay_id':_0x16392a(0xc24)+_0x16392a(0xa67)+_0x16392a(0x9bf),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xbfb),_0x16392a(0x449)]},'icon':{'data':_0x16392a(0x356),'type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x802)+_0x16392a(0x29e),'localized_text':{'en':_0x16392a(0x802)+_0x16392a(0x29e),'vn':_0x16392a(0x802)+_0x16392a(0x29e)},'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)},'region':['VN']},{'overlay_id':_0x16392a(0xc24)+_0x16392a(0x8f7)+_0x16392a(0x933),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x537),_0x16392a(0x66e)]},'icon':{'data':'🎄','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xb4c)+_0x16392a(0xa86),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)},'region':['VN']},{'overlay_id':_0x16392a(0xc24)+_0x16392a(0x8f7)+_0x16392a(0x933),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x537),_0x16392a(0x66e)]},'icon':{'data':'🎄','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x802)+_0x16392a(0x29e),'localized_text':{'en':_0x16392a(0x802)+_0x16392a(0x29e),'vn':_0x16392a(0x802)+_0x16392a(0x29e)},'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)},'region':['VN']},{'overlay_id':_0x16392a(0x28b)+_0x16392a(0x2b3)+_0x16392a(0x9bf),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x3bb),_0x16392a(0x2cb)]},'icon':{'data':'🥂','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x5d8)+_0x16392a(0x360),'localized_text':{'en':_0x16392a(0x5d8)+_0x16392a(0x360),'vi':_0x16392a(0xc6f)+_0x16392a(0xc09)},'text_color':_0x16392a(0x7bf),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x28b)+_0x16392a(0xd0d)+_0x16392a(0xcf4),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x333),_0x16392a(0x9c6)]},'icon':{'data':'💫','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xc79)+_0x16392a(0xb82),'localized_text':{'en':_0x16392a(0xc79)+_0x16392a(0xb82),'vi':_0x16392a(0xc6f)+_0x16392a(0xc09)},'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x28b)+_0x16392a(0xd0d)+_0x16392a(0x7a2)+_0x16392a(0x430),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x800),_0x16392a(0x9fe)]},'max_lines':0x1,'text':_0x16392a(0xb4e),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x734)+_0x16392a(0x628),'source':_0x16392a(0x1f7),'caption':{'background':{'image':{'type':_0x16392a(0xab5),'data':_0x16392a(0x33e)+_0x16392a(0xa2d)+_0x16392a(0x505)+_0x16392a(0xa6c)+_0x16392a(0x729)+_0x16392a(0x68d)+_0x16392a(0x452)+_0x16392a(0x651)+_0x16392a(0x61e)+_0x16392a(0x4b8),'source':_0x16392a(0x5d7)},'colors':[_0x16392a(0x48c),_0x16392a(0x47e)]},'max_lines':0x1,'text':_0x16392a(0x749)+_0x16392a(0x96c)+'D','text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}}]},{'section':_0x16392a(0xca1)+_0x16392a(0x6f8)+'et','items':[{'overlay_id':_0x16392a(0x4a1)+_0x16392a(0xa55),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x858),_0x16392a(0x80a)]},'max_lines':0x1,'text':_0x16392a(0x392),'text_color':_0x16392a(0x5e3),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x649)+_0x16392a(0x5e7),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x469),_0x16392a(0xbcb)]},'icon':{'data':'🪩','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x504)+'!','text_color':_0x16392a(0x5e3),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x4fb)+_0x16392a(0x4a2),'source':_0x16392a(0x1f7),'daily_start_hour':0x5,'daily_end_hour':0xa,'caption':{'background':{'colors':[_0x16392a(0x9e2),_0x16392a(0x63d)]},'icon':{'data':'☀️','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x97f)+'ng','text_color':_0x16392a(0x45a),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x4fb)+_0x16392a(0xa35),'source':_0x16392a(0x1f7),'daily_start_hour':19.5,'daily_end_hour':0x18,'caption':{'background':{'colors':[_0x16392a(0x973),_0x16392a(0x99f)]},'icon':{'data':'🌙','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xb4f),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x7eb)+_0x16392a(0x912),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xbc2),_0x16392a(0x4ff)]},'icon':{'data':'🥰','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x415),'text_color':_0x16392a(0x703),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xd97)+'td','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x858),_0x16392a(0x272)]},'icon':{'data':'🕶','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x89b),'text_color':_0x16392a(0x9cc),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}}]},{'section':_0x16392a(0xca1)+_0x16392a(0x517)+_0x16392a(0x979),'items':[{'overlay_id':_0x16392a(0x65b)+_0x16392a(0xa82),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xb91),_0x16392a(0x79e),_0x16392a(0x699)]},'icon':{'data':_0x16392a(0xb47)+_0x16392a(0x42f),'type':_0x16392a(0x48a),'color':_0x16392a(0x789)},'max_lines':0x1,'text':_0x16392a(0xdae),'text_color':_0x16392a(0x789),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x811),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xa01),_0x16392a(0x712),_0x16392a(0x1cd)]},'max_lines':0x1,'text':_0x16392a(0x971),'text_color':_0x16392a(0x615),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x3cf)+'at','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x57a),_0x16392a(0x6a4),_0x16392a(0x5b1)]},'icon':{'data':'🐕','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xa6d),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x5d3)+_0x16392a(0x439),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x5eb),_0x16392a(0x2e6)]},'icon':{'data':'🐍','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x604)+'s','localized_text':{'en':_0x16392a(0x604)+'s','vn':_0x16392a(0x416)},'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x65b)+_0x16392a(0x7e3),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x4b4),_0x16392a(0xbf3)]},'icon':{'data':'👻','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xc7a),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x585)+_0x16392a(0xa7f),'source':_0x16392a(0x1f7),'alt_text':_0x16392a(0x96f)+_0x16392a(0x9b2),'caption':{'background':{'image':{'type':_0x16392a(0xab5),'data':_0x16392a(0x421)+_0x16392a(0xd00),'source':_0x16392a(0xbbb)},'colors':[_0x16392a(0xa96),_0x16392a(0xa96)]},'icon':{'type':_0x16392a(0xab5),'data':_0x16392a(0xbcc)+_0x16392a(0xc4e)+_0x16392a(0x35a)+_0x16392a(0x1d5)+_0x16392a(0x5f5)+_0x16392a(0x6c4)+_0x16392a(0x1bb)+_0x16392a(0xb05)+_0x16392a(0xaec)+_0x16392a(0x32e)+_0x16392a(0x311)+_0x16392a(0x757),'source':_0x16392a(0x5d7)},'max_lines':0x1,'text':_0x16392a(0x96f)+_0x16392a(0x9b2),'text_color':_0x16392a(0xa77),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xa23)+_0x16392a(0xcbf),'source':_0x16392a(0x1f7),'alt_text':_0x16392a(0x4e7)+_0x16392a(0xdcd),'caption':{'background':{'image':{'type':_0x16392a(0xab5),'data':_0x16392a(0x33e)+_0x16392a(0xa2d)+_0x16392a(0x505)+_0x16392a(0xa6c)+_0x16392a(0x935)+_0x16392a(0x448)+_0x16392a(0xbc1)+_0x16392a(0x77f)+_0x16392a(0x309),'source':_0x16392a(0x5d7)},'colors':[_0x16392a(0x454),_0x16392a(0x7e5)]},'icon':{'type':_0x16392a(0xab5),'data':_0x16392a(0x33e)+_0x16392a(0xa2d)+_0x16392a(0x505)+_0x16392a(0xa6c)+_0x16392a(0x232)+_0x16392a(0xbd5)+_0x16392a(0xd6e)+_0x16392a(0x94b)+_0x16392a(0x481)+_0x16392a(0x4fc)+_0x16392a(0xa10)+_0x16392a(0x959),'source':_0x16392a(0x5d7)},'max_lines':0x1,'text':_0x16392a(0x4e7)+_0x16392a(0xdcd),'text_color':_0x16392a(0xdb7),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x82a)+_0x16392a(0x2d0),'source':_0x16392a(0x1f7),'alt_text':_0x16392a(0x848),'caption':{'background':{'image':{'type':_0x16392a(0xab5),'data':_0x16392a(0x33e)+_0x16392a(0xa2d)+_0x16392a(0x505)+_0x16392a(0xa6c)+_0x16392a(0x935)+_0x16392a(0x448)+_0x16392a(0xb8a)+_0x16392a(0xcc8),'source':_0x16392a(0x5d7)},'colors':[_0x16392a(0x2b9),_0x16392a(0x290)]},'icon':{'data':_0x16392a(0xa21),'type':_0x16392a(0x48a),'color':_0x16392a(0xc02)},'max_lines':0x1,'text':_0x16392a(0x848),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xbfd)+_0x16392a(0x549),'source':_0x16392a(0x1f7),'alt_text':_0x16392a(0x32c)+'l','caption':{'background':{'image':{'type':_0x16392a(0xab5),'data':_0x16392a(0x33e)+_0x16392a(0xa2d)+_0x16392a(0x505)+_0x16392a(0xa6c)+_0x16392a(0x935)+_0x16392a(0x448)+_0x16392a(0x951)+_0x16392a(0x524),'source':_0x16392a(0x5d7)},'colors':[_0x16392a(0x2aa),_0x16392a(0x8cf)]},'icon':{'data':_0x16392a(0x2f2)+'l','type':_0x16392a(0x48a),'color':_0x16392a(0xc19)},'max_lines':0x1,'text':_0x16392a(0x32c)+_0x16392a(0x29f),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}}]},{'section':_0x16392a(0xadc)+_0x16392a(0x574)+_0x16392a(0x7ee),'items':[{'overlay_id':_0x16392a(0x27d)+_0x16392a(0x967),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x4e0),_0x16392a(0x9be),_0x16392a(0x972)]},'icon':{'data':'🥺','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xdb8)+'h','text_color':_0x16392a(0xc6e),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x359)+_0x16392a(0xa36)+'n','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x75c),_0x16392a(0x4f3),_0x16392a(0x936)]},'icon':{'data':'🥺','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x6ed)+_0x16392a(0x351)+_0x16392a(0x5be),'text_color':_0x16392a(0x1fc),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x970)+_0x16392a(0xd0f),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x2c3),_0x16392a(0x4bb),_0x16392a(0x7f4)]},'icon':{'data':'💗','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x93a),'text_color':_0x16392a(0x9a5),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x2ac)+_0x16392a(0x41b),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xa38),_0x16392a(0xc88),_0x16392a(0x9f1)]},'icon':{'data':'🎀','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xaf8)+'ng','text_color':_0x16392a(0x8dc),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x2ac)+_0x16392a(0xb36),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xce1),_0x16392a(0xaeb),_0x16392a(0x58e)]},'icon':{'data':'💗','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xb13),'text_color':_0x16392a(0xc0d),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x2ac)+_0x16392a(0x3b3),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xa3a),_0x16392a(0x85c),_0x16392a(0xd35)]},'icon':{'data':'🫶','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xb54),'text_color':_0x16392a(0x771),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x918)+_0x16392a(0x6bd),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xdc4),_0x16392a(0xda6),_0x16392a(0xdbc)]},'icon':{'data':'🧸','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x625)+'💖','text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x5da)+_0x16392a(0x503),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x2aa),_0x16392a(0x8cf)]},'icon':{'data':'🫂','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x648)+'ôm','text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xc24)+_0x16392a(0x251)+'g','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x655),_0x16392a(0xc7b),_0x16392a(0x92f)]},'icon':{'data':'😘','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x899)+_0x16392a(0x727),'text_color':_0x16392a(0x60b),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x622)+_0x16392a(0x823)+'u','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x64a),_0x16392a(0xaf6),_0x16392a(0x77c)]},'icon':{'data':'💤','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x487)+_0x16392a(0x7de),'text_color':_0x16392a(0x80d),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x50b)+_0x16392a(0xb58),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x2c3),_0x16392a(0x4bb),_0x16392a(0x7f4)]},'icon':{'data':'🎀','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xbf0)+_0x16392a(0x559),'text_color':_0x16392a(0xbb4),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x39f)+_0x16392a(0xb30),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x297),_0x16392a(0x8ab),_0x16392a(0x7c8)]},'icon':{'data':'🤭','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x534)+_0x16392a(0xb6d)+_0x16392a(0x5c0),'text_color':_0x16392a(0x459),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x39f)+_0x16392a(0x8bf)+_0x16392a(0x5d1),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x4b9),_0x16392a(0x6f1),_0x16392a(0xb12)]},'icon':{'data':'🎀','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xaaa)+_0x16392a(0xaf5),'text_color':_0x16392a(0x288),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x7f6)+_0x16392a(0x730)+'m','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xcbc),_0x16392a(0x810),_0x16392a(0xb68)]},'icon':{'data':'🥹','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xb00)+_0x16392a(0xd43)+_0x16392a(0x3bc),'text_color':_0x16392a(0xb38),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x2ac)+_0x16392a(0x681)+_0x16392a(0x299),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x259),_0x16392a(0x8d6),_0x16392a(0x2d3)]},'icon':{'data':'🫡','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xb63)+_0x16392a(0x20f)+_0x16392a(0xcaf),'text_color':_0x16392a(0x2c0),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x369)+_0x16392a(0xd5e),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xc4b),_0x16392a(0xb66),_0x16392a(0x256)]},'icon':{'data':'🫠','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x667)+_0x16392a(0xac5)+_0x16392a(0xcba),'text_color':_0x16392a(0xdad),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xc97)+_0x16392a(0xcdb)+_0x16392a(0x714),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x40b),_0x16392a(0x5bb),_0x16392a(0x402)]},'icon':{'data':'🫶','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xb6b)+_0x16392a(0xbf6)+'em','text_color':_0x16392a(0xd92),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xa79)+_0x16392a(0x573)+_0x16392a(0xb5e),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x4c1),_0x16392a(0x9a6)]},'icon':{'data':'💭','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x7ef)+_0x16392a(0xb5c),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x7be)+_0x16392a(0x305)+_0x16392a(0x723),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xb49),_0x16392a(0xa25)]},'icon':{'data':'💘','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x3ec)+_0x16392a(0x51e),'text_color':_0x16392a(0x5e3),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x7eb)+_0x16392a(0xbba)+'au','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xa4f),_0x16392a(0x69b),_0x16392a(0xa84)]},'icon':{'data':'💍','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x782)+_0x16392a(0xdc5)+_0x16392a(0x9ec),'text_color':_0x16392a(0x73e),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xb16)+_0x16392a(0x626),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xa32),_0x16392a(0x65d)]},'icon':{'data':'💍','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x367)+_0x16392a(0xdba),'localized_text':{'en':_0x16392a(0x367)+_0x16392a(0xdba),'vn':_0x16392a(0x709)+'è!'},'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xa79)+_0x16392a(0x788),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x707),_0x16392a(0xb04)]},'icon':{'data':'💕','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xabf)+'e!','text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x3cf)+_0x16392a(0x731)+_0x16392a(0xb1c),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x95d),_0x16392a(0x29d),_0x16392a(0x972)]},'icon':{'data':_0x16392a(0xbf9),'type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xbc5)+_0x16392a(0x8f0)+'p','text_color':_0x16392a(0xac6),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x638)+_0x16392a(0xba0)+_0x16392a(0x4f1),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x2fd),_0x16392a(0xa1b)]},'icon':{'data':_0x16392a(0xa1e),'type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xd4c)+_0x16392a(0x71d),'localized_text':{'en':_0x16392a(0x930)+_0x16392a(0xb81),'vn':_0x16392a(0xd4c)+_0x16392a(0x71d)},'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xc24)+_0x16392a(0x414)+_0x16392a(0xc52),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xa91),_0x16392a(0xd42),_0x16392a(0x2bb)]},'icon':{'data':_0x16392a(0xa16),'type':_0x16392a(0x48a),'color':_0x16392a(0xc34)},'max_lines':0x1,'text':_0x16392a(0x1e8)+_0x16392a(0x799),'text_color':_0x16392a(0xc96),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}}]},{'section':_0x16392a(0x732)+_0x16392a(0x5b4),'items':[{'overlay_id':_0x16392a(0xbd6)+_0x16392a(0x66f),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xa1b),_0x16392a(0x707)]},'icon':{'data':'🌷','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x410)+'te','localized_text':{'en':_0x16392a(0x410)+'te','vn':_0x16392a(0x83f)+_0x16392a(0x1dc)},'text_color':_0x16392a(0x45a),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x811)+_0x16392a(0xce7),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x9b9),_0x16392a(0xdc4),_0x16392a(0xd3c)]},'icon':{'data':'🎀','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x54b)+'🌸','text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x304)+_0x16392a(0x3d8),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x920),_0x16392a(0xc6d),_0x16392a(0x9b5)]},'icon':{'data':'🌸','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x675)+_0x16392a(0x666),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xc97)+_0x16392a(0x406)+'u','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x6c6),_0x16392a(0x9d2),_0x16392a(0xd35)]},'icon':{'data':'💗','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x423)+_0x16392a(0xa06)+_0x16392a(0x69e),'text_color':_0x16392a(0xd13),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x3ed)+_0x16392a(0x375)+_0x16392a(0x8cd),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x2a0),_0x16392a(0xa11)]},'icon':{'data':'💅','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xa7d)+_0x16392a(0x303),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x2af)+_0x16392a(0x1c4),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xc41),_0x16392a(0x691),_0x16392a(0xb5f)]},'icon':{'type':_0x16392a(0x48a),'data':_0x16392a(0x3de),'color':_0x16392a(0x6a2)},'max_lines':0x1,'text':_0x16392a(0xcb1)+_0x16392a(0x781),'text_color':_0x16392a(0x6a2),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x403)+_0x16392a(0x623)+_0x16392a(0xb65),'source':_0x16392a(0x1f7),'caption':{'background':{'image':{'type':_0x16392a(0xab5),'data':_0x16392a(0x421)+_0x16392a(0xd00),'source':_0x16392a(0xbbb)},'colors':[_0x16392a(0x679),_0x16392a(0x8e2)]},'icon':{'type':_0x16392a(0x48a),'data':_0x16392a(0xbfc)+_0x16392a(0xc71),'color':_0x16392a(0x5e3)},'max_lines':0x1,'text':_0x16392a(0xb61)+_0x16392a(0xd39),'text_color':_0x16392a(0x5e3),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x3ed)+_0x16392a(0x2cd)+_0x16392a(0xd5d),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x8b2),_0x16392a(0x597)]},'icon':{'data':'💅','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xb57)+_0x16392a(0xdb6),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x3ed)+_0x16392a(0xb97)+_0x16392a(0x28a),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xdbb),_0x16392a(0xb75),_0x16392a(0x5ec)]},'icon':{'data':'🎀','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xba1)+_0x16392a(0xd28)+_0x16392a(0x357),'text_color':_0x16392a(0x954),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xd67)+_0x16392a(0x944)+_0x16392a(0xc30),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x92b),_0x16392a(0x24d)]},'icon':{'data':'😎','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xa5d)+_0x16392a(0x9b6),'text_color':_0x16392a(0x5e3),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xd67)+_0x16392a(0x82e)+_0x16392a(0x58b),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x55b),_0x16392a(0x5af),_0x16392a(0x2be)]},'icon':{'data':'🪞','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x621)+_0x16392a(0xc3c),'text_color':_0x16392a(0x67f),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xc24)+_0x16392a(0x364)+_0x16392a(0xae8),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x9b9),_0x16392a(0xd95),_0x16392a(0x43b),_0x16392a(0xca9)]},'icon':{'data':'🪞','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x996)+_0x16392a(0xa28),'text_color':_0x16392a(0x5e3),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x8fd)+_0x16392a(0x7af)+_0x16392a(0xa05),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xaf2),_0x16392a(0x7df)]},'icon':{'data':_0x16392a(0x3e1),'type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xcf0)+_0x16392a(0x913)+'ản','text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x7be)+_0x16392a(0x923)+'er','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x875),_0x16392a(0x76d),_0x16392a(0x901)]},'icon':{'type':_0x16392a(0x48a),'data':_0x16392a(0x9e1)+_0x16392a(0x708),'color':_0x16392a(0x3e5)},'max_lines':0x1,'text':_0x16392a(0xb2f)+_0x16392a(0x582)+_0x16392a(0x92a)+'nh','text_color':_0x16392a(0x3e5),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x61d)+_0x16392a(0x637)+_0x16392a(0x9c9),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x450),_0x16392a(0x927),_0x16392a(0x589)]},'icon':{'data':'🪩','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xc8b)+_0x16392a(0x759)+_0x16392a(0xd1e),'text_color':_0x16392a(0x66a),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x9bd)+_0x16392a(0x9e9),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x4c0),_0x16392a(0x4a5),_0x16392a(0x6f3)]},'icon':{'data':'😎','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x96e)+_0x16392a(0x53a)+_0x16392a(0x991)+'ất','text_color':_0x16392a(0xda5),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x6ad)+_0x16392a(0x7e0)+_0x16392a(0x8aa),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x2fd),_0x16392a(0xb04)]},'icon':{'data':'🐉','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x3ef)+_0x16392a(0xad7),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x33c)+_0x16392a(0x3d3),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x4b9),_0x16392a(0x219),_0x16392a(0x297)]},'icon':{'data':'💥','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x291),'text_color':_0x16392a(0x218),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x918)+_0x16392a(0x529),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x2d4),_0x16392a(0xbc8),_0x16392a(0x285)]},'icon':{'data':'😎','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x844)+_0x16392a(0xd55),'text_color':_0x16392a(0x5a4),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x65b)+_0x16392a(0xd52)+'ua','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x5ae),_0x16392a(0x6b6),_0x16392a(0xa9f)]},'icon':{'data':'👑','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x762)+_0x16392a(0x56a),'text_color':_0x16392a(0xd0e),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xca8)+_0x16392a(0x718),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x4fe),_0x16392a(0x74e)]},'icon':{'data':'🥬','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x1f9)+'ch','text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x811)+_0x16392a(0x510),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x9b3),_0x16392a(0x640),_0x16392a(0x4e9)]},'icon':{'data':'🚀','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x8c7)+'đi','text_color':_0x16392a(0x55a),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xc74)+_0x16392a(0x4e3)+_0x16392a(0xb9a),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x373),_0x16392a(0x3a8),_0x16392a(0xda7)]},'icon':{'data':_0x16392a(0x3e1),'type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xd19)+_0x16392a(0x867),'text_color':_0x16392a(0x819),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x359)+_0x16392a(0x878)+_0x16392a(0x94a),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xcce),_0x16392a(0xdb2)]},'icon':{'data':'👌','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xd88)+_0x16392a(0x5f1),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x815)+_0x16392a(0x4f6)+_0x16392a(0xc99),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x741),_0x16392a(0x2fb),_0x16392a(0x6aa)]},'icon':{'data':'💎','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xb3b)+_0x16392a(0x20a)+'i','text_color':_0x16392a(0x3d5),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x3cf)+_0x16392a(0x6a6)+_0x16392a(0xc89),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x44c),_0x16392a(0x249),_0x16392a(0x447)]},'icon':{'data':'😎','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x516)+_0x16392a(0x7c5)+_0x16392a(0xd31)+'n','text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x2af)+_0x16392a(0x6d2),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x7f2),_0x16392a(0x270),_0x16392a(0xb5a)]},'icon':{'data':'🫶','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x516)+_0x16392a(0x606)+_0x16392a(0x742)+_0x16392a(0x476),'text_color':_0x16392a(0x8ad),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x9bd)+_0x16392a(0x7c0)+'u','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x4be),_0x16392a(0x2aa),_0x16392a(0x60c)]},'icon':{'data':'💅','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x508)+_0x16392a(0x2d1)+_0x16392a(0x647)+_0x16392a(0x807),'text_color':_0x16392a(0x21c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x204)+_0x16392a(0x9f8)+'am','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x550),_0x16392a(0xd36),_0x16392a(0x6e0)]},'icon':{'data':'💅','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x5e6)+_0x16392a(0xaa6)+_0x16392a(0xd53),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x638)+_0x16392a(0xa8b),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x6fc),_0x16392a(0x5a3),_0x16392a(0x955)]},'icon':{'data':'😒','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xab1)+_0x16392a(0x95f),'text_color':_0x16392a(0x876),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xafd)+_0x16392a(0xb72)+_0x16392a(0x349),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x897),_0x16392a(0xa9c),_0x16392a(0x6cd)]},'icon':{'data':'😒','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xd59)+_0x16392a(0xbd3),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x9bd)+_0x16392a(0x332)+_0x16392a(0x227),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xdb4),_0x16392a(0x862),_0x16392a(0x6f3)]},'icon':{'data':'😒','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x377)+_0x16392a(0xcbb)+_0x16392a(0x7f0),'text_color':_0x16392a(0xba6),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x4a1)+_0x16392a(0x1df)+_0x16392a(0x906),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x9ff),_0x16392a(0x7e8),_0x16392a(0x5de)]},'icon':{'data':'😎','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x6be)+_0x16392a(0xba3),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xc24)+_0x16392a(0x475),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xbfa),_0x16392a(0x5f6)]},'icon':{'data':'👎','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x342),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xc24)+_0x16392a(0x32a),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x920),_0x16392a(0xc6d),_0x16392a(0xa32)]},'icon':{'data':'🎀','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x97b)+'w','text_color':_0x16392a(0x4c7),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x869)+_0x16392a(0x3e6),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x2aa),_0x16392a(0x8cf),_0x16392a(0xc18),_0x16392a(0x804)]},'icon':{'data':'💅','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x642)+'ôn','text_color':_0x16392a(0x5e3),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x869)+_0x16392a(0xcc9),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xca0),_0x16392a(0x8e1),_0x16392a(0x213),_0x16392a(0x540)]},'icon':{'data':'🌈','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x65e)+'ôn','text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xa79)+_0x16392a(0xc22)+'ep','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x98b),_0x16392a(0x98b)],'material_blur':_0x16392a(0x6bb)},'icon':{'data':_0x16392a(0xaea)+'l','type':_0x16392a(0x48a),'color':_0x16392a(0x41a)},'max_lines':0x1,'text':_0x16392a(0xb71)+_0x16392a(0xd7e),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xc60)+_0x16392a(0x4dd),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x9f7),_0x16392a(0x20c),_0x16392a(0x400)]},'icon':{'data':'🚀','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xc2b),'text_color':_0x16392a(0xc6b),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xc60)+_0x16392a(0xa97)+'o','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x215),_0x16392a(0x9f4),_0x16392a(0x50a)]},'icon':{'data':'✈️','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xc35)+_0x16392a(0xab6),'text_color':_0x16392a(0x418),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x204)+_0x16392a(0xcd1),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x726),_0x16392a(0xc68),_0x16392a(0x870)]},'icon':{'data':'🎉','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xab2)+'en','text_color':_0x16392a(0x337),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x811)+_0x16392a(0x9ae),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x4d8),_0x16392a(0x8f2),_0x16392a(0x995)]},'icon':{'data':'👀','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x51b)+_0x16392a(0xd5f),'text_color':_0x16392a(0x483),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x292)+_0x16392a(0x663)+'ay','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x429),_0x16392a(0x24f),_0x16392a(0x88f)]},'icon':{'data':_0x16392a(0x245)+_0x16392a(0xa2a),'type':_0x16392a(0x48a),'color':_0x16392a(0xa56)},'max_lines':0x1,'text':_0x16392a(0x468)+_0x16392a(0x512),'text_color':_0x16392a(0x4df),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xbe7)+_0x16392a(0x886),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xb3f),_0x16392a(0x888),_0x16392a(0x52c)]},'icon':{'data':'🏆','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x44e)+_0x16392a(0x861)+'ng','text_color':_0x16392a(0x755),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x73b)+_0x16392a(0x3cd)+_0x16392a(0xd11),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xbc3),_0x16392a(0x983),_0x16392a(0x575)]},'icon':{'data':_0x16392a(0xcb7),'type':_0x16392a(0x48a),'color':_0x16392a(0x7bc)},'max_lines':0x1,'text':_0x16392a(0x29b)+_0x16392a(0xd2e),'text_color':_0x16392a(0x40d),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x734)+_0x16392a(0x7cc)+_0x16392a(0xa51),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x3b5),_0x16392a(0xc29),_0x16392a(0x988)]},'icon':{'data':_0x16392a(0x6ca),'type':_0x16392a(0x48a),'color':_0x16392a(0x1ea)},'max_lines':0x1,'text':_0x16392a(0x7c9)+_0x16392a(0x55c)+_0x16392a(0x669),'text_color':_0x16392a(0x3fb),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x204)+_0x16392a(0xd58)+_0x16392a(0xd89),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x6a1),_0x16392a(0x347),_0x16392a(0x4c5)]},'icon':{'data':_0x16392a(0xa68),'type':_0x16392a(0x48a),'color':_0x16392a(0x312)},'max_lines':0x1,'text':_0x16392a(0xbdd)+_0x16392a(0x797)+_0x16392a(0x854),'text_color':_0x16392a(0x974),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x9e7)+_0x16392a(0xb41)+'a','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x3f6),_0x16392a(0x54c),_0x16392a(0x678)]},'icon':{'data':'📉','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x1c7)+_0x16392a(0x254),'text_color':_0x16392a(0x263),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}}]},{'section':_0x16392a(0x997)+_0x16392a(0x750),'items':[{'overlay_id':_0x16392a(0x811)+_0x16392a(0xab8)+'i','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x427),_0x16392a(0xba5),_0x16392a(0xc2e)]},'icon':{'data':'😂','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x2f7)+_0x16392a(0x7b2),'text_color':_0x16392a(0x5e3),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x811)+_0x16392a(0xaa8),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x322),_0x16392a(0x9f6)]},'icon':{'data':'😎','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xaf7),'text_color':_0x16392a(0x5e3),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x975)+_0x16392a(0xadb)+'i','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xc53),_0x16392a(0xa4b)]},'icon':{'data':'🤡','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x396)+_0x16392a(0x9c1),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x9ba)+_0x16392a(0xa81),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x5ef),_0x16392a(0xb1d),_0x16392a(0x711)]},'icon':{'data':'🙀','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x370),'text_color':_0x16392a(0xdc2),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x73b)+_0x16392a(0xa60)+_0x16392a(0x724),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x697),_0x16392a(0x3ca)]},'icon':{'data':'🍂','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x48b)+_0x16392a(0x5b3),'text_color':_0x16392a(0x6fe),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x5dc)+_0x16392a(0x3c5)+_0x16392a(0x68e),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x3d6),_0x16392a(0xba4),_0x16392a(0x571)]},'icon':{'data':'🪳','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x307)+_0x16392a(0x36b),'text_color':_0x16392a(0x4cf),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xbb9)+_0x16392a(0x36c),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xc45),_0x16392a(0xb2b),_0x16392a(0xc39)]},'icon':{'data':'🎀','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x33f)+_0x16392a(0x2ba)+'ơm','text_color':_0x16392a(0x743),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x2af)+_0x16392a(0x896),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x932),_0x16392a(0xbb6),_0x16392a(0x2e7)]},'icon':{'data':'🍿','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x83e),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x6d0)+_0x16392a(0x49f)+_0x16392a(0x90f),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x932),_0x16392a(0xbb6)]},'icon':{'data':'🍿','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x2c1)+_0x16392a(0x229),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x8f4)+_0x16392a(0xbd0)+'g','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x702),_0x16392a(0x56f),_0x16392a(0xc7c)]},'icon':{'data':'🍿','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x217)+_0x16392a(0xad0)+_0x16392a(0x1f4)+_0x16392a(0xc5e),'text_color':_0x16392a(0x495),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xc24)+_0x16392a(0x760),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x4fe),_0x16392a(0x74e)]},'icon':{'data':'📺','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xc46)+_0x16392a(0x39e),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x73b)+_0x16392a(0x89c)+_0x16392a(0x8c1),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x49e),_0x16392a(0x887),_0x16392a(0xba5)]},'icon':{'type':_0x16392a(0x48a),'data':_0x16392a(0x6d6)+_0x16392a(0x2bc)+'l','color':_0x16392a(0xc6c)},'max_lines':0x1,'text':_0x16392a(0xa1c)+_0x16392a(0x6eb),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xd37)+_0x16392a(0xae1),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xc1f),_0x16392a(0x1e6),_0x16392a(0xab9)]},'icon':{'data':'🚨','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x395)+'áo','text_color':_0x16392a(0x2b1),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x494)+_0x16392a(0xc31),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xa0c),_0x16392a(0x8fc),_0x16392a(0x929)]},'icon':{'data':'🚨','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x528)+_0x16392a(0xc78),'text_color':_0x16392a(0x34b),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xb18)+_0x16392a(0x8f3)+_0x16392a(0x71c),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x94c),_0x16392a(0x92b)]},'icon':{'data':'🏃','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xd41)+_0x16392a(0xb79),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xc24)+_0x16392a(0xcbe),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x9fc),_0x16392a(0x7a6)]},'icon':{'data':_0x16392a(0xc84),'type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x572)+'đi','text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x72c)+_0x16392a(0xaf3)+_0x16392a(0x9cd)+_0x16392a(0xcd9),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x60d),_0x16392a(0x3bd),_0x16392a(0x404)]},'icon':{'data':_0x16392a(0x993),'type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xac2)+_0x16392a(0x77d)+_0x16392a(0x644),'text_color':_0x16392a(0x6a4),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xa79)+_0x16392a(0x8bb)+'ng','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x537),_0x16392a(0x9b3)]},'icon':{'data':'🥊','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x66c)+_0x16392a(0xcfb),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xa0f)+_0x16392a(0x843),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xa2f),_0x16392a(0xaf9),_0x16392a(0x241)]},'icon':{'data':_0x16392a(0x428),'type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xbcd),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x46c)+_0x16392a(0xa0d)+_0x16392a(0xdb9),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x6e6),_0x16392a(0xa1b)]},'icon':{'data':'🪷','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xc4c)+_0x16392a(0x671)+_0x16392a(0x3f5),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x73b)+_0x16392a(0x9c8),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x60d),_0x16392a(0xaac)]},'icon':{'data':'🧶','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x6b3)+'t','text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x7eb)+_0x16392a(0xace),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x4b4),_0x16392a(0xbf3)]},'icon':{'data':'🛞','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x37c)+'p','text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xa0f)+_0x16392a(0x378)+_0x16392a(0x599),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x583),_0x16392a(0x673)]},'icon':{'data':'🥺','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x627)+_0x16392a(0x980),'text_color':_0x16392a(0x5e3),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x7be)+_0x16392a(0xa3e)+_0x16392a(0x355),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x2c2),_0x16392a(0xa1b)]},'icon':{'data':'😭','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x2e2)+_0x16392a(0x3e9),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x292)+_0x16392a(0x659)+_0x16392a(0xdd5),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x902),_0x16392a(0x6f7)]},'icon':{'data':'😔','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x646)+_0x16392a(0xa8e),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xb18)+_0x16392a(0xaa9),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x8a0),_0x16392a(0x40f),_0x16392a(0x226)]},'icon':{'data':'🤨','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xc01)+_0x16392a(0xce8),'text_color':_0x16392a(0xbf1),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x73b)+_0x16392a(0xb86)+_0x16392a(0x52a),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x29d),_0x16392a(0x7da),_0x16392a(0xa01)]},'icon':{'data':'😭','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x233)+_0x16392a(0x39c),'text_color':_0x16392a(0x8a3),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x304)+_0x16392a(0x831)+_0x16392a(0x82b),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x7ae),_0x16392a(0xa09),_0x16392a(0xa27)]},'icon':{'data':'🤨','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x321)+_0x16392a(0x911)+_0x16392a(0x478),'text_color':_0x16392a(0x6d7),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xb18)+_0x16392a(0xdcc),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x8d0),_0x16392a(0xbb8),_0x16392a(0xccb)]},'icon':{'data':'🤡','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x631)+_0x16392a(0x584)+_0x16392a(0x3e7)+_0x16392a(0xda4),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x3cf)+_0x16392a(0xc75),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xbab),_0x16392a(0x4f9),_0x16392a(0xcb2)]},'icon':{'data':'🤡','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xaa5)+_0x16392a(0xd9a)+_0x16392a(0xdb3),'text_color':_0x16392a(0x547),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x50b)+_0x16392a(0x981),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x2ee),_0x16392a(0x920),_0x16392a(0x203)]},'icon':{'data':'😌','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x200)+_0x16392a(0xdac)+_0x16392a(0x46e),'text_color':_0x16392a(0x8e3),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x9bd)+_0x16392a(0xce4)+'ng','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xcea),_0x16392a(0x643),_0x16392a(0x2d5)]},'icon':{'data':'😌','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x3e8)+_0x16392a(0x658)+_0x16392a(0x434)+_0x16392a(0x8fe)+'i','text_color':_0x16392a(0x7a4),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x494)+_0x16392a(0x84e)+_0x16392a(0xabd),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x4f2),_0x16392a(0xb0e)]},'icon':{'data':'🎁','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x557)+_0x16392a(0x30d),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x304)+_0x16392a(0x53f)+_0x16392a(0x715)+_0x16392a(0xa49),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x7d6),_0x16392a(0x76c)]},'icon':{'data':'😅','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x39b)+_0x16392a(0x8fb)+_0x16392a(0xd73),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x5dc)+_0x16392a(0x7e9)+_0x16392a(0x46a)+'g','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x69d),_0x16392a(0x7d6)]},'icon':{'data':'🎮','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xbeb)+_0x16392a(0xb44)+_0x16392a(0x471),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x8fd)+_0x16392a(0x986)+_0x16392a(0x1e3),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x5fd),_0x16392a(0x50e)]},'icon':{'data':'🙈','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x4d5)+_0x16392a(0x7b4),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x9bd)+_0x16392a(0x45c)+_0x16392a(0xaa4),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xac0),_0x16392a(0x9dc),_0x16392a(0x384)]},'icon':{'data':'👌','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x8c5)+_0x16392a(0xb9b),'text_color':_0x16392a(0xbe0),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x3ed)+_0x16392a(0x984)+_0x16392a(0x801),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x6ce),_0x16392a(0x274)]},'icon':{'data':_0x16392a(0x356),'type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x963)+_0x16392a(0xa02),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x4ec)+_0x16392a(0x51d),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x6dc),_0x16392a(0xa95),_0x16392a(0xa94)]},'icon':{'data':_0x16392a(0xc2c)+_0x16392a(0x335),'type':_0x16392a(0x48a),'color':_0x16392a(0x1f0)},'max_lines':0x1,'text':_0x16392a(0x75b),'text_color':_0x16392a(0x35b),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x9ba)+_0x16392a(0xd49)+_0x16392a(0xa40),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x8fa),_0x16392a(0xb34),_0x16392a(0x7cd)]},'icon':{'data':_0x16392a(0x5c9)+_0x16392a(0x2a3),'type':_0x16392a(0x48a),'color':_0x16392a(0x3e0)},'max_lines':0x1,'text':_0x16392a(0x3fa)+_0x16392a(0xd2c),'text_color':_0x16392a(0xd83),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x292)+_0x16392a(0x659)+_0x16392a(0xb01),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xb76),_0x16392a(0xcfc),_0x16392a(0x6a9)]},'icon':{'data':_0x16392a(0x5c9)+_0x16392a(0x7ad)+'ll','type':_0x16392a(0x48a),'color':_0x16392a(0x705)},'max_lines':0x1,'text':_0x16392a(0x990)+_0x16392a(0x4d3),'text_color':_0x16392a(0x8cc),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x7f6)+_0x16392a(0x9ab),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x767),_0x16392a(0xd84),_0x16392a(0x6f2)]},'icon':{'data':'🤡','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x686)+_0x16392a(0x31d),'text_color':_0x16392a(0xb06),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x3cf)+_0x16392a(0xd40)+_0x16392a(0xdd2),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xac1),_0x16392a(0x6ac),_0x16392a(0x8a9)]},'icon':{'data':'💅','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x696)+_0x16392a(0x30a)+_0x16392a(0x76a),'text_color':_0x16392a(0x3a0),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x618)+_0x16392a(0xb42)+_0x16392a(0x53e),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x37a),_0x16392a(0xc33),_0x16392a(0x8d9)]},'icon':{'data':'🤫','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x2ce)+_0x16392a(0x440),'text_color':_0x16392a(0xad6),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x7be)+_0x16392a(0x32b),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xafa),_0x16392a(0x958),_0x16392a(0xa71)]},'icon':{'data':'🥹','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x849)+_0x16392a(0xc6a),'text_color':_0x16392a(0x937),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x581)+_0x16392a(0xae7)+'ng','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x903),_0x16392a(0xa4a),_0x16392a(0x63e)]},'icon':{'data':_0x16392a(0xa16),'type':_0x16392a(0x48a),'color':_0x16392a(0x3da)},'max_lines':0x1,'text':_0x16392a(0x593)+_0x16392a(0x833),'text_color':_0x16392a(0x756),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}}]},{'section':_0x16392a(0xca6)+_0x16392a(0xacf)+_0x16392a(0x2cf),'items':[{'overlay_id':_0x16392a(0x918)+_0x16392a(0xb64)+'su','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xcc2),_0x16392a(0xd3d)]},'icon':{'data':'🫠','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x778)+_0x16392a(0x827),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x9ba)+_0x16392a(0x624)+'uu','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x902),_0x16392a(0xbf3)]},'icon':{'type':_0x16392a(0x48a),'data':_0x16392a(0xd18)+_0x16392a(0xc1c),'color':_0x16392a(0xc6c)},'max_lines':0x1,'text':_0x16392a(0x502)+_0x16392a(0x244),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x304)+_0x16392a(0xc0e)+'t','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x772),_0x16392a(0xa99),_0x16392a(0xc55)]},'icon':{'data':'🫠','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x248)+_0x16392a(0x2dc),'text_color':_0x16392a(0x287),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x4a1)+_0x16392a(0x48e)+_0x16392a(0x2bf),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x298),_0x16392a(0x852),_0x16392a(0x1cb)]},'icon':{'data':'💀','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xa7c)+_0x16392a(0x3d1)+_0x16392a(0xd10),'text_color':_0x16392a(0x23f),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x4a1)+_0x16392a(0xdb1)+'oi','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xb04),_0x16392a(0x94c)]},'icon':{'data':'🐉','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x9a1)+_0x16392a(0x31a),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x4a1)+_0x16392a(0x220)+_0x16392a(0xd5a),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x1f5),_0x16392a(0x8a0),_0x16392a(0x78b)]},'icon':{'data':'❗','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x7ba)+_0x16392a(0x26e),'text_color':_0x16392a(0xdca),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x4fb)+_0x16392a(0xcf1),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x222),_0x16392a(0x371),_0x16392a(0x302)]},'icon':{'data':'😭','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x602)+_0x16392a(0xb03),'text_color':_0x16392a(0x43a),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x3ed)+_0x16392a(0x38f),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xc7e),_0x16392a(0x9d3),_0x16392a(0x6ef)]},'icon':{'data':'💀','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x87a)+_0x16392a(0xdbf),'text_color':_0x16392a(0x8d5),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x977)+_0x16392a(0xaad),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x3b2),_0x16392a(0x85d)]},'icon':{'data':'📉','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x33d),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x918)+_0x16392a(0xc16),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xdb2),_0x16392a(0x36d)]},'icon':{'data':_0x16392a(0x2fe),'type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x265),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x869)+_0x16392a(0x34a),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xd86),_0x16392a(0x6b1)]},'icon':{'data':'😭','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x79f)+'ắt','text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x403)+_0x16392a(0x5ed),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xab7),_0x16392a(0x570)]},'icon':{'data':_0x16392a(0xa8d),'type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x2db),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x9ba)+_0x16392a(0x2ff),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x86e),_0x16392a(0x400),_0x16392a(0xc8a)]},'icon':{'data':'🧠','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x3c3)+_0x16392a(0x479),'text_color':_0x16392a(0xd8f),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x242)+_0x16392a(0xc00)+_0x16392a(0x9d6)+'g','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xdb2),_0x16392a(0x238)]},'icon':{'data':'🤯','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x63c)+_0x16392a(0x1d4)+_0x16392a(0xa76),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x9e7)+_0x16392a(0xc69),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x588),_0x16392a(0xcbd)]},'icon':{'data':'🫠','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x853)+'hẹ','text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x9bd)+_0x16392a(0x87c)+'c','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x21a),_0x16392a(0x420)]},'icon':{'data':'🗿','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x8d8)+_0x16392a(0x24b),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x7eb)+_0x16392a(0x5df)+_0x16392a(0x8e7),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xaf0),_0x16392a(0x3c2),_0x16392a(0x5fb)]},'icon':{'data':'🙂','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xb21)+_0x16392a(0x1dd)+_0x16392a(0x72d)+'g','text_color':_0x16392a(0xb9d),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x2af)+_0x16392a(0xc63)+_0x16392a(0x554),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x6a5),_0x16392a(0x5ea)]},'icon':{'data':'🥀','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x4dc)+_0x16392a(0xc11),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xd67)+_0x16392a(0x95c)+_0x16392a(0x554),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xa7b),_0x16392a(0x381),_0x16392a(0x3ab)]},'icon':{'data':'🌙','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x26b)+_0x16392a(0x246)+'ồn','text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x27d)+_0x16392a(0x721),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x7ce),_0x16392a(0x987),_0x16392a(0xc36)]},'icon':{'data':'🥲','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x7d2)+_0x16392a(0xd03),'text_color':_0x16392a(0x461),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x46c)+_0x16392a(0x1f8),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xa0a),_0x16392a(0x230),_0x16392a(0x318)]},'icon':{'data':'🫂','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xd72)+_0x16392a(0x4c2)+_0x16392a(0x44d),'text_color':_0x16392a(0xaae),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x9ba)+_0x16392a(0x6ea),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xa08),_0x16392a(0xcfa),_0x16392a(0x3b4)]},'icon':{'data':'🥹','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x632)+_0x16392a(0xdc0),'text_color':_0x16392a(0x72e),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xb18)+_0x16392a(0x36f),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x5d0),_0x16392a(0x91e),_0x16392a(0x719)]},'icon':{'data':_0x16392a(0xd60),'type':_0x16392a(0x48a),'color':_0x16392a(0xb7f)},'max_lines':0x1,'text':_0x16392a(0x42e)+_0x16392a(0x31b),'text_color':_0x16392a(0xb7f),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xd37)+_0x16392a(0xdc1)+_0x16392a(0x457),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x3b2),_0x16392a(0x85d)]},'icon':{'data':_0x16392a(0xa8d),'type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xb96)+_0x16392a(0x5a7)+'i','text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x292)+_0x16392a(0x6dd)+_0x16392a(0xd0c)+_0x16392a(0x52a),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x998),_0x16392a(0xd8c),_0x16392a(0xaee)]},'icon':{'data':'💔','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x250)+_0x16392a(0xbec)+_0x16392a(0x25c),'text_color':_0x16392a(0x698),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x3cf)+_0x16392a(0x64c),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x5a9),_0x16392a(0x783),_0x16392a(0x5b0)]},'icon':{'data':'🫠','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x386)+_0x16392a(0x513),'text_color':_0x16392a(0x3ac),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x9bd)+_0x16392a(0x77b),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x2c9),_0x16392a(0xb3a),_0x16392a(0xac9)]},'icon':{'type':_0x16392a(0x48a),'data':_0x16392a(0x74b)+_0x16392a(0x94d),'color':_0x16392a(0x8a6)},'max_lines':0x1,'text':_0x16392a(0x682)+_0x16392a(0x6c9)+_0x16392a(0x999),'text_color':_0x16392a(0x8a6),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xa93)+_0x16392a(0x813)+_0x16392a(0x273),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x5cd),_0x16392a(0x46b),_0x16392a(0x1cc)]},'icon':{'data':'🥀','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x300)+_0x16392a(0x82f)+_0x16392a(0x90c)+_0x16392a(0xb1e),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x304)+_0x16392a(0x26c)+_0x16392a(0x830),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xb2d),_0x16392a(0xa46),_0x16392a(0x74d)]},'icon':{'data':'💭','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x773)+_0x16392a(0x264)+_0x16392a(0x5a1),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xc97)+_0x16392a(0x1e1)+'o','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xbf3),_0x16392a(0x598),_0x16392a(0x65a)]},'icon':{'data':'🩶','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xc90)+_0x16392a(0x3bf)+_0x16392a(0x9da)+_0x16392a(0x84c),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xa79)+_0x16392a(0x81e)+_0x16392a(0xceb),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xa4e),_0x16392a(0x690),_0x16392a(0x8e5)]},'icon':{'data':'📱','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xd34)+_0x16392a(0x2bd)+_0x16392a(0x814),'text_color':_0x16392a(0x70a),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x65b)+_0x16392a(0x895),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x873),_0x16392a(0x972),_0x16392a(0xac3)]},'icon':{'data':'🥺','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xcff)+_0x16392a(0x83a)+'mà','text_color':_0x16392a(0x6df),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x359)+_0x16392a(0xd23),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xd2a),_0x16392a(0x8a7),_0x16392a(0x6f3)]},'icon':{'data':'🙂','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xbee)+_0x16392a(0x75d)+_0x16392a(0x7a0),'text_color':_0x16392a(0x20d),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x27d)+_0x16392a(0xa64),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x56c),_0x16392a(0x78d),_0x16392a(0xdd1)]},'icon':{'data':'🥲','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x54a)+_0x16392a(0x55d)+_0x16392a(0x33a),'text_color':_0x16392a(0x80c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x95a)+_0x16392a(0xc56),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xbc0),_0x16392a(0x9d5)]},'icon':{'data':'😤','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x5c2),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x65b)+_0x16392a(0x1ed),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x2f5),_0x16392a(0x352),_0x16392a(0x9d4)]},'icon':{'data':'🥺','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xa15)+_0x16392a(0x7e2)+_0x16392a(0xc32),'text_color':_0x16392a(0x6e3),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x65b)+_0x16392a(0x68c)+_0x16392a(0x346),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xc47),_0x16392a(0x4c0),_0x16392a(0xc23)]},'icon':{'data':'😾','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x407)+_0x16392a(0x437),'text_color':_0x16392a(0x5d9),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x3ed)+_0x16392a(0x2ef)+_0x16392a(0x91b),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xab4),_0x16392a(0x261)]},'icon':{'data':'🥺','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xaf1)+_0x16392a(0x7bb),'text_color':_0x16392a(0x420),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x905)+_0x16392a(0x5ee),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x3c8),_0x16392a(0x5d6),_0x16392a(0x226)]},'icon':{'data':'🥲','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x5a8)+_0x16392a(0xae5),'text_color':_0x16392a(0x5d9),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x2af)+_0x16392a(0x57f),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x817),_0x16392a(0x7c7),_0x16392a(0x9ad)]},'icon':{'data':'🥹','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x964),'text_color':_0x16392a(0xb9f),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x9bd)+_0x16392a(0x59d)+'a','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x9e8),_0x16392a(0xbbd),_0x16392a(0x3c4)]},'icon':{'data':'🫠','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xbe3)+_0x16392a(0x5cb),'text_color':_0x16392a(0x3d0),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x638)+_0x16392a(0x4b5),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x4b9),_0x16392a(0x219),_0x16392a(0x297)]},'icon':{'data':'🤬','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x536)+_0x16392a(0x619),'text_color':_0x16392a(0x532),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x638)+_0x16392a(0xad1)+_0x16392a(0xd5a),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x49e),_0x16392a(0x4bc),_0x16392a(0x297)]},'icon':{'data':'❗','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xa03)+_0x16392a(0xa5e),'text_color':_0x16392a(0x728),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x9bd)+_0x16392a(0x7f1)+_0x16392a(0xbea),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x9b0),_0x16392a(0x874),_0x16392a(0x1d7)]},'icon':{'data':'❓','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xaa3)+_0x16392a(0x73a),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x308)+_0x16392a(0x8e0),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x6b5),_0x16392a(0x3f8),_0x16392a(0x310)]},'icon':{'data':'😳','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xa0b),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xce5)+_0x16392a(0x763),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x908),_0x16392a(0x297),_0x16392a(0x860)]},'icon':{'data':_0x16392a(0x2ab)+'rk','type':_0x16392a(0x48a),'color':_0x16392a(0x72a)},'max_lines':0x1,'text':_0x16392a(0x5e1),'text_color':_0x16392a(0x72a),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x408)+_0x16392a(0xd4d),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x255),_0x16392a(0x393),_0x16392a(0x9f0)]},'icon':{'data':'😭','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x9a9)+_0x16392a(0xbe1),'text_color':_0x16392a(0x3af),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x2af),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x5c7),_0x16392a(0xc72),_0x16392a(0x83b)]},'icon':{'data':'🤨','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x71f),'text_color':_0x16392a(0xbbe),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x21b)+_0x16392a(0x6d9),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x3f4),_0x16392a(0x458),_0x16392a(0x43c)]},'icon':{'data':'🫠','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x85b)+'ọ','text_color':_0x16392a(0x210),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x734)+_0x16392a(0xa78)+'et','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xb0c),_0x16392a(0xa7e),_0x16392a(0x67a)]},'icon':{'data':'🫠','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x1f3)+_0x16392a(0x5ab)+_0x16392a(0x7a7),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x304)+_0x16392a(0x6c1),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xa9d),_0x16392a(0x2f9),_0x16392a(0x9c2)]},'icon':{'data':'🙄','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xc44)+_0x16392a(0xce0),'text_color':_0x16392a(0x85f),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xc24)+_0x16392a(0x68f)+'di','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x88b),_0x16392a(0xa59),_0x16392a(0x6c0)]},'icon':{'data':'🙄','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x3a5)+_0x16392a(0xc87),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x3cf)+_0x16392a(0x6da)+_0x16392a(0x1f6),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xabe),_0x16392a(0x334)]},'icon':{'data':'🙉','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xa75)+_0x16392a(0x1d1),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x9bd)+_0x16392a(0xa22)+_0x16392a(0x857),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x32d),_0x16392a(0x543),_0x16392a(0xc94)]},'icon':{'data':'🙈','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xb2e)+_0x16392a(0x6b0)+_0x16392a(0x3db)+_0x16392a(0x417),'text_color':_0x16392a(0xb2c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x734)+_0x16392a(0x704),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x9e4),_0x16392a(0xbe9),_0x16392a(0x86e)]},'icon':{'data':'🤫','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x7c9)+_0x16392a(0x5e9)+_0x16392a(0x71a),'text_color':_0x16392a(0x385),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xc97)+_0x16392a(0x78e)+_0x16392a(0xa61)+_0x16392a(0xd48),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x6ce),_0x16392a(0x274),_0x16392a(0x97c),_0x16392a(0x27f)]},'icon':{'data':'🤐','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x4ae)+_0x16392a(0x872)+_0x16392a(0xc3b)+'i','text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x734)+_0x16392a(0xa48)+_0x16392a(0x281)+_0x16392a(0x96d),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x6e6),_0x16392a(0x2d8),_0x16392a(0x6f5)]},'icon':{'data':'🤫','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x66b)+_0x16392a(0xd82)+_0x16392a(0x515),'text_color':_0x16392a(0x556),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x601)+_0x16392a(0xae2),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x577),_0x16392a(0x6d8),_0x16392a(0x2e4)]},'icon':{'data':_0x16392a(0x85e)+_0x16392a(0x842)+_0x16392a(0x206),'type':_0x16392a(0x48a),'color':_0x16392a(0x275)},'max_lines':0x1,'text':_0x16392a(0x3c7),'text_color':_0x16392a(0x2b4),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x6bf)+_0x16392a(0x59e),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xb17),_0x16392a(0x5c5),_0x16392a(0x9db)]},'icon':{'data':_0x16392a(0x2ab)+_0x16392a(0xc4a)+_0x16392a(0xa2a),'type':_0x16392a(0x48a),'color':_0x16392a(0x8e8)},'max_lines':0x1,'text':_0x16392a(0xb89),'text_color':_0x16392a(0x99c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xc24)+_0x16392a(0x7d0),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x25f),_0x16392a(0x6d3),_0x16392a(0xa6a)]},'icon':{'data':'🤷','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xa33)+'á','text_color':_0x16392a(0xab3),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x45e)+_0x16392a(0x20b),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x9ea),_0x16392a(0xbc4),_0x16392a(0xcc3)]},'icon':{'data':_0x16392a(0x243)+_0x16392a(0xcc5),'type':_0x16392a(0x48a),'color':_0x16392a(0xb67)},'max_lines':0x1,'text':_0x16392a(0x8b6)+_0x16392a(0x48d),'text_color':_0x16392a(0x650),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x7be)+_0x16392a(0x323),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x340),_0x16392a(0x4ba),_0x16392a(0xc59)]},'icon':{'data':_0x16392a(0x9ed)+_0x16392a(0xcaa),'type':_0x16392a(0x48a),'color':_0x16392a(0x70b)},'max_lines':0x1,'text':_0x16392a(0x894)+_0x16392a(0x40a),'text_color':_0x16392a(0x2c6),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x47c)+_0x16392a(0x4bf),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x3a9),_0x16392a(0xa92),_0x16392a(0xd47)]},'icon':{'data':_0x16392a(0x777),'type':_0x16392a(0x48a),'color':_0x16392a(0xd64)},'max_lines':0x1,'text':_0x16392a(0xd9d)+_0x16392a(0xc83),'text_color':_0x16392a(0xa18),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x21b)+_0x16392a(0x25e),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x4e5),_0x16392a(0x339),_0x16392a(0x4ca)]},'icon':{'data':'🥲','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xc20)+_0x16392a(0x9a3),'text_color':_0x16392a(0x652),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x408)+_0x16392a(0xd5c),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x463),_0x16392a(0xbb2),_0x16392a(0x3cc)]},'icon':{'data':'🌙','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x6d1),'text_color':_0x16392a(0x2f3),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}}]},{'section':_0x16392a(0x4f8)+_0x16392a(0xcc0)+_0x16392a(0x938),'items':[{'overlay_id':_0x16392a(0xd67)+_0x16392a(0x71b)+'t','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x2b0),_0x16392a(0x4a0)]},'icon':{'data':'🔥','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x489)+_0x16392a(0xc9a),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x95a)+_0x16392a(0x72f)+_0x16392a(0xa87),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x5cc),_0x16392a(0x9a4),_0x16392a(0x345)]},'icon':{'data':'📚','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x280)+_0x16392a(0x4c9)+_0x16392a(0x9f9)+_0x16392a(0x834),'text_color':_0x16392a(0xb08),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x45e)+_0x16392a(0xd9f)+_0x16392a(0xa24),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xbdb),_0x16392a(0x4a8)]},'icon':{'data':'🤡','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x2b2)+_0x16392a(0x2d6),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x638)+_0x16392a(0x44f),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x4b6),_0x16392a(0x49a),_0x16392a(0x2e6)]},'icon':{'data':'🐍','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xd07)+'ộc','text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xc97)+_0x16392a(0xb78)+_0x16392a(0x957),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x4b6),_0x16392a(0x38a)]},'icon':{'data':'☕','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x809)+_0x16392a(0x567),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x403)+_0x16392a(0x1d6)+_0x16392a(0x262),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x4fe),_0x16392a(0x74e)]},'icon':{'data':'💸','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xc9b)+_0x16392a(0xa45),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x975)+_0x16392a(0xda8)+_0x16392a(0x467)+_0x16392a(0x1c3),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x4b6),_0x16392a(0xc82),_0x16392a(0x38a)]},'icon':{'data':'💸','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x74f)+_0x16392a(0x277)+_0x16392a(0x3fe),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x95a)+_0x16392a(0x2c8)+_0x16392a(0x1c6),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xc14),_0x16392a(0x5f4)]},'icon':{'data':'💳','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x70c)+_0x16392a(0x795),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x73b)+_0x16392a(0x969)+_0x16392a(0x2a2)+_0x16392a(0xc86),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x37e),_0x16392a(0x62f),_0x16392a(0xab0)]},'icon':{'data':'💰','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x4e4)+_0x16392a(0xc3e)+_0x16392a(0x9e5),'text_color':_0x16392a(0x561),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x73b)+_0x16392a(0x6bc)+_0x16392a(0xbe6),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xa89),_0x16392a(0xa50),_0x16392a(0x259)]},'icon':{'data':'💸','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xd25)+_0x16392a(0x934)+_0x16392a(0xdc9),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x95a)+_0x16392a(0xcc6)+_0x16392a(0x820),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x796),_0x16392a(0x56d),_0x16392a(0x97d)]},'icon':{'data':'💰','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x859)+_0x16392a(0xbaf)+_0x16392a(0xc77)+_0x16392a(0x62c),'text_color':_0x16392a(0xd3f),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x811)+_0x16392a(0xa13)+_0x16392a(0xccd),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xb94),_0x16392a(0x824)]},'icon':{'data':'🥔','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x2cc)+_0x16392a(0x306)+'ừ','text_color':_0x16392a(0x5e3),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x76b)+_0x16392a(0x677)+_0x16392a(0x837),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x607),_0x16392a(0x44a)]},'icon':{'data':'🎲','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x64d)+_0x16392a(0x555),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x472)+_0x16392a(0xa52),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x1c5),_0x16392a(0xdb5),_0x16392a(0x2ad)]},'icon':{'data':_0x16392a(0x474)+_0x16392a(0x42f),'type':_0x16392a(0x48a),'color':_0x16392a(0xd1d)},'max_lines':0x1,'text':_0x16392a(0xd6b)+'gủ','text_color':_0x16392a(0x81d),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x975)+_0x16392a(0x88c)+'a','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xd61),_0x16392a(0x97a),_0x16392a(0x662)]},'icon':{'data':'📚','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x635)+_0x16392a(0x877),'text_color':_0x16392a(0x1e9),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xd67)+_0x16392a(0x780),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x350),_0x16392a(0x80e),_0x16392a(0x845)]},'icon':{'data':_0x16392a(0x523),'type':_0x16392a(0x48a),'color':_0x16392a(0x947)},'max_lines':0x1,'text':_0x16392a(0xb83)+_0x16392a(0xd77)+_0x16392a(0x5e2),'text_color':_0x16392a(0x47a),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xc24)+_0x16392a(0x968),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x2dd),_0x16392a(0x30b),_0x16392a(0x59a)]},'icon':{'data':'💸','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x846),'text_color':_0x16392a(0x7ab),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x304)+_0x16392a(0x488)+_0x16392a(0xb95),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xb8c),_0x16392a(0x92c),_0x16392a(0x58d)]},'icon':{'data':_0x16392a(0xd4f)+_0x16392a(0x2d2),'type':_0x16392a(0x48a),'color':_0x16392a(0x27a)},'max_lines':0x1,'text':_0x16392a(0x8c9)+_0x16392a(0x212)+_0x16392a(0xa2e),'text_color':_0x16392a(0x7d5),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}}]},{'section':_0x16392a(0x401)+_0x16392a(0xd7a)+'\x20☕','items':[{'overlay_id':_0x16392a(0xc97)+_0x16392a(0x5ba)+_0x16392a(0x71c),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x5e8),_0x16392a(0x297),_0x16392a(0x860)]},'icon':{'data':'☀️','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x32f)+_0x16392a(0x8e4),'text_color':_0x16392a(0xac4),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x73b)+_0x16392a(0x62e),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x59f),_0x16392a(0xaac)]},'icon':{'data':'☕','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xa20)+'e!','localized_text':{'en':_0x16392a(0xa20)+'e!','vn':_0x16392a(0x382)+_0x16392a(0x5bf)},'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x7be)+_0x16392a(0xadd),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xdd4),_0x16392a(0x208),_0x16392a(0x22d)]},'icon':{'data':'🍃','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x9bb)+_0x16392a(0xbce),'text_color':_0x16392a(0xbed),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x7eb)+_0x16392a(0x793),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x336),_0x16392a(0xa1b)]},'icon':{'data':'🍦','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xcc1)+'!','localized_text':{'en':_0x16392a(0xcc1)+'!','vn':_0x16392a(0x361)},'text_color':_0x16392a(0x5e3),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x403)+_0x16392a(0x840)+_0x16392a(0xb3c),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x6a0),_0x16392a(0x700),_0x16392a(0x201)]},'icon':{'data':'🧋','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x482)+_0x16392a(0x8f1)+_0x16392a(0x9e0)+_0x16392a(0xd2b)+_0x16392a(0x6b8),'text_color':_0x16392a(0x25a),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x7f6)+_0x16392a(0x38b),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x9f6),_0x16392a(0x770)]},'icon':{'data':_0x16392a(0x46d),'type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x446)+'a?','text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x45e)+_0x16392a(0x8d2),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x8d1),_0x16392a(0xc13)]},'icon':{'data':_0x16392a(0x46d),'type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x4fa)+'e!','localized_text':{'en':_0x16392a(0x4fa)+'e!','vn':_0x16392a(0x61b)+'!'},'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x45e)+_0x16392a(0x419)+'g','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x707),_0x16392a(0x684)]},'icon':{'data':'✈️','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xc81)+_0x16392a(0x921),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x3cf)+_0x16392a(0xa42)+_0x16392a(0x87e),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x41e),_0x16392a(0x2c7),_0x16392a(0x6ae)]},'icon':{'data':'🥂','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x7ea)+_0x16392a(0xdd0),'text_color':_0x16392a(0x8a5),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x296)+_0x16392a(0xce6)+'e','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x835),_0x16392a(0x858)]},'icon':{'data':_0x16392a(0x21d),'type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xa8f)+_0x16392a(0xd85),'localized_text':{'en':_0x16392a(0xa8f)+_0x16392a(0xd85),'vn':_0x16392a(0xc67)+'m!'},'text_color':_0x16392a(0x5e3),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x480)+_0x16392a(0xdcf),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x836),_0x16392a(0xbf3)]},'icon':{'data':'🎬','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xb1b)+'e!','text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x3cf)+_0x16392a(0x470)+_0x16392a(0xc8c),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xbf3),_0x16392a(0x4b4)]},'icon':{'data':'📷','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xa75)+_0x16392a(0x36e),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x204)+_0x16392a(0x98a)+_0x16392a(0xd11),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xd96),_0x16392a(0x530)]},'icon':{'data':'📷','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x7d8)+_0x16392a(0x7ff),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x585)+_0x16392a(0x42b),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xdaf),_0x16392a(0x835)]},'icon':{'data':'📷','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x23c)+'e!','text_color':_0x16392a(0x5e3),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xc24)+_0x16392a(0x4a6)+'e','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x1d9),_0x16392a(0xa1b)]},'icon':{'data':'🌴','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xb37)+_0x16392a(0xd85),'localized_text':{'en':_0x16392a(0xb37)+_0x16392a(0xd85),'vn':_0x16392a(0xa3d)+_0x16392a(0x4f0)},'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x7e6)+_0x16392a(0x600)+'ay','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x836),_0x16392a(0x387)]},'icon':{'data':'🎓','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x865)+_0x16392a(0xbc6)+'!','localized_text':{'en':_0x16392a(0x865)+_0x16392a(0xbc6)+'!','vn':_0x16392a(0x8b7)+_0x16392a(0xbd7)+'!'},'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x905)+_0x16392a(0x47d),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xb4b),_0x16392a(0x976),_0x16392a(0xcd0)]},'icon':{'data':'🌊','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x818),'text_color':_0x16392a(0x315),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x2af)+_0x16392a(0x521)+_0x16392a(0x498),'source':_0x16392a(0x1f7),'caption':{'background':{'image':{'type':_0x16392a(0xab5),'data':_0x16392a(0x329)+'r','source':_0x16392a(0xbbb)},'colors':[_0x16392a(0x5c1),_0x16392a(0x4b4)]},'icon':{'data':_0x16392a(0x670),'type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x8b9)+_0x16392a(0xda1)+'.','text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xc74)+_0x16392a(0x398),'source':_0x16392a(0x1f7),'caption':{'background':{'image':{'type':_0x16392a(0xab5),'data':_0x16392a(0x329)+'r','source':_0x16392a(0xbbb)},'colors':[_0x16392a(0x6cc),_0x16392a(0xaac),_0x16392a(0xc05)]},'icon':{'data':'☕','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x6ba)+_0x16392a(0x2f6),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x638)+_0x16392a(0xcf2),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x286),_0x16392a(0x5a6)]},'icon':{'data':'🤧','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xd1a),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x918)+_0x16392a(0xb9c)+_0x16392a(0x2e1),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x438),_0x16392a(0x22e),_0x16392a(0x240)]},'icon':{'type':_0x16392a(0x48a),'data':_0x16392a(0x725)+_0x16392a(0x335),'color':_0x16392a(0x858)},'max_lines':0x1,'text':_0x16392a(0x672)+_0x16392a(0x21e)+_0x16392a(0x3a7),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x9d1)+_0x16392a(0x7bd),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x956),_0x16392a(0x84a),_0x16392a(0x595)]},'icon':{'data':'🪐','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x695)+_0x16392a(0x8b8),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xdab)+_0x16392a(0x28c),'source':_0x16392a(0x1f7),'daily_start_hour':0x1,'daily_end_hour':0x3,'caption':{'background':{'colors':[_0x16392a(0x4b6),_0x16392a(0xc82),_0x16392a(0x38a)]},'icon':{'type':_0x16392a(0x48a),'data':_0x16392a(0x668)+_0x16392a(0x335),'color':_0x16392a(0xc6c)},'max_lines':0x1,'text':_0x16392a(0xad8)+_0x16392a(0xca3),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xc97)+_0x16392a(0x850),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x8dd),_0x16392a(0x836)]},'icon':{'type':_0x16392a(0x48a),'data':_0x16392a(0x474)+_0x16392a(0x42f),'color':_0x16392a(0xc6c)},'max_lines':0x1,'text':_0x16392a(0xc91),'text_color':_0x16392a(0xc6c),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x40e)+_0x16392a(0xd21),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x8d4),_0x16392a(0x764),_0x16392a(0x24e)]},'icon':{'data':'☁️','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x76e)+_0x16392a(0xa8c),'text_color':_0x16392a(0x855),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x359)+_0x16392a(0x3d4)+_0x16392a(0x5bc),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xaa2),_0x16392a(0x79c),_0x16392a(0xb74)]},'icon':{'data':'🫡','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xaa7)+_0x16392a(0x6fa)+_0x16392a(0x257),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xa79)+_0x16392a(0x93d)+_0x16392a(0x538),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x387),_0x16392a(0x223),_0x16392a(0x75f)]},'icon':{'data':'😴','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xd05)+_0x16392a(0x522),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x9ba)+_0x16392a(0xca2)+_0x16392a(0x2a1)+_0x16392a(0x9a2),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x8a0),_0x16392a(0x40f),_0x16392a(0x226)]},'icon':{'data':'🤡','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xabb)+_0x16392a(0x882)+_0x16392a(0x34f),'text_color':_0x16392a(0x3eb),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x33c)+_0x16392a(0x9b1)+_0x16392a(0xcee),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x55e),_0x16392a(0x62d),_0x16392a(0x84f)]},'icon':{'data':'🫠','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xb80)+_0x16392a(0x636)+_0x16392a(0xcad),'text_color':_0x16392a(0xcab),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x1c0)+_0x16392a(0x9ee)+_0x16392a(0xb93),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x4c8),_0x16392a(0x5f8),_0x16392a(0xb0d)]},'icon':{'data':'🚨','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xa9e)+_0x16392a(0x4f7)+_0x16392a(0x94f)+'%','text_color':_0x16392a(0x3ff),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x359)+_0x16392a(0x9af)+_0x16392a(0x821)+'m','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x539),_0x16392a(0xcd7),_0x16392a(0x9c3)]},'icon':{'data':'🛌','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xaa7)+_0x16392a(0x4c3)+_0x16392a(0x7b3),'text_color':_0x16392a(0x60e),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x7be)+_0x16392a(0x6f4)+_0x16392a(0x8af),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x8d0),_0x16392a(0xd91),_0x16392a(0x1fb)]},'icon':{'data':'💀','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x2da)+_0x16392a(0x453),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xb52)+_0x16392a(0x53b)+_0x16392a(0xd26),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x8b1),_0x16392a(0x207),_0x16392a(0xda3)]},'icon':{'data':'💤','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x2b7)+_0x16392a(0xb59),'text_color':_0x16392a(0x9de),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x3ed)+_0x16392a(0xaba),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x293),_0x16392a(0xbf4),_0x16392a(0x442)]},'icon':{'data':'👋','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x82d),'text_color':_0x16392a(0x22a),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x304)+_0x16392a(0xd09)+'iu','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x689),_0x16392a(0xbf4),_0x16392a(0x7c1)]},'icon':{'data':'💗','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x665)+_0x16392a(0x343),'text_color':_0x16392a(0xa2b),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x638)+_0x16392a(0xa04)+_0x16392a(0x889),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x8d3),_0x16392a(0x82c),_0x16392a(0x441)]},'icon':{'data':_0x16392a(0x4d7)+_0x16392a(0x319),'type':_0x16392a(0x48a),'color':_0x16392a(0x267)},'max_lines':0x1,'text':_0x16392a(0xb29)+_0x16392a(0x35c)+_0x16392a(0x1ca),'text_color':_0x16392a(0x4b7),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x73b)+_0x16392a(0x7e7)+'a','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x5fa),_0x16392a(0x6c8),_0x16392a(0xd74)]},'icon':{'data':'🍚','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0xb92)+_0x16392a(0xc5d)+_0x16392a(0xa12),'text_color':_0x16392a(0x3a4),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x7f6)+_0x16392a(0xb27),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x608),_0x16392a(0x57c),_0x16392a(0x2ed)]},'icon':{'data':'🍜','type':_0x16392a(0xa34)},'max_lines':0x1,'text':_0x16392a(0x511),'text_color':_0x16392a(0xd80),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0xc24)+_0x16392a(0x98c)+_0x16392a(0xc9f),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xa14),_0x16392a(0x2ec),_0x16392a(0x3df)]},'icon':{'data':_0x16392a(0x2f2)+'l','type':_0x16392a(0x48a),'color':_0x16392a(0xa17)},'max_lines':0x1,'text':_0x16392a(0x76f)+_0x16392a(0x24a),'text_color':_0x16392a(0xbd4),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x359)+_0x16392a(0x798),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x390),_0x16392a(0x871),_0x16392a(0xabc)]},'icon':{'data':_0x16392a(0x592)+_0x16392a(0xcb3),'type':_0x16392a(0x48a),'color':_0x16392a(0xb60)},'max_lines':0x1,'text':_0x16392a(0x58f),'text_color':_0x16392a(0x383),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x21b)+_0x16392a(0x8c2),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x2a7),_0x16392a(0x8ac),_0x16392a(0xd46)]},'icon':{'data':_0x16392a(0xcd6),'type':_0x16392a(0x48a),'color':_0x16392a(0x533)},'max_lines':0x1,'text':_0x16392a(0x7fa)+_0x16392a(0x916),'text_color':_0x16392a(0xc6b),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}}]},{'section':_0x16392a(0x939)+_0x16392a(0x748)+_0x16392a(0xb19),'items':[{'overlay_id':_0x16392a(0x585)+_0x16392a(0x1e7),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x99e),_0x16392a(0x6b9)]},'icon':{'data':_0x16392a(0x545)+_0x16392a(0x258),'type':_0x16392a(0x48a)},'max_lines':0x1,'text':_0x16392a(0x706)+_0x16392a(0x492)+_0x16392a(0xa47),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x585)+_0x16392a(0x9a8),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x6ab),_0x16392a(0x3a2)]},'icon':{'data':_0x16392a(0x545)+_0x16392a(0x258),'type':_0x16392a(0x48a)},'max_lines':0x1,'text':_0x16392a(0x706)+_0x16392a(0x492)+_0x16392a(0x856),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x585)+_0x16392a(0xc2a),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xb11),_0x16392a(0xb10)]},'icon':{'data':_0x16392a(0x545)+_0x16392a(0x258),'type':_0x16392a(0x48a)},'max_lines':0x1,'text':_0x16392a(0x706)+_0x16392a(0x492)+_0x16392a(0x8a8),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x585)+_0x16392a(0xc1e)+'u','source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xcfd),_0x16392a(0xbcf)]},'icon':{'data':_0x16392a(0x545)+_0x16392a(0x258),'type':_0x16392a(0x48a)},'max_lines':0x1,'text':_0x16392a(0x706)+_0x16392a(0x492)+_0x16392a(0x4d9),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x472)+_0x16392a(0x42c),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0x917),_0x16392a(0xb25)]},'icon':{'data':_0x16392a(0x545)+_0x16392a(0x258),'type':_0x16392a(0x48a)},'max_lines':0x1,'text':_0x16392a(0x910)+_0x16392a(0x7d3)+_0x16392a(0x99a),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x9e7)+_0x16392a(0x6b4),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xa31),_0x16392a(0xbf2)]},'icon':{'data':_0x16392a(0x545)+_0x16392a(0x258),'type':_0x16392a(0x48a)},'max_lines':0x1,'text':_0x16392a(0x910)+_0x16392a(0x6b2)+_0x16392a(0xae6),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x50b)+_0x16392a(0xa85),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xd57),_0x16392a(0xbef)]},'icon':{'data':_0x16392a(0x545)+_0x16392a(0x258),'type':_0x16392a(0x48a)},'max_lines':0x1,'text':_0x16392a(0x8eb)+_0x16392a(0x6af)+_0x16392a(0x948),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}},{'overlay_id':_0x16392a(0x3cf)+_0x16392a(0xb5b),'source':_0x16392a(0x1f7),'caption':{'background':{'colors':[_0x16392a(0xd1b),_0x16392a(0xbad)]},'icon':{'data':_0x16392a(0x545)+_0x16392a(0x258),'type':_0x16392a(0x48a)},'max_lines':0x1,'text':_0x16392a(0x260)+_0x16392a(0x2c4)+_0x16392a(0x7fc),'text_color':_0x16392a(0x858),'type':_0x16392a(0xc8f)+_0x16392a(0x4a3)}}]}])});continue;case'7':Object[_0x16392a(0xb0b)](obj[_0x16392a(0xd33)],{'feature_gates':JSON[_0x16392a(0x966)]({'app_icon_picker':_0x16392a(0x6c2),'camera_roll':_0x16392a(0x6c2),'camera_theme':_0x16392a(0x6c2),'locket_views':_0x16392a(0x6c2),'long_captions':_0x16392a(0x6c2),'longer_video':_0x16392a(0x6c2),'unlimited_friends':_0x16392a(0x6c2),'priority_support':_0x16392a(0x6c2),'profile_badge':_0x16392a(0x6c2),'remove_ads':_0x16392a(0x6c2),'video':_0x16392a(0x6c2),'custom_widget_frames':_0x16392a(0x6c2),'camera_filter_sheet':_0x16392a(0x6c2),'streak_recovery':_0x16392a(0x6c2),'streak_reminders':_0x16392a(0x6c2)}),'upsell_features':JSON[_0x16392a(0x966)]({'app_icon_picker':!![],'camera_roll':!![],'camera_theme':!![],'locket_views':!![],'remove_ads':!![],'custom_widget_frames':!![]}),'paywall_presentation_config':JSON[_0x16392a(0x966)]({'uid':_0x16392a(0x5ad)+_0x16392a(0x67b),'onboarding':![],'after_sent_moment':![],'on_foreground':![],'interval':0x278d00,'profile_banner':!![]}),'feature_discovery_popup_config':JSON[_0x16392a(0x966)]({'tag':_0x16392a(0x62b)+_0x16392a(0x1d2)+_0x16392a(0x460),'tag_gradient':!![],'tag_style':_0x16392a(0x7c2)+_0x16392a(0xccf),'title':_0x16392a(0x5cf)+_0x16392a(0x531)+_0x16392a(0x594),'feature_set':[{'title':_0x16392a(0xc8e)+_0x16392a(0x5bd)+_0x16392a(0xac8)+_0x16392a(0xcd3),'body':_0x16392a(0x904)+_0x16392a(0x7d9)+_0x16392a(0xc9d)+_0x16392a(0xd4b)+_0x16392a(0x5d5),'imageURL':_0x16392a(0xa37)+_0x16392a(0x591)+_0x16392a(0xb8f)+_0x16392a(0x9d8)+_0x16392a(0xa83)}],'primary_button_title':_0x16392a(0x3ba)+_0x16392a(0xb7b),'campaign':_0x16392a(0x52d)+_0x16392a(0x38c)+'v3','start_at':_0x16392a(0x587)+_0x16392a(0x4fd),'end_at':_0x16392a(0x565)+_0x16392a(0x456),'use_local_time_zone':!![]}),'android_subscribe_gold_button_enabled':_0x16392a(0x433),'profile_badge_visible':_0x16392a(0x2de),'lunar_new_year_app_icon_enabled':_0x16392a(0x2de),'settings_instagram_url':_0x16392a(0x3f0)+_0x16392a(0xda0)+_0x16392a(0xc5a)+_0x16392a(0x8be),'settings_tiktok_url':_0x16392a(0xc57)+_0x16392a(0xb14)+_0x16392a(0xd6f),'star_sign_caption_image_url':_0x16392a(0xbcc)+_0x16392a(0xc4e)+_0x16392a(0x35a)+_0x16392a(0x1d5)+_0x16392a(0xa80)+_0x16392a(0x63a)+_0x16392a(0x4ef)});continue;case'8':try{var streak=JSON[_0x16392a(0x664)](obj[_0x16392a(0xd33)][_0x16392a(0x1ff)+_0x16392a(0xafe)]||'{}');streak[_0x16392a(0x486)+_0x16392a(0xbe4)+'nt']=0x649+0x1f4f+0xc88*-0x3,streak[_0x16392a(0x79a)+_0x16392a(0xad4)+'t']=-0x18a9+-0xdb*0x29+0x3bbc,obj[_0x16392a(0xd33)][_0x16392a(0x1ff)+_0x16392a(0xafe)]=JSON[_0x16392a(0x966)](streak);}catch(_0x394bec){}continue;case'9':Object[_0x16392a(0xb0b)](obj[_0x16392a(0xd33)],{'history_ads_mode':_0x16392a(0x2b5),'history_ads_prefetch_count':'0','history_ads_prefetch_immediate':_0x16392a(0x433),'history_ads_prefetch_reroute':_0x16392a(0x433),'history_ads_dynamic_insertion':_0x16392a(0x433),'history_ads_refresh_prefetch_on_foreground':_0x16392a(0x433),'history_ads_floor_price':'0','history_ads_floor_price_att':'0','history_ad_log_displayed_on_background':_0x16392a(0x433),'history_ads_debug_menu':_0x16392a(0x433),'sentry_sample_rate':'0','sentry_network_tracing':_0x16392a(0x433),'sentry_performance_tracking':_0x16392a(0x433),'sentry_trace_sample_rate':'0','sentry_profiles_sample_rate':'0','nimbus_cancellable_requests':_0x16392a(0x2de),'history_ads_nimbus_interceptors':JSON[_0x16392a(0x966)]([]),'history_ads_nimbus_formats':JSON[_0x16392a(0x966)]([]),'nimbus_errors_logged_override':JSON[_0x16392a(0x966)]({'NimbusFetchError':0x0,'NimbusRateLimitError':0x0})});continue;case'10':Object[_0x16392a(0xb0b)](obj[_0x16392a(0xd33)],{'widget_frame_event_max_images':'5','android_widget_frame_event_enabled':_0x16392a(0x2de),'widget_badge_enabled':_0x16392a(0x2de),'widget_badge_v2':_0x16392a(0x2de),'widget_stale_state_enabled':_0x16392a(0x433),'widget_last_sent_indicator':_0x16392a(0x433),'widget_sync_token_reload_mode':_0x16392a(0x49d)+_0x16392a(0xbff),'widget_frame_event':JSON[_0x16392a(0x966)]({'uid':_0x16392a(0xc8d),'url':_0x16392a(0xb87)+_0x16392a(0x5fe)+_0x16392a(0xd1f)+_0x16392a(0xcf8)+'g','use_local_time_zone':!![],'placement':_0x16392a(0x7a8),'start_at':_0x16392a(0x587)+_0x16392a(0x4fd),'end_at':_0x16392a(0x565)+_0x16392a(0x456),'custom_widget_frames':[]}),'live_activity_onboarding':_0x16392a(0x2de),'live_activity_onboarding_variant':_0x16392a(0x211)+_0x16392a(0x411)+_0x16392a(0xaab),'register_live_activity_push_to_start_token':_0x16392a(0x2de),'live_activity_remove_stale_start_token':_0x16392a(0x2de),'notification_preferences_live_activities':_0x16392a(0x2de),'notification_preferences':_0x16392a(0x2de),'notification_reply_body_visible':_0x16392a(0x2de),'prompt_notification_permissions_after_friending':_0x16392a(0x2de),'activity_bar_enabled':_0x16392a(0x2de),'journal_activity_bar_enabled':_0x16392a(0x2de),'journal_settings':JSON[_0x16392a(0x966)]({'debug_menu_enabled':![],'focus_animation':![],'compact_header':!![],'friends_button':![],'reverse_scroll_direction':![],'streak_visualization':!![],'streak_visualization_style':_0x16392a(0x86d),'streak_header_minimum_count':0x0,'streak_visualization_minimum_count':0x2,'overlay_indicators':{'location':![],'music':!![],'static_content':!![],'weather':!![]}}),'qr_code_config':JSON[_0x16392a(0x966)]({'profile_enabled':!![],'scanning_enabled':!![]}),'birthday_feature_config':JSON[_0x16392a(0x966)]({'profile_menu':!![],'prompt_interval':0x127500,'show_frame':!![]}),'calendar_friend_birthdays':JSON[_0x16392a(0x966)]({'fetching':!![],'calendar_display':!![],'feature_popup':!![],'settings_visibility_toggle_enabled':!![],'fetch_ttl_seconds':0x15180}),'custom_profile_pics':_0x16392a(0x2de),'profile_menu_v2_enabled':_0x16392a(0x2de)});continue;case'11':obj[_0x16392a(0xd33)]=obj[_0x16392a(0xd33)]||{};continue;}break;}}$done({'body':JSON[_0x16392a(0x966)](obj)});
+var ua = $request.headers["User-Agent"] || $request.headers["user-agent"] || '';
+var obj = JSON.parse($response.body);
+if (ua.includes("Locket")) {
+  obj.Attention = "Chúc mừng bạn! Vui lòng không sử dụng chúng dưới mục đích thương mại!";
+  obj.entries = obj.entries || {};
+  Object.assign(obj.entries, {
+    'feature_gates': JSON.stringify({
+      'app_icon_picker': "enabled",
+      'camera_roll': "enabled",
+      'camera_theme': "enabled",
+      'locket_views': "enabled",
+      'long_captions': "enabled",
+      'longer_video': "enabled",
+      'unlimited_friends': "enabled",
+      'priority_support': "enabled",
+      'profile_badge': "enabled",
+      'remove_ads': "enabled",
+      'video': "enabled",
+      'custom_widget_frames': "enabled",
+      'camera_filter_sheet': "enabled",
+      'streak_recovery': "enabled",
+      'streak_reminders': "enabled"
+    }),
+    'upsell_features': JSON.stringify({
+      'app_icon_picker': true,
+      'camera_roll': true,
+      'camera_theme': true,
+      'locket_views': true,
+      'remove_ads': true,
+      'custom_widget_frames': true
+    }),
+    'paywall_presentation_config': JSON.stringify({
+      'uid': "paywall_testflight",
+      'onboarding': false,
+      'after_sent_moment': false,
+      'on_foreground': false,
+      'interval': 0x278d00,
+      'profile_banner': true
+    }),
+    'feature_discovery_popup_config': JSON.stringify({
+      'tag': "LOCKET GOLD nghuyhoang",
+      'tag_gradient': true,
+      'tag_style': "gold_gradient",
+      'title': "Lên Locket Gold rồi đó 😎",
+      'feature_set': [{
+        'title': "Nhớ follow kênh tiktok @locketdaubuoi✨",
+        'body': "Một follow của bạn, một niềm vui của mình 💛",
+        'imageURL': "https://i.ibb.co/5XKWH4HS/locketgold-nghuyhoang-vip.jpg"
+      }],
+      'primary_button_title': "Xong rồi nhé!",
+      'campaign': "locket_gold_welcome_v3",
+      'start_at': "2007-01-31T00:00:00",
+      'end_at': "9999-01-31T23:59:59",
+      'use_local_time_zone': true
+    }),
+    'android_subscribe_gold_button_enabled': "false",
+    'profile_badge_visible': "true",
+    'lunar_new_year_app_icon_enabled': "true",
+    'settings_instagram_url': "https://www.instagram.com/nghuyhoang.31/",
+    'settings_tiktok_url': "https://tiktok.com/@locketdaubuoi",
+    'star_sign_caption_image_url': "https://storage.googleapis.com/locket-public/overlays/star_signs"
+  });
+  Object.assign(obj.entries, {
+    'history_ads_mode': "off",
+    'history_ads_prefetch_count': '0',
+    'history_ads_prefetch_immediate': "false",
+    'history_ads_prefetch_reroute': "false",
+    'history_ads_dynamic_insertion': "false",
+    'history_ads_refresh_prefetch_on_foreground': "false",
+    'history_ads_floor_price': '0',
+    'history_ads_floor_price_att': '0',
+    'history_ad_log_displayed_on_background': "false",
+    'history_ads_debug_menu': "false",
+    'sentry_sample_rate': '0',
+    'sentry_network_tracing': "false",
+    'sentry_performance_tracking': "false",
+    'sentry_trace_sample_rate': '0',
+    'sentry_profiles_sample_rate': '0',
+    'nimbus_cancellable_requests': "true",
+    'history_ads_nimbus_interceptors': JSON.stringify([]),
+    'history_ads_nimbus_formats': JSON.stringify([]),
+    'nimbus_errors_logged_override': JSON.stringify({
+      'NimbusFetchError': 0x0,
+      'NimbusRateLimitError': 0x0
+    })
+  });
+  Object.assign(obj.entries, {
+    'camera': JSON.stringify({
+      'gold_max_duration': 0x3c,
+      'max_duration': 0x3c,
+      'ultra_wide': true,
+      'volume_button': true,
+      'flash_button': true,
+      'telephoto': true,
+      'srgb': true,
+      'lanczos': true,
+      'quality_mbps': 0.6
+    }),
+    'camera_roll': JSON.stringify({
+      'gold_max_duration': 0x1e,
+      'video_max_duration': 0x1e,
+      'max_duration': 0x1e,
+      'trim_max_duration': 0x1e,
+      'camera_roll_max_duration': 0x1e,
+      'quality_mbps': 0.6,
+      'flash_button': true
+    }),
+    'live_photos': JSON.stringify({
+      'capture': true,
+      'video': true,
+      'viewing': true,
+      'catch_up': true,
+      'widget_playback': true,
+      'widget_looping_mode': "unseen"
+    }),
+    'camera_filter_config': JSON.stringify({
+      'allows_custom_filters': true,
+      'show_filter_button': true,
+      'sheet_enabled': true,
+      'open_sheet_immediately': true,
+      'sheet_filters': [{
+        'id': "group_hot_ai_3d",
+        'title': {
+          'en': "AI 3D Hot 🔥"
+        },
+        'filter_ids': ["fireworks", "harry_potter", "minecraft", "fire_flame", "giant_spider", "ocean_underwater", "ufo_alien", "sweat_hearts", "volcano_lava", "rain_storm", "fortnite_llama", "watercolor_art", "golden_hour"]
+      }, {
+        'id': "group_photobooth",
+        'title': {
+          'en': "Khung & Photobooth 📸"
+        },
+        'filter_ids': ["frame_berry_days", "frame_happy_snap", "frame_sky_diary", "photobooth_4cut", "photobooth_cute", "pb_holo_4cut", "pb_scrapbook_ripped_4cut", "pb_ripped_paper_4cut", "pb_denim_ripped_2x2"]
+      }, {
+        'id': "group_frames",
+        'title': {
+          'en': "Khung Viền & Hot Trend 🖼️"
+        },
+        'filter_ids': ["frame_classic_pb", "sticker_binh_luan_minh_tue", "cmt_locket", "khung_hello_kitty_pastel_ngot_ngao", "khung_hello_kitty_hong_pastel", "khung_pastel_vien_ren", "khung_hoa_pastel_vien_xanh_xinh", "khung_spiderred", "khung_khong_gian_xanh_pastel", "khung_ngoi_sao_hong_pastel", "khung_pastel_so_hai_cau", "khung_shin_chan", "khung_anh_hellokitty_v_sao", "khung_xanh_tay_sao_vang", "sinh_nhat_hello_kitty", "pb_single_y2k_silver_holo", "pb_single_denim_ripped", "pb_single_film_nostalgia"]
+      }, {
+        'id': "group_mischief",
+        'title': {
+          'en': "Hài hước"
+        },
+        'filter_ids': ["okay_wig", "influencer", "looks_maxxing", "toothless", "bye_brows", "spooky_ghost", "cute_zombie"]
+      }, {
+        'id': "group_appearance",
+        'title': {
+          'en': "Ngoại hình"
+        },
+        'filter_ids': ["bowling_ball", "blonde_bleached", "beard", "bob_cut", "buns", "tatted", "mohawk", "braces", "bye_brows", "rose_flower", "jungle_leaf"]
+      }, {
+        'id': "group_event",
+        'title': {
+          'en': "Sự kiện"
+        },
+        'filter_ids': ["locket", "slimed", "princess", "disco_lights", "cash_money", "happy_birthday"]
+      }, {
+        'id': "group_cute",
+        'title': {
+          'en': "Dễ thương"
+        },
+        'filter_ids': ["cutesy", "sticker_face", "flower_crown", "love_bug"]
+      }, {
+        'id': "group_costume",
+        'title': {
+          'en': "Trang phục"
+        },
+        'filter_ids': ["wedding", "cowboy_cowgirl", "giraffe", "clown", "shrek_ogre", "superhero_cape", "pirate_hat"]
+      }, {
+        'id': "group_holiday",
+        'title': {
+          'en': "Ngày lễ"
+        },
+        'filter_ids': ["easter_bunney_cutout", "easter_chick_cutout", "bearded", "leprechaun", "lucky_face", "sweet_hearts", "elf_cutout", "santa_cutout", "frosty"]
+      }],
+      'filter_groups': [{
+        'id': "group_hot_ai_3d",
+        'title': {
+          'en': "AI 3D Hot 🔥"
+        },
+        'filter_ids': ["fireworks", "harry_potter", "minecraft", "fire_flame", "giant_spider", "ocean_underwater", "ufo_alien", "sweat_hearts", "volcano_lava", "rain_storm", "fortnite_llama", "watercolor_art", "golden_hour"]
+      }, {
+        'id': "group_photobooth",
+        'title': {
+          'en': "Khung & Photobooth 📸"
+        },
+        'filter_ids': ["frame_berry_days", "frame_happy_snap", "frame_sky_diary", "photobooth_4cut", "photobooth_cute", "pb_holo_4cut", "pb_scrapbook_ripped_4cut", "pb_ripped_paper_4cut", "pb_denim_ripped_2x2"]
+      }, {
+        'id': "group_frames",
+        'title': {
+          'en': "Khung Viền & Hot Trend 🖼️"
+        },
+        'filter_ids': ["frame_classic_pb", "sticker_binh_luan_minh_tue", "cmt_locket", "khung_hello_kitty_pastel_ngot_ngao", "khung_hello_kitty_hong_pastel", "khung_pastel_vien_ren", "khung_hoa_pastel_vien_xanh_xinh", "khung_spiderred", "khung_khong_gian_xanh_pastel", "khung_ngoi_sao_hong_pastel", "khung_pastel_so_hai_cau", "khung_shin_chan", "khung_anh_hellokitty_v_sao", "khung_xanh_tay_sao_vang", "sinh_nhat_hello_kitty", "pb_single_y2k_silver_holo", "pb_single_denim_ripped", "pb_single_film_nostalgia"]
+      }, {
+        'id': "group_mischief",
+        'title': {
+          'en': "Hài hước"
+        },
+        'filter_ids': ["okay_wig", "influencer", "looks_maxxing", "toothless", "bye_brows", "spooky_ghost", "cute_zombie"]
+      }, {
+        'id': "group_appearance",
+        'title': {
+          'en': "Ngoại hình"
+        },
+        'filter_ids': ["bowling_ball", "blonde_bleached", "beard", "bob_cut", "buns", "tatted", "mohawk", "braces", "bye_brows", "rose_flower", "jungle_leaf"]
+      }, {
+        'id': "group_event",
+        'title': {
+          'en': "Sự kiện"
+        },
+        'filter_ids': ["locket", "slimed", "princess", "disco_lights", "cash_money", "happy_birthday"]
+      }, {
+        'id': "group_cute",
+        'title': {
+          'en': "Dễ thương"
+        },
+        'filter_ids': ["cutesy", "sticker_face", "flower_crown", "love_bug"]
+      }, {
+        'id': "group_costume",
+        'title': {
+          'en': "Trang phục"
+        },
+        'filter_ids': ["wedding", "cowboy_cowgirl", "giraffe", "clown", "shrek_ogre", "superhero_cape", "pirate_hat"]
+      }, {
+        'id': "group_holiday",
+        'title': {
+          'en': "Ngày lễ"
+        },
+        'filter_ids': ["easter_bunney_cutout", "easter_chick_cutout", "bearded", "leprechaun", "lucky_face", "sweet_hearts", "elf_cutout", "santa_cutout", "frosty"]
+      }],
+      'picker_filters': ["okay_wig", "influencer", "looks_maxxing", "toothless", "bye_brows", "bowling_ball", "blonde_bleached", "beard", "bob_cut", "buns", "tatted", "mohawk", "braces", "slimed", "princess", "disco_lights", "cash_money", "happy_birthday", "cutesy", "sticker_face", "flower_crown", "love_bug", "wedding", "cowboy_cowgirl", "giraffe", "clown", "easter_bunney_cutout", "easter_chick_cutout", "bearded", "leprechaun", "lucky_face", "sweet_hearts", "elf_cutout", "santa_cutout", "frosty", "frame_berry_days", "frame_happy_snap", "frame_sky_diary", "photobooth_4cut", "photobooth_cute", "pb_holo_4cut", "pb_scrapbook_ripped_4cut", "pb_ripped_paper_4cut", "pb_denim_ripped_2x2", "frame_classic_pb", "sticker_binh_luan_minh_tue", "cmt_locket", "khung_hello_kitty_pastel_ngot_ngao", "khung_hello_kitty_hong_pastel", "khung_pastel_vien_ren", "khung_hoa_pastel_vien_xanh_xinh", "khung_spiderred", "khung_khong_gian_xanh_pastel", "khung_ngoi_sao_hong_pastel", "khung_pastel_so_hai_cau", "khung_shin_chan", "khung_anh_hellokitty_v_sao", "khung_xanh_tay_sao_vang", "sinh_nhat_hello_kitty", "pb_single_y2k_silver_holo", "pb_single_denim_ripped", "pb_single_film_nostalgia", "locket", "fireworks", "harry_potter", "minecraft", "fire_flame", "giant_spider", "ocean_underwater", "ufo_alien", "sweat_hearts", "rose_flower", "shrek_ogre", "superhero_cape", "spooky_ghost", "pirate_hat", "volcano_lava", "rain_storm", "fortnite_llama", "watercolor_art", "golden_hour", "jungle_leaf", "cute_zombie"],
+      'remote_filters': [{
+        'uid': "rose_flower",
+        'id': "rose_flower",
+        'name': "Ngậm Hoa Hồng",
+        'prompt': "Show the person in the photo with the exact same pose and background, but have them with a single rose in their mouth. If no person is present in the input, do not add anything to the output.",
+        'productUrl': null,
+        'colors': ["#E11D48", "#FB7185"],
+        'captureButtonColors': ["#E11D48", "#FB7185"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/BK4BNlDb.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/BK4BNlDb.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/BK4BNlDb.png",
+          'sfSymbol': "camera.macro",
+          'emoji': ''
+        },
+        'textColor': "#FFFFFF",
+        'style': "cutout",
+        'overlay': true,
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/BK4BNlDb.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/BK4BNlDb.png",
+        'imageUrl': "https://cdn.upanhlaylink.com/i/BK4BNlDb.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/BK4BNlDb.png",
+        'referenceImages': [],
+        'type': "normal",
+        'filterType': "normal"
+      }, {
+        'uid': "shrek_ogre",
+        'id': "shrek_ogre",
+        'name': "Tai Ogre Shrek",
+        'prompt': "Show the person in the photo with the exact same pose and background, but transform them into Shrek with rounded ears, and rustic clothing while preserving the pose. Keep their hairstyle, but make it look natural in the Shrek style.",
+        'productUrl': null,
+        'colors': ["#84CC16", "#65A30D"],
+        'captureButtonColors': ["#84CC16", "#65A30D"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/A7XjgjXm.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/A7XjgjXm.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/A7XjgjXm.png",
+          'sfSymbol': "ear",
+          'emoji': ''
+        },
+        'textColor': "#FFFFFF",
+        'style': "cutout",
+        'overlay': true,
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/A7XjgjXm.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/A7XjgjXm.png",
+        'imageUrl': "https://cdn.upanhlaylink.com/i/A7XjgjXm.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/A7XjgjXm.png",
+        'referenceImages': [],
+        'type': "normal",
+        'filterType': "normal"
+      }, {
+        'uid': "superhero_cape",
+        'id': "superhero_cape",
+        'name': "Siêu Anh Hùng",
+        'prompt': "Show the person in the photo with the exact same pose and background, but suit them up like a superhero in a blue and red outfit with a flowing cape while keeping their pose and framing identical.",
+        'productUrl': null,
+        'colors': ["#DC2626", "#FBBF24"],
+        'captureButtonColors': ["#DC2626", "#FBBF24"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/RAOMbtpc.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/RAOMbtpc.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/RAOMbtpc.png",
+          'sfSymbol': "shield.fill",
+          'emoji': ''
+        },
+        'textColor': "#FFFFFF",
+        'style': "cutout",
+        'overlay': true,
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/RAOMbtpc.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/RAOMbtpc.png",
+        'imageUrl': "https://cdn.upanhlaylink.com/i/RAOMbtpc.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/RAOMbtpc.png",
+        'referenceImages': [],
+        'type': "normal",
+        'filterType': "normal"
+      }, {
+        'uid': "spooky_ghost",
+        'id': "spooky_ghost",
+        'name': "Bóng Ma Nhỏ",
+        'prompt': "Show the person in the photo with the exact same pose, expression, and background, but subtly insert a realistic-looking ghost somewhere in the background. If no person is present, do not add any people to the output.",
+        'productUrl': null,
+        'colors': ["#38BDF8", "#818CF8"],
+        'captureButtonColors': ["#38BDF8", "#818CF8"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/v6H7SoQw.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/v6H7SoQw.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/v6H7SoQw.png",
+          'sfSymbol': "moon.stars.fill",
+          'emoji': ''
+        },
+        'textColor': "#FFFFFF",
+        'style': "cutout",
+        'overlay': true,
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/v6H7SoQw.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/v6H7SoQw.png",
+        'imageUrl': "https://cdn.upanhlaylink.com/i/v6H7SoQw.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/v6H7SoQw.png",
+        'referenceImages': [],
+        'type': "normal",
+        'filterType': "normal"
+      }, {
+        'uid': "pirate_hat",
+        'id': "pirate_hat",
+        'name': "Mũ Cướp Biển",
+        'prompt': "Show the person in the photo with the exact same pose and background, but dress them like a pirate from Pirates of the Caribbean while keeping their pose and facial expression identical.",
+        'productUrl': null,
+        'colors': ["#0F172A", "#E2E8F0"],
+        'captureButtonColors': ["#0F172A", "#E2E8F0"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/DgoIoU3M.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/DgoIoU3M.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/DgoIoU3M.png",
+          'sfSymbol': "flag.fill",
+          'emoji': ''
+        },
+        'textColor': "#FFFFFF",
+        'style': "cutout",
+        'overlay': true,
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/DgoIoU3M.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/DgoIoU3M.png",
+        'imageUrl': "https://cdn.upanhlaylink.com/i/DgoIoU3M.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/DgoIoU3M.png",
+        'referenceImages': [],
+        'type': "normal",
+        'filterType': "normal"
+      }, {
+        'uid': "volcano_lava",
+        'id': "volcano_lava",
+        'name': "Núi Lửa Dung Nham",
+        'prompt': "Show the person in the photo with the exact same pose, background, and facial expression, but replace the ground with molten lava, glowing magma cracks, and volcanic sparks while keeping them rooted to the spot. If no face is present, do not show any people in the output, only ever show people who were in the original input image.",
+        'productUrl': null,
+        'colors': ["#EA580C", "#EF4444"],
+        'captureButtonColors': ["#EA580C", "#EF4444"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/q4nXD6Jo.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/q4nXD6Jo.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/q4nXD6Jo.png",
+          'sfSymbol': "flame.fill",
+          'emoji': ''
+        },
+        'textColor': "#FFFFFF",
+        'style': "cutout",
+        'overlay': true,
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/q4nXD6Jo.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/q4nXD6Jo.png",
+        'imageUrl': "https://cdn.upanhlaylink.com/i/q4nXD6Jo.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/q4nXD6Jo.png",
+        'referenceImages': [],
+        'type': "normal",
+        'filterType': "normal"
+      }, {
+        'uid': "rain_storm",
+        'id': "rain_storm",
+        'name': "Mưa Bão Sấm Sét",
+        'prompt': "Retain the exact pose, facial features, distance, and background from the original image. Dress the subject as a character from the Wuthering Heights movie.\n\nFor Men: Dress them in the Jacob Elordi style with matching hair and outfit.\n\nFor Women: Dress them in the Margot Robbie style: A dramatic, historical-inspired red gown with a high-gloss, lacquered red skirt that is extremely voluminous and structured, forming a full bell shape from the waist down if that part is visible in the initial image. The skirt looks stiff and reflective, almost like polished vinyl. The bodice is corset-style, fitted tightly to the torso in the same glossy red material, with thin shoulder straps, a wide scoop rounded neckline, and the dress cinching the waist and creating a structured, corset-inspired silhouette WITHOUT visible boning, lacing or busks, and featuring a sheer billowing white long puffed sleeve shirt worn underneath with a scooped neckline for the white undershirt peeking out from behind the dress.\n\nConstraints: Do not modify the person's physical features, body shape, or positioning. Keep the framing and background 100% unchanged. If no person is present, return the image unaltered. Do not include Jacob Elordi or Margot Robbie themselves in the output image.",
+        'productUrl': null,
+        'colors': ["#3B82F6", "#6366F1"],
+        'captureButtonColors': ["#3B82F6", "#6366F1"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/kY7CANZp.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/kY7CANZp.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/kY7CANZp.png",
+          'sfSymbol': "cloud.bolt.rain.fill",
+          'emoji': ''
+        },
+        'textColor': "#FFFFFF",
+        'style': "cutout",
+        'overlay': true,
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/kY7CANZp.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/kY7CANZp.png",
+        'imageUrl': "https://cdn.upanhlaylink.com/i/kY7CANZp.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/kY7CANZp.png",
+        'referenceImages': [],
+        'type': "normal",
+        'filterType': "normal"
+      }, {
+        'uid': "fortnite_llama",
+        'id': "fortnite_llama",
+        'name': "Llama Fortnite",
+        'prompt': "Show the person in the photo with the exact same pose, expression, and background, but make the entire scene look like it was rendered inside a video game, similar to the style of Fortnite. Show no extra overlays or text on top of the photo. If no person is present, do not add any people to the output.",
+        'productUrl': null,
+        'colors': ["#A855F7", "#EC4899"],
+        'captureButtonColors': ["#A855F7", "#EC4899"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/Mw2lEyZa.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/Mw2lEyZa.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/Mw2lEyZa.png",
+          'sfSymbol': "gamecontroller.fill",
+          'emoji': ''
+        },
+        'textColor': "#FFFFFF",
+        'style': "cutout",
+        'overlay': true,
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/Mw2lEyZa.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/Mw2lEyZa.png",
+        'imageUrl': "https://cdn.upanhlaylink.com/i/Mw2lEyZa.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/Mw2lEyZa.png",
+        'referenceImages': [],
+        'type': "normal",
+        'filterType': "normal"
+      }, {
+        'uid': "watercolor_art",
+        'id': "watercolor_art",
+        'name': "Tranh Màu Nước",
+        'prompt': "Show the person in the photo with the exact same pose, expression, and background, but render the entire scene as a watercolor painting with flowing brush strokes. If no person is present, do not add any people to the output.",
+        'productUrl': null,
+        'colors': ["#06B6D4", "#F43F5E"],
+        'captureButtonColors': ["#06B6D4", "#F43F5E"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/YatSePfJ.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/YatSePfJ.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/YatSePfJ.png",
+          'sfSymbol': "paintpalette.fill",
+          'emoji': ''
+        },
+        'textColor': "#FFFFFF",
+        'style': "cutout",
+        'overlay': true,
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/YatSePfJ.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/YatSePfJ.png",
+        'imageUrl': "https://cdn.upanhlaylink.com/i/YatSePfJ.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/YatSePfJ.png",
+        'referenceImages': [],
+        'type': "normal",
+        'filterType': "normal"
+      }, {
+        'uid': "golden_hour",
+        'id': "golden_hour",
+        'name': "Nắng Hoàng Hôn",
+        'prompt': "Show the person in the photo with the exact same pose, expression, and background, but make the scene look like it was captured during peak golden hour with warm sunlight and long shadows. If no person is present, do not add any people to the output.",
+        'productUrl': null,
+        'colors': ["#F59E0B", "#F97316"],
+        'captureButtonColors': ["#F59E0B", "#F97316"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/Kl3WF7kN.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/Kl3WF7kN.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/Kl3WF7kN.png",
+          'sfSymbol': "sun.max.fill",
+          'emoji': ''
+        },
+        'textColor': "#FFFFFF",
+        'style': "cutout",
+        'overlay': true,
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/Kl3WF7kN.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/Kl3WF7kN.png",
+        'imageUrl': "https://cdn.upanhlaylink.com/i/Kl3WF7kN.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/Kl3WF7kN.png",
+        'referenceImages': [],
+        'type': "normal",
+        'filterType': "normal"
+      }, {
+        'uid': "jungle_leaf",
+        'id': "jungle_leaf",
+        'name': "Rừng Nhiệt Đới",
+        'prompt': "Show the person in the photo with the exact same pose, background, and facial expression, but with their background surroundings overgrown with plants in a seamless way. The person and their background should remain in the same positions. If no face is present, do not show any people in the output, only ever show people who were in the original input image.",
+        'productUrl': null,
+        'colors': ["#16A34A", "#15803D"],
+        'captureButtonColors': ["#16A34A", "#15803D"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/Ca6bMpOL.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/Ca6bMpOL.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/Ca6bMpOL.png",
+          'sfSymbol': "leaf.fill",
+          'emoji': ''
+        },
+        'textColor': "#FFFFFF",
+        'style': "cutout",
+        'overlay': true,
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/Ca6bMpOL.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/Ca6bMpOL.png",
+        'imageUrl': "https://cdn.upanhlaylink.com/i/Ca6bMpOL.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/Ca6bMpOL.png",
+        'referenceImages': [],
+        'type': "normal",
+        'filterType': "normal"
+      }, {
+        'uid': "cute_zombie",
+        'id': "cute_zombie",
+        'name': "Zombie Chibi",
+        'prompt': "Show the person in the photo with the exact same pose and background, but turn them into a zombie while keeping their pose and expression identical.",
+        'productUrl': null,
+        'colors': ["#10B981", "#8B5CF6"],
+        'captureButtonColors': ["#10B981", "#8B5CF6"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/aAvLUQ2t.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/aAvLUQ2t.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/aAvLUQ2t.png",
+          'sfSymbol': "person.fill",
+          'emoji': ''
+        },
+        'textColor': "#FFFFFF",
+        'style': "cutout",
+        'overlay': true,
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/aAvLUQ2t.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/aAvLUQ2t.png",
+        'imageUrl': "https://cdn.upanhlaylink.com/i/aAvLUQ2t.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/aAvLUQ2t.png",
+        'referenceImages': [],
+        'type': "normal",
+        'filterType': "normal"
+      }, {
+        'uid': "fireworks",
+        'id': "fireworks",
+        'name': "Pháo Hoa Rực Rỡ",
+        'prompt': "Show the person in the photo with the exact same pose and background, but fill the scene with fireworks exploding in the night sky and reflecting colorful light onto the subject. Ensure the person is in the exact same pose and positioning within the frame. If no face is present, do not show any people in the output, only ever show people who were in the original input image.",
+        'productUrl': null,
+        'colors': ["#EC4899", "#8B5CF6"],
+        'captureButtonColors': ["#EC4899", "#8B5CF6"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/WlnPm8fN.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/WlnPm8fN.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/WlnPm8fN.png",
+          'sfSymbol': "sparkles",
+          'emoji': ''
+        },
+        'textColor': "#FFFFFF",
+        'style': "cutout",
+        'overlay': false,
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/WlnPm8fN.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/WlnPm8fN.png",
+        'imageUrl': "https://cdn.upanhlaylink.com/i/WlnPm8fN.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/WlnPm8fN.png",
+        'referenceImages': [],
+        'type': "normal",
+        'filterType': "normal"
+      }, {
+        'uid': "harry_potter",
+        'id': "harry_potter",
+        'name': "Phù Thủy Hogwarts",
+        'prompt': "Show the person in the photo with the exact same pose and background, but show them as a character from Harry Potter wearing a robe of one of the four houes. Keep the pose and framing identical and do not change the background.",
+        'productUrl': null,
+        'colors': ["#740001", "#D3A625"],
+        'captureButtonColors': ["#740001", "#D3A625"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/Tu7Dt4le.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/Tu7Dt4le.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/Tu7Dt4le.png",
+          'sfSymbol': "wand.and.stars",
+          'emoji': ''
+        },
+        'textColor': "#FFFFFF",
+        'style': "cutout",
+        'overlay': false,
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/Tu7Dt4le.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/Tu7Dt4le.png",
+        'imageUrl': "https://cdn.upanhlaylink.com/i/Tu7Dt4le.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/Tu7Dt4le.png",
+        'referenceImages': [],
+        'type': "normal",
+        'filterType': "normal"
+      }, {
+        'uid': "minecraft",
+        'id': "minecraft",
+        'name': "Minecraft 3D",
+        'prompt': "Show the person in the photo with the exact same pose, expression, and background, but make everything in the scene look like it was created from Minecraft-style blocks and show people as Minecraft characters. If no person is present, do not add any people to the output.",
+        'productUrl': null,
+        'colors': ["#22C55E", "#0EA5E9"],
+        'captureButtonColors': ["#22C55E", "#0EA5E9"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/LQWMIicB.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/LQWMIicB.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/LQWMIicB.png",
+          'sfSymbol': "cube.fill",
+          'emoji': ''
+        },
+        'textColor': "#FFFFFF",
+        'style': "cutout",
+        'overlay': false,
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/LQWMIicB.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/LQWMIicB.png",
+        'imageUrl': "https://cdn.upanhlaylink.com/i/LQWMIicB.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/LQWMIicB.png",
+        'referenceImages': [],
+        'type': "normal",
+        'filterType': "normal"
+      }, {
+        'uid': "fire_flame",
+        'id': "fire_flame",
+        'name': "Ngọn Lửa Rực Cháy",
+        'prompt': "Show the persons in the photo with the exact same pose and background, but with a dramatic theatrical flame effect appearing just in front of the subject's face, as if they are performing a fantasy fire-breathing act, captured with a modern iPhone camera look.\n\nThe flame should appear as a staged visual effect, suspended in front of the mouth area without showing fire originating from inside the body. Keep the effect believable and cinematic, with a bright yellow-white core, orange and red edges, subtle motion blur, and gentle heat distortion in the nearby air.\n\nAdd a soft warm glow on nearby facial features and clothing, consistent with the flame's position, while preserving the original lighting of the scene. Do not show burns, smoke inhalation, injury, pain, damage, or distress. Do not alter the person's face, expression, identity, or pose.\n\nKeep the background, framing, depth of field, and image quality identical to the original, with the flame effect appearing as a safe staged performance element captured in-camera. Do not change the overall compsition of the photo, do not add new people to the photo, only show each person in the photo one time.",
+        'productUrl': null,
+        'colors': ["#F97316", "#EAB308"],
+        'captureButtonColors': ["#F97316", "#EAB308"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/E84woLlh.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/E84woLlh.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/E84woLlh.png",
+          'sfSymbol': "flame.fill",
+          'emoji': ''
+        },
+        'textColor': "#FFFFFF",
+        'style': "cutout",
+        'overlay': false,
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/E84woLlh.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/E84woLlh.png",
+        'imageUrl': "https://cdn.upanhlaylink.com/i/E84woLlh.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/E84woLlh.png",
+        'referenceImages': [],
+        'type': "normal",
+        'filterType': "normal"
+      }, {
+        'uid': "giant_spider",
+        'id': "giant_spider",
+        'name': "Nhện Khổng Lồ",
+        'prompt': "Show the person in the photo with the exact same pose, expression, and background, but place a realistic spider perched on them somewhere, such as their shoulder or head. If no person is present, do not add any people to the output.",
+        'productUrl': null,
+        'colors': ["#334155", "#EF4444"],
+        'captureButtonColors': ["#334155", "#EF4444"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/p4ARtqG1.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/p4ARtqG1.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/p4ARtqG1.png",
+          'sfSymbol': "ant.fill",
+          'emoji': ''
+        },
+        'textColor': "#FFFFFF",
+        'style': "cutout",
+        'overlay': false,
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/p4ARtqG1.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/p4ARtqG1.png",
+        'imageUrl': "https://cdn.upanhlaylink.com/i/p4ARtqG1.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/p4ARtqG1.png",
+        'referenceImages': [],
+        'type': "normal",
+        'filterType': "normal"
+      }, {
+        'uid': "ocean_underwater",
+        'id': "ocean_underwater",
+        'name': "Thủy Cung Đại Dương",
+        'prompt': "Show the person in the photo with the exact same pose, background, and facial expression, but as if them and their surrounding environment was underwater. If no face is present, do not show any people in the output, only ever show people who were in the original input image.",
+        'productUrl': null,
+        'colors': ["#06B6D4", "#3B82F6"],
+        'captureButtonColors': ["#06B6D4", "#3B82F6"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/jKae4Rkw.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/jKae4Rkw.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/jKae4Rkw.png",
+          'sfSymbol': "drop.fill",
+          'emoji': ''
+        },
+        'textColor': "#FFFFFF",
+        'style': "cutout",
+        'overlay': false,
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/jKae4Rkw.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/jKae4Rkw.png",
+        'imageUrl': "https://cdn.upanhlaylink.com/i/jKae4Rkw.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/jKae4Rkw.png",
+        'referenceImages': [],
+        'type': "normal",
+        'filterType': "normal"
+      }, {
+        'uid': "ufo_alien",
+        'id': "ufo_alien",
+        'name': "UFO & Alien",
+        'prompt': "Show the person in the photo with the exact same pose and background, but show a subtle UFO hovering in the sky or an alien somewhere hidden somewhere in the user's background. If no face is present, do not show any people in the output, only ever show people who were in the original input image.",
+        'productUrl': null,
+        'colors': ["#10B981", "#8B5CF6"],
+        'captureButtonColors': ["#10B981", "#8B5CF6"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/b3e5SMT6.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/b3e5SMT6.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/b3e5SMT6.png",
+          'sfSymbol': "sparkles",
+          'emoji': ''
+        },
+        'textColor': "#FFFFFF",
+        'style': "cutout",
+        'overlay': false,
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/b3e5SMT6.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/b3e5SMT6.png",
+        'imageUrl': "https://cdn.upanhlaylink.com/i/b3e5SMT6.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/b3e5SMT6.png",
+        'referenceImages': [],
+        'type': "normal",
+        'filterType': "normal"
+      }, {
+        'uid': "sweat_hearts",
+        'id': "sweat_hearts",
+        'name': "Sweet Hearts",
+        'prompt': "sweet_hearts",
+        'productUrl': null,
+        'colors': ["#FB7185", "#FCE7F3"],
+        'captureButtonColors': ["#FB7185", "#FCE7F3"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/KKHQjVIP.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/KKHQjVIP.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/KKHQjVIP.png",
+          'sfSymbol': "sparkles",
+          'emoji': ''
+        },
+        'textColor': "#FFFFFF",
+        'style': "cutout",
+        'overlay': true,
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/KKHQjVIP.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/KKHQjVIP.png",
+        'imageUrl': "https://cdn.upanhlaylink.com/i/KKHQjVIP.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/KKHQjVIP.png",
+        'referenceImages': [],
+        'type': "normal",
+        'filterType': "cutout"
+      }, {
+        'uid': "frame_berry_days",
+        'id': "frame_berry_days",
+        'name': "Photobooth Berry Days",
+        'category': "Photobooth",
+        'prompt': "pb_strawberry",
+        'style': "cutout",
+        'type': "normal",
+        'filterType': "cutout",
+        'overlay': true,
+        'imageUrl': "https://cdn.upanhlaylink.com/i/gxzBXrkx.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/gxzBXrkx.png",
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/gxzBXrkx.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/gxzBXrkx.png",
+        'tintColor': "#FFB6C1",
+        'colors': ["#FFB6C1", "#FF69B4"],
+        'captureButtonColors': ["#FFB6C1", "#FF69B4"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/gxzBXrkx.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/gxzBXrkx.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/gxzBXrkx.png",
+          'sfSymbol': "square.grid.2x2",
+          'symbol': "square.grid.2x2",
+          'emoji': ''
+        },
+        'outputUrl': null,
+        'productUrl': null,
+        'textColor': "#FFFFFF",
+        'referenceImages': []
+      }, {
+        'uid': "frame_happy_snap",
+        'id': "frame_happy_snap",
+        'name': "Photobooth Happy Snap",
+        'category': "Photobooth",
+        'prompt': "pb_vintage",
+        'style': "cutout",
+        'type': "normal",
+        'filterType': "cutout",
+        'overlay': true,
+        'imageUrl': "https://cdn.upanhlaylink.com/i/Ya9kkP4b.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/Ya9kkP4b.png",
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/Ya9kkP4b.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/Ya9kkP4b.png",
+        'tintColor': "#A8E6CF",
+        'colors': ["#A8E6CF", "#88D49E"],
+        'captureButtonColors': ["#A8E6CF", "#88D49E"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/Ya9kkP4b.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/Ya9kkP4b.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/Ya9kkP4b.png",
+          'sfSymbol': "square.grid.2x2",
+          'symbol': "square.grid.2x2",
+          'emoji': ''
+        },
+        'outputUrl': null,
+        'productUrl': null,
+        'textColor': "#FFFFFF",
+        'referenceImages': []
+      }, {
+        'uid': "frame_sky_diary",
+        'id': "frame_sky_diary",
+        'name': "Photobooth Sky Diary",
+        'category': "Photobooth",
+        'prompt': "pb_galaxy",
+        'style': "cutout",
+        'type': "normal",
+        'filterType': "cutout",
+        'overlay': true,
+        'imageUrl': "https://cdn.upanhlaylink.com/i/WXQ5IJRY.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/WXQ5IJRY.png",
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/WXQ5IJRY.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/WXQ5IJRY.png",
+        'tintColor': "#D8B4F8",
+        'colors': ["#D8B4F8", "#C3B1E1"],
+        'captureButtonColors': ["#D8B4F8", "#C3B1E1"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/WXQ5IJRY.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/WXQ5IJRY.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/WXQ5IJRY.png",
+          'sfSymbol': "square.grid.2x2",
+          'symbol': "square.grid.2x2",
+          'emoji': ''
+        },
+        'outputUrl': null,
+        'productUrl': null,
+        'textColor': "#FFFFFF",
+        'referenceImages': []
+      }, {
+        'uid': "photobooth_4cut",
+        'id': "photobooth_4cut",
+        'name': "Photobooth 4 ô",
+        'category': "Photobooth",
+        'prompt': "photobooth_4cut",
+        'style': "cutout",
+        'type': "normal",
+        'filterType': "cutout",
+        'overlay': true,
+        'imageUrl': "https://cdn.upanhlaylink.com/i/I3P77Cgk.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/I3P77Cgk.png",
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/I3P77Cgk.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/I3P77Cgk.png",
+        'tintColor': "#FFD6E0",
+        'colors': ["#FFD6E0", "#FFE4EC"],
+        'captureButtonColors': ["#FFD6E0", "#FFE4EC"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/I3P77Cgk.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/I3P77Cgk.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/I3P77Cgk.png",
+          'sfSymbol': "square.grid.2x2",
+          'symbol': "square.grid.2x2",
+          'emoji': ''
+        },
+        'outputUrl': null,
+        'productUrl': null,
+        'textColor': "#FFFFFF",
+        'referenceImages': []
+      }, {
+        'uid': "photobooth_cute",
+        'id': "photobooth_cute",
+        'name': "Photobooth Cute",
+        'category': "Photobooth",
+        'prompt': "photobooth_cute",
+        'style': "cutout",
+        'type': "normal",
+        'filterType': "cutout",
+        'overlay': true,
+        'imageUrl': "https://cdn.upanhlaylink.com/i/QjqQ20hC.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/QjqQ20hC.png",
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/QjqQ20hC.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/QjqQ20hC.png",
+        'tintColor': "#FFD6E0",
+        'colors': ["#FFD6E0", "#FFE4EC"],
+        'captureButtonColors': ["#FFD6E0", "#FFE4EC"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/QjqQ20hC.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/QjqQ20hC.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/QjqQ20hC.png",
+          'sfSymbol': "square.grid.2x2",
+          'symbol': "square.grid.2x2",
+          'emoji': ''
+        },
+        'outputUrl': null,
+        'productUrl': null,
+        'textColor': "#FFFFFF",
+        'referenceImages': []
+      }, {
+        'uid': "pb_holo_4cut",
+        'id': "pb_holo_4cut",
+        'name': "Photobooth Y2K Holo",
+        'category': "Photobooth",
+        'prompt': "pb_holo_4cut",
+        'style': "cutout",
+        'type': "normal",
+        'filterType': "cutout",
+        'overlay': true,
+        'imageUrl': "https://cdn.upanhlaylink.com/i/2LCkIMOS.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/2LCkIMOS.png",
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/2LCkIMOS.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/2LCkIMOS.png",
+        'tintColor': "#C4B5FD",
+        'colors': ["#C4B5FD", "#E0E7FF"],
+        'captureButtonColors': ["#C4B5FD", "#E0E7FF"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/2LCkIMOS.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/2LCkIMOS.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/2LCkIMOS.png",
+          'sfSymbol': "square.grid.2x2",
+          'symbol': "square.grid.2x2",
+          'emoji': ''
+        },
+        'outputUrl': null,
+        'productUrl': null,
+        'textColor': "#FFFFFF",
+        'referenceImages': []
+      }, {
+        'uid': "pb_scrapbook_ripped_4cut",
+        'id': "pb_scrapbook_ripped_4cut",
+        'name': "Photobooth Scrapbook",
+        'category': "Photobooth",
+        'prompt': "pb_scrapbook_ripped_4cut",
+        'style': "cutout",
+        'type': "normal",
+        'filterType': "cutout",
+        'overlay': true,
+        'imageUrl': "https://cdn.upanhlaylink.com/i/EO18VJqL.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/EO18VJqL.png",
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/EO18VJqL.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/EO18VJqL.png",
+        'tintColor': "#D6A36A",
+        'colors': ["#D6A36A", "#FDE68A"],
+        'captureButtonColors': ["#D6A36A", "#FDE68A"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/EO18VJqL.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/EO18VJqL.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/EO18VJqL.png",
+          'sfSymbol': "square.grid.2x2",
+          'symbol': "square.grid.2x2",
+          'emoji': ''
+        },
+        'outputUrl': null,
+        'productUrl': null,
+        'textColor': "#FFFFFF",
+        'referenceImages': []
+      }, {
+        'uid': "pb_ripped_paper_4cut",
+        'id': "pb_ripped_paper_4cut",
+        'name': "Photobooth Ripped Paper",
+        'category': "Photobooth",
+        'prompt': "pb_ripped_paper_4cut",
+        'style': "cutout",
+        'type': "normal",
+        'filterType': "cutout",
+        'overlay': true,
+        'imageUrl': "https://cdn.upanhlaylink.com/i/xBNYQv0A.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/xBNYQv0A.png",
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/xBNYQv0A.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/xBNYQv0A.png",
+        'tintColor': "#EF4444",
+        'colors': ["#EF4444", "#FCA5A5"],
+        'captureButtonColors': ["#EF4444", "#FCA5A5"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/xBNYQv0A.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/xBNYQv0A.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/xBNYQv0A.png",
+          'sfSymbol': "square.grid.2x2",
+          'symbol': "square.grid.2x2",
+          'emoji': ''
+        },
+        'outputUrl': null,
+        'productUrl': null,
+        'textColor': "#FFFFFF",
+        'referenceImages': []
+      }, {
+        'uid': "pb_denim_ripped_2x2",
+        'id': "pb_denim_ripped_2x2",
+        'name': "Photobooth Denim 4 ô",
+        'category': "Photobooth",
+        'prompt': "pb_denim_ripped_2x2",
+        'style': "cutout",
+        'type': "normal",
+        'filterType': "cutout",
+        'overlay': true,
+        'imageUrl': "https://cdn.upanhlaylink.com/i/sKn1mwH3.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/sKn1mwH3.png",
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/sKn1mwH3.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/sKn1mwH3.png",
+        'tintColor': "#38BDF8",
+        'colors': ["#38BDF8", "#93C5FD"],
+        'captureButtonColors': ["#38BDF8", "#93C5FD"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/sKn1mwH3.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/sKn1mwH3.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/sKn1mwH3.png",
+          'sfSymbol': "square.grid.2x2",
+          'symbol': "square.grid.2x2",
+          'emoji': ''
+        },
+        'outputUrl': null,
+        'productUrl': null,
+        'textColor': "#FFFFFF",
+        'referenceImages': []
+      }, {
+        'uid': "frame_classic_pb",
+        'id': "frame_classic_pb",
+        'name': "Photobooth Cổ Điển",
+        'category': "Photobooth",
+        'prompt': "photoboot",
+        'style': "cutout",
+        'type': "normal",
+        'filterType': "cutout",
+        'overlay': true,
+        'imageUrl': "https://cdn.upanhlaylink.com/i/bjXF2O5d.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/bjXF2O5d.png",
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/bjXF2O5d.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/bjXF2O5d.png",
+        'tintColor': "#FF758C",
+        'colors': ["#FF758C", "#FF7EB3"],
+        'captureButtonColors': ["#FF758C", "#FF7EB3"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/bjXF2O5d.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/bjXF2O5d.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/bjXF2O5d.png",
+          'sfSymbol': "square.grid.2x2",
+          'symbol': "square.grid.2x2",
+          'emoji': ''
+        },
+        'outputUrl': null,
+        'productUrl': null,
+        'textColor': "#FFFFFF",
+        'referenceImages': []
+      }, {
+        'uid': "sticker_binh_luan_minh_tue",
+        'id': "sticker_binh_luan_minh_tue",
+        'name': "Trend Tíc Tóc",
+        'category': "Frames",
+        'prompt': "sticker_binh_luan_minh_tue",
+        'style': "cutout",
+        'type': "normal",
+        'filterType': "cutout",
+        'overlay': true,
+        'imageUrl': "https://cdn.upanhlaylink.com/i/kSaUH2JF.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/kSaUH2JF.png",
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/kSaUH2JF.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/kSaUH2JF.png",
+        'tintColor': "#FF758C",
+        'colors': ["#FF758C", "#FF7EB3"],
+        'captureButtonColors': ["#FF758C", "#FF7EB3"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/kSaUH2JF.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/kSaUH2JF.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/kSaUH2JF.png",
+          'sfSymbol': "heart.fill",
+          'symbol': "heart.fill",
+          'emoji': ''
+        },
+        'outputUrl': null,
+        'productUrl': null,
+        'textColor': "#FFFFFF",
+        'referenceImages': []
+      }, {
+        'uid': "cmt_locket",
+        'id': "cmt_locket",
+        'name': "Locket Việt Nam",
+        'category': "Frames",
+        'prompt': "cmt_locket",
+        'style': "cutout",
+        'type': "normal",
+        'filterType': "cutout",
+        'overlay': true,
+        'imageUrl': "https://cdn.upanhlaylink.com/i/xxXEkGa0.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/xxXEkGa0.png",
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/xxXEkGa0.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/xxXEkGa0.png",
+        'tintColor': "#FF758C",
+        'colors': ["#FF758C", "#FF7EB3"],
+        'captureButtonColors': ["#FF758C", "#FF7EB3"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/xxXEkGa0.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/xxXEkGa0.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/xxXEkGa0.png",
+          'sfSymbol': "heart.fill",
+          'symbol': "heart.fill",
+          'emoji': ''
+        },
+        'outputUrl': null,
+        'productUrl': null,
+        'textColor': "#FFFFFF",
+        'referenceImages': []
+      }, {
+        'uid': "khung_hello_kitty_pastel_ngot_ngao",
+        'id': "khung_hello_kitty_pastel_ngot_ngao",
+        'name': "Hello Kitty Ngọt Ngào",
+        'category': "Frames",
+        'prompt': "khung_hello_kitty_pastel_ngot_ngao",
+        'style': "cutout",
+        'type': "normal",
+        'filterType': "cutout",
+        'overlay': true,
+        'imageUrl': "https://cdn.upanhlaylink.com/i/YYMilOf6.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/YYMilOf6.png",
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/YYMilOf6.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/YYMilOf6.png",
+        'tintColor': "#FF758C",
+        'colors': ["#FF758C", "#FF7EB3"],
+        'captureButtonColors': ["#FF758C", "#FF7EB3"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/YYMilOf6.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/YYMilOf6.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/YYMilOf6.png",
+          'sfSymbol': "heart.fill",
+          'symbol': "heart.fill",
+          'emoji': ''
+        },
+        'outputUrl': null,
+        'productUrl': null,
+        'textColor': "#FFFFFF",
+        'referenceImages': []
+      }, {
+        'uid': "khung_hello_kitty_hong_pastel",
+        'id': "khung_hello_kitty_hong_pastel",
+        'name': "Khung Hello Kitty Hồng",
+        'category': "Frames",
+        'prompt': "khung_hello_kitty_hong_pastel",
+        'style': "cutout",
+        'type': "normal",
+        'filterType': "cutout",
+        'overlay': true,
+        'imageUrl': "https://cdn.upanhlaylink.com/i/3lS0E28Z.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/3lS0E28Z.png",
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/3lS0E28Z.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/3lS0E28Z.png",
+        'tintColor': "#FF758C",
+        'colors': ["#FF758C", "#FF7EB3"],
+        'captureButtonColors': ["#FF758C", "#FF7EB3"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/3lS0E28Z.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/3lS0E28Z.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/3lS0E28Z.png",
+          'sfSymbol': "heart.fill",
+          'symbol': "heart.fill",
+          'emoji': ''
+        },
+        'outputUrl': null,
+        'productUrl': null,
+        'textColor': "#FFFFFF",
+        'referenceImages': []
+      }, {
+        'uid': "khung_pastel_vien_ren",
+        'id': "khung_pastel_vien_ren",
+        'name': "Nơ Pastel Viền Ren",
+        'category': "Frames",
+        'prompt': "khung_pastel_vien_ren",
+        'style': "cutout",
+        'type': "normal",
+        'filterType': "cutout",
+        'overlay': true,
+        'imageUrl': "https://cdn.upanhlaylink.com/i/itGU69Tn.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/itGU69Tn.png",
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/itGU69Tn.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/itGU69Tn.png",
+        'tintColor': "#FF758C",
+        'colors': ["#FF758C", "#FF7EB3"],
+        'captureButtonColors': ["#FF758C", "#FF7EB3"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/itGU69Tn.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/itGU69Tn.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/itGU69Tn.png",
+          'sfSymbol': "heart.fill",
+          'symbol': "heart.fill",
+          'emoji': ''
+        },
+        'outputUrl': null,
+        'productUrl': null,
+        'textColor': "#FFFFFF",
+        'referenceImages': []
+      }, {
+        'uid': "khung_hoa_pastel_vien_xanh_xinh",
+        'id': "khung_hoa_pastel_vien_xanh_xinh",
+        'name': "Hoa Xinh Pastel",
+        'category': "Frames",
+        'prompt': "khung_hoa_pastel_vien_xanh_xinh",
+        'style': "cutout",
+        'type': "normal",
+        'filterType': "cutout",
+        'overlay': true,
+        'imageUrl': "https://cdn.upanhlaylink.com/i/HmfZ08L9.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/HmfZ08L9.png",
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/HmfZ08L9.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/HmfZ08L9.png",
+        'tintColor': "#51e6e4",
+        'colors': ["#51e6e4", "#fce03f"],
+        'captureButtonColors': ["#51e6e4", "#fce03f"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/HmfZ08L9.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/HmfZ08L9.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/HmfZ08L9.png",
+          'sfSymbol': "heart.fill",
+          'symbol': "heart.fill",
+          'emoji': ''
+        },
+        'outputUrl': null,
+        'productUrl': null,
+        'textColor': "#FFFFFF",
+        'referenceImages': []
+      }, {
+        'uid': "khung_spiderred",
+        'id': "khung_spiderred",
+        'name': "Nhện Đỏ",
+        'category': "Frames",
+        'prompt': "khung_spiderred",
+        'style': "cutout",
+        'type': "normal",
+        'filterType': "cutout",
+        'overlay': true,
+        'imageUrl': "https://cdn.upanhlaylink.com/i/IlejAWVQ.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/IlejAWVQ.png",
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/IlejAWVQ.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/IlejAWVQ.png",
+        'tintColor': "#b3001e",
+        'colors': ["#b3001e", "#b3001e"],
+        'captureButtonColors': ["#b3001e", "#b3001e"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/IlejAWVQ.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/IlejAWVQ.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/IlejAWVQ.png",
+          'sfSymbol': "heart.fill",
+          'symbol': "heart.fill",
+          'emoji': ''
+        },
+        'outputUrl': null,
+        'productUrl': null,
+        'textColor': "#FFFFFF",
+        'referenceImages': []
+      }, {
+        'uid': "khung_khong_gian_xanh_pastel",
+        'id': "khung_khong_gian_xanh_pastel",
+        'name': "Không Gian Xanh",
+        'category': "Frames",
+        'prompt': "khung_khong_gian_xanh_pastel",
+        'style': "cutout",
+        'type': "normal",
+        'filterType': "cutout",
+        'overlay': true,
+        'imageUrl': "https://cdn.upanhlaylink.com/i/KMjL2bn1.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/KMjL2bn1.png",
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/KMjL2bn1.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/KMjL2bn1.png",
+        'tintColor': "#65d9fc",
+        'colors': ["#65d9fc", "#65d9fc"],
+        'captureButtonColors': ["#65d9fc", "#65d9fc"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/KMjL2bn1.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/KMjL2bn1.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/KMjL2bn1.png",
+          'sfSymbol': "heart.fill",
+          'symbol': "heart.fill",
+          'emoji': ''
+        },
+        'outputUrl': null,
+        'productUrl': null,
+        'textColor': "#FFFFFF",
+        'referenceImages': []
+      }, {
+        'uid': "khung_ngoi_sao_hong_pastel",
+        'id': "khung_ngoi_sao_hong_pastel",
+        'name': "Ngôi Sao Hồng",
+        'category': "Frames",
+        'prompt': "khung_ngoi_sao_hong_pastel",
+        'style': "cutout",
+        'type': "normal",
+        'filterType': "cutout",
+        'overlay': true,
+        'imageUrl': "https://cdn.upanhlaylink.com/i/JNBpQnLu.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/JNBpQnLu.png",
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/JNBpQnLu.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/JNBpQnLu.png",
+        'tintColor': "#FF758C",
+        'colors': ["#FF758C", "#FF7EB3"],
+        'captureButtonColors': ["#FF758C", "#FF7EB3"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/JNBpQnLu.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/JNBpQnLu.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/JNBpQnLu.png",
+          'sfSymbol': "heart.fill",
+          'symbol': "heart.fill",
+          'emoji': ''
+        },
+        'outputUrl': null,
+        'productUrl': null,
+        'textColor': "#FFFFFF",
+        'referenceImages': []
+      }, {
+        'uid': "khung_pastel_so_hai_cau",
+        'id': "khung_pastel_so_hai_cau",
+        'name': "Sò Hải Cẩu Pastel",
+        'category': "Frames",
+        'prompt': "khung_pastel_so_hai_cau",
+        'style': "cutout",
+        'type': "normal",
+        'filterType': "cutout",
+        'overlay': true,
+        'imageUrl': "https://cdn.upanhlaylink.com/i/Gm6AI5Vf.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/Gm6AI5Vf.png",
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/Gm6AI5Vf.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/Gm6AI5Vf.png",
+        'tintColor': "#cfedfc",
+        'colors': ["#cfedfc", "#cfedfc"],
+        'captureButtonColors': ["#cfedfc", "#cfedfc"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/Gm6AI5Vf.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/Gm6AI5Vf.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/Gm6AI5Vf.png",
+          'sfSymbol': "heart.fill",
+          'symbol': "heart.fill",
+          'emoji': ''
+        },
+        'outputUrl': null,
+        'productUrl': null,
+        'textColor': "#FFFFFF",
+        'referenceImages': []
+      }, {
+        'uid': "khung_shin_chan",
+        'id': "khung_shin_chan",
+        'name': "Shin-Chan",
+        'category': "Frames",
+        'prompt': "khung_shin_chan",
+        'style': "cutout",
+        'type': "normal",
+        'filterType': "cutout",
+        'overlay': true,
+        'imageUrl': "https://cdn.upanhlaylink.com/i/ERSGe9wZ.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/ERSGe9wZ.png",
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/ERSGe9wZ.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/ERSGe9wZ.png",
+        'tintColor': "#f00008",
+        'colors': ["#f00008", "#faed32"],
+        'captureButtonColors': ["#f00008", "#faed32"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/ERSGe9wZ.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/ERSGe9wZ.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/ERSGe9wZ.png",
+          'sfSymbol': "heart.fill",
+          'symbol': "heart.fill",
+          'emoji': ''
+        },
+        'outputUrl': null,
+        'productUrl': null,
+        'textColor': "#FFFFFF",
+        'referenceImages': []
+      }, {
+        'uid': "khung_anh_hellokitty_v_sao",
+        'id': "khung_anh_hellokitty_v_sao",
+        'name': "Hello Kitty & Sao",
+        'category': "Frames",
+        'prompt': "khung_anh_hellokitty_v_sao",
+        'style': "cutout",
+        'type': "normal",
+        'filterType': "cutout",
+        'overlay': true,
+        'imageUrl': "https://cdn.upanhlaylink.com/i/ckAcbUl1.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/ckAcbUl1.png",
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/ckAcbUl1.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/ckAcbUl1.png",
+        'tintColor': "#780c23",
+        'colors': ["#780c23", "#a94770"],
+        'captureButtonColors': ["#780c23", "#a94770"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/ckAcbUl1.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/ckAcbUl1.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/ckAcbUl1.png",
+          'sfSymbol': "heart.fill",
+          'symbol': "heart.fill",
+          'emoji': ''
+        },
+        'outputUrl': null,
+        'productUrl': null,
+        'textColor': "#FFFFFF",
+        'referenceImages': []
+      }, {
+        'uid': "khung_xanh_tay_sao_vang",
+        'id': "khung_xanh_tay_sao_vang",
+        'name': "Sao Vàng Xanh",
+        'category': "Frames",
+        'prompt': "khung_xanh_tay_sao_vang",
+        'style': "cutout",
+        'type': "normal",
+        'filterType': "cutout",
+        'overlay': true,
+        'imageUrl': "https://cdn.upanhlaylink.com/i/GcdaJHFy.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/GcdaJHFy.png",
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/GcdaJHFy.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/GcdaJHFy.png",
+        'tintColor': "#6fb1d3",
+        'colors': ["#6fb1d3", "#cdd64c"],
+        'captureButtonColors': ["#6fb1d3", "#cdd64c"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/GcdaJHFy.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/GcdaJHFy.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/GcdaJHFy.png",
+          'sfSymbol': "heart.fill",
+          'symbol': "heart.fill",
+          'emoji': ''
+        },
+        'outputUrl': null,
+        'productUrl': null,
+        'textColor': "#FFFFFF",
+        'referenceImages': []
+      }, {
+        'uid': "sinh_nhat_hello_kitty",
+        'id': "sinh_nhat_hello_kitty",
+        'name': "Sinh Nhật Hello Kitty",
+        'category': "Frames",
+        'prompt': "sinh_nhat_hello_kitty",
+        'style': "cutout",
+        'type': "normal",
+        'filterType': "cutout",
+        'overlay': true,
+        'imageUrl': "https://cdn.upanhlaylink.com/i/eIXwHlV5.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/eIXwHlV5.png",
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/eIXwHlV5.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/eIXwHlV5.png",
+        'tintColor': "#FF758C",
+        'colors': ["#FF758C", "#FF7EB3"],
+        'captureButtonColors': ["#FF758C", "#FF7EB3"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/eIXwHlV5.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/eIXwHlV5.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/eIXwHlV5.png",
+          'sfSymbol': "heart.fill",
+          'symbol': "heart.fill",
+          'emoji': ''
+        },
+        'outputUrl': null,
+        'productUrl': null,
+        'textColor': "#FFFFFF",
+        'referenceImages': []
+      }, {
+        'uid': "pb_single_y2k_silver_holo",
+        'id': "pb_single_y2k_silver_holo",
+        'name': "Khung Y2K Silver Holo",
+        'category': "Frames",
+        'prompt': "pb_single_y2k_silver_holo",
+        'style': "cutout",
+        'type': "normal",
+        'filterType': "cutout",
+        'overlay': true,
+        'imageUrl': "https://cdn.upanhlaylink.com/i/x84e4vYZ.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/x84e4vYZ.png",
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/x84e4vYZ.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/x84e4vYZ.png",
+        'tintColor': "#C4B5FD",
+        'colors': ["#C4B5FD", "#E0E7FF"],
+        'captureButtonColors': ["#C4B5FD", "#E0E7FF"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/x84e4vYZ.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/x84e4vYZ.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/x84e4vYZ.png",
+          'sfSymbol': "heart.fill",
+          'symbol': "heart.fill",
+          'emoji': ''
+        },
+        'outputUrl': null,
+        'productUrl': null,
+        'textColor': "#FFFFFF",
+        'referenceImages': []
+      }, {
+        'uid': "pb_single_denim_ripped",
+        'id': "pb_single_denim_ripped",
+        'name': "Khung Denim Cá Tính",
+        'category': "Frames",
+        'prompt': "pb_single_denim_ripped",
+        'style': "cutout",
+        'type': "normal",
+        'filterType': "cutout",
+        'overlay': true,
+        'imageUrl': "https://cdn.upanhlaylink.com/i/77T1zXKS.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/77T1zXKS.png",
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/77T1zXKS.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/77T1zXKS.png",
+        'tintColor': "#38BDF8",
+        'colors': ["#38BDF8", "#93C5FD"],
+        'captureButtonColors': ["#38BDF8", "#93C5FD"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/77T1zXKS.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/77T1zXKS.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/77T1zXKS.png",
+          'sfSymbol': "heart.fill",
+          'symbol': "heart.fill",
+          'emoji': ''
+        },
+        'outputUrl': null,
+        'productUrl': null,
+        'textColor': "#FFFFFF",
+        'referenceImages': []
+      }, {
+        'uid': "pb_single_film_nostalgia",
+        'id': "pb_single_film_nostalgia",
+        'name': "Khung Film Hoài Cổ",
+        'category': "Frames",
+        'prompt': "pb_single_film_nostalgia",
+        'style': "cutout",
+        'type': "normal",
+        'filterType': "cutout",
+        'overlay': true,
+        'imageUrl': "https://cdn.upanhlaylink.com/i/gphwGSQG.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/gphwGSQG.png",
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/gphwGSQG.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/gphwGSQG.png",
+        'tintColor': "#D6A36A",
+        'colors': ["#D6A36A", "#FDE68A"],
+        'captureButtonColors': ["#D6A36A", "#FDE68A"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/gphwGSQG.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/gphwGSQG.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/gphwGSQG.png",
+          'sfSymbol': "heart.fill",
+          'symbol': "heart.fill",
+          'emoji': ''
+        },
+        'outputUrl': null,
+        'productUrl': null,
+        'textColor': "#FFFFFF",
+        'referenceImages': []
+      }, {
+        'uid': "locket",
+        'id': "locket",
+        'name': "Practical Magic 2",
+        'prompt': "locket",
+        'productUrl': null,
+        'colors': ["#7C3AED", "#C4B5FD"],
+        'captureButtonColors': ["#7C3AED", "#C4B5FD"],
+        'icon': {
+          'url': "https://cdn.upanhlaylink.com/i/kyzGgnKy.png",
+          'iconUrl': "https://cdn.upanhlaylink.com/i/kyzGgnKy.png",
+          'remoteImage': "https://cdn.upanhlaylink.com/i/kyzGgnKy.png",
+          'sfSymbol': "sparkles",
+          'emoji': ''
+        },
+        'textColor': "#FFFFFF",
+        'style': "cutout",
+        'overlay': true,
+        'overlayImageUrl': "https://cdn.upanhlaylink.com/i/kyzGgnKy.png",
+        'overlayImageURL': "https://cdn.upanhlaylink.com/i/kyzGgnKy.png",
+        'imageUrl': "https://cdn.upanhlaylink.com/i/kyzGgnKy.png",
+        'iconUrl': "https://cdn.upanhlaylink.com/i/kyzGgnKy.png",
+        'referenceImages': [],
+        'type': "normal",
+        'filterType': "cutout"
+      }]
+    }),
+    'camera_filter_fetch_cache_max_age_seconds': '0',
+    'capture_classification_config': JSON.stringify({
+      'detection': true,
+      'debug_caption': false,
+      'expanded_sheet_legacy_support': true,
+      'display_reaction_suggestions': true
+    }),
+    'camera_roll_preview_enabled': "true",
+    'camera_roll_video_enabled': "true",
+    'camera_roll_video_upload_enabled': "true",
+    'internal_camera_roll_video_upload_enabled': "true",
+    'longer_camera_roll_videos_enabled': "true",
+    'video_sound_enabled': "true",
+    'microphone_enabled': "true",
+    'camera_microphone_enabled': "true",
+    'audio_session_deactivation_enabled': "true",
+    'zoom_enabled': "true",
+    'upload_main': "false",
+    'upload_main_image_quality': "0.6",
+    'upload_main_image_size': "1440",
+    'upload_thumbnail_image_quality': "0.8",
+    'upload_thumbnail_image_size': "1020"
+  });
+  Object.assign(obj.entries, {
+    'max_friends_count': "999999999",
+    'friend_limit_mode': '0',
+    'soft_friend_limit_threshold_count': "999999999",
+    'show_friend_limit_on_cam': "false",
+    'signup_max_friends_count': "999999999",
+    'celebrity_inbox_limit': "999999999",
+    'celebrity_inbox_enabled': "true",
+    'celebrity_vip_qr_redemption_enabled': "true",
+    'friend_limit_geo_override': JSON.stringify({
+      'experiments': {},
+      'area_code_overrides': {}
+    }),
+    'friends_sheet_locket_count_config': JSON.stringify({
+      'items': [{
+        'threshold': 0x0,
+        'icon_name': "heart"
+      }, {
+        'threshold': 0x1,
+        'icon_name': "heart.fill"
+      }, {
+        'threshold': 0xa,
+        'emoji': '🤍'
+      }, {
+        'threshold': 0x64,
+        'emoji': '💛'
+      }, {
+        'threshold': 0x1f4,
+        'emoji': "❤️‍🔥"
+      }, {
+        'threshold': 0x3e8,
+        'emoji': "🌟🫶🌟"
+      }, {
+        'threshold': 0x7d0,
+        'emoji': "✨💟✨"
+      }, {
+        'threshold': 0x1388,
+        'emoji': "⚡️😵‍💫⚡"
+      }, {
+        'threshold': 0x2710,
+        'emoji': "✨⚡️😱⚡✨"
+      }]
+    }),
+    'friend_locket_count_config': JSON.stringify({
+      'items': [{
+        'threshold': 0x0,
+        'icon_name': "heart"
+      }, {
+        'threshold': 0x1,
+        'icon_name': "heart.fill"
+      }, {
+        'threshold': 0xa,
+        'emoji': '🤍'
+      }, {
+        'threshold': 0x64,
+        'emoji': '💛'
+      }, {
+        'threshold': 0x1f4,
+        'emoji': "❤️‍🔥"
+      }, {
+        'threshold': 0x3e8,
+        'emoji': "✨💗✨"
+      }, {
+        'threshold': 0x7d0,
+        'emoji': "✨️⭐️✨"
+      }, {
+        'threshold': 0x1388,
+        'emoji': "✨💎✨"
+      }, {
+        'threshold': 0x2710,
+        'emoji': "✨🔐💛✨"
+      }]
+    }),
+    'new_friends_monitoring_enabled': "true",
+    'improved_friend_suggestions': "true",
+    'show_friend_suggestions_by_default': "true",
+    'emoji_friend_suggestions': "true",
+    'friend_suggestions_v2': "true",
+    'prompt_contact_permissions_on_search': "true",
+    'populate_phone_numbers_from_suggest_friends': "true",
+    'hide_friends_enabled': "true",
+    'hide_invite_links': "false",
+    'hide_skip_contacts': "true",
+    'show_all_contacts': "true",
+    'show_invite_suggestions': "true",
+    'show_no_friends_bottom_sheet': "false",
+    'signup_allow_skip_add_friends': "true",
+    'signup_custom_profile_picture': "true",
+    'user_data_export_enabled': "true",
+    'username_suggestions_enabled': "true"
+  });
+  try {
+    var streak = JSON.parse(obj.entries.streak_config || '{}');
+    streak.minimum_recovery_count = 0;
+    streak.minimum_display_count = 0;
+    obj.entries.streak_config = JSON.stringify(streak);
+  } catch (_0x394bec) {}
+  Object.assign(obj.entries, {
+    'daily_reminder_config': JSON.stringify({
+      'is_time_sensitive': true,
+      'items': [{
+        'day': 0x1,
+        'title_string': {
+          'en': "Vô chụp Locket đi ba 💛"
+        },
+        'streak_body_string': {
+          'en': "Lên hình giữ chuỗi ngày đi nào • 🔥#streak#"
+        },
+        'body_string': {
+          'en': "Chụp một phát cho bạn bè lác mắt ⭐️"
+        },
+        'body_string_plural': {
+          'en': "Chụp một phát cho bạn bè lác mắt ⭐️"
+        }
+      }, {
+        'day': 0x3,
+        'hour': 0xa,
+        'title_string': {
+          'en': "Này, nhớ bạn bè không vậy? 💛"
+        },
+        'body_string': {
+          'en': "Gửi cho họ một phát bất ngờ đi! Đã #day# ngày rồi đó."
+        },
+        'body_string_plural': {
+          'en': "Gửi cho họ một phát bất ngờ đi! Đã #day# ngày rồi đó."
+        }
+      }, {
+        'day': 0x7,
+        'hour': 0x13,
+        'title_string': {
+          'en': "Bạn bè đang ngóng mày kìa 💛"
+        },
+        'body_string': {
+          'en': "Họ thương mày lắm đó. Đã #day# ngày rồi."
+        },
+        'body_string_plural': {
+          'en': "Họ thương mày lắm đó. Đã #day# ngày rồi."
+        }
+      }, {
+        'day': 0xe,
+        'hour': 0xa,
+        'title_string': {
+          'en': "Lâu rồi đó nha, chụp đi 💛"
+        },
+        'body_string': {
+          'en': "Đã #day# ngày rồi! Không sài thì xoá app đi 🫶"
+        },
+        'body_string_plural': {
+          'en': "Đã #day# ngày rồi! Không sài thì xoá app đi 🫶"
+        }
+      }]
+    })
+  });
+  Object.assign(obj.entries, {
+    'moment_views_enabled': "true",
+    'moment_views_v2': "true",
+    'record_moment_views': "true",
+    'notify_moment_views': "true",
+    'get_moment_views_as_cloud_function': "true",
+    'moment_reactions_v2': "true",
+    'chat_reactions_enabled': "true",
+    'conversation_reactions': "true",
+    'typing_indicators_enabled': "true",
+    'unsend_message_enabled': "true",
+    'reply_prototype_enabled': "true",
+    'messages_integration': "true",
+    'conversations_enabled': "true",
+    'fetch_moments_in_conversation': "true",
+    'hide_chat_button': "false",
+    'groups_enabled': "true",
+    'group_contact_invites_enabled': "true",
+    'groups_onboarding_accept_invite_preview_enabled': "true",
+    'group_scrapbook_config': JSON.stringify({
+      'enabled': true,
+      'moment_limit': 0x3b9ac9ff,
+      'default_layout': {
+        'show_member_joined': true,
+        'parallax_percentage': 0x32,
+        'is_device_tilt_enabled': false,
+        'cutout_percentage': 0x64
+      },
+      'photos_button_enabled': true
+    }),
+    'chat_hyperlink_enabled_mode': "always_enabled",
+    'send_to_self_only_mode': "always_enabled",
+    'time_travel_rewind_v2_enabled': "true",
+    'conversation_drafts_enabled': '1',
+    'calendar_delete_moment_enabled': "true",
+    'calendar_rewind_enabled': "false",
+    'locket_yearbook_story_sharing_encouraged': "true",
+    'rollcall_enabled': "true",
+    'rollcall_comment_actions': "true",
+    'rollcall_profile_button': "true",
+    'rollcall_prompt_export_after_share': "true",
+    'rollcall_confirm_skip_tagging': "false",
+    'rollcall_tap_to_tag_enabled': "false",
+    'moment_upload_queue_persistence_v2': '1'
+  });
+  Object.assign(obj.entries, {
+    'widget_frame_event_max_images': '5',
+    'android_widget_frame_event_enabled': "true",
+    'widget_badge_enabled': "true",
+    'widget_badge_v2': "true",
+    'widget_stale_state_enabled': "false",
+    'widget_last_sent_indicator': "false",
+    'widget_sync_token_reload_mode': "clearTokenNever",
+    'widget_frame_event': JSON.stringify({
+      'uid': "blank",
+      'url': "https://i.ibb.co/1Yt1Dzzy/Shin-chan-1.png",
+      'use_local_time_zone': true,
+      'placement': "below",
+      'start_at': "2007-01-31T00:00:00",
+      'end_at': "9999-01-31T23:59:59",
+      'custom_widget_frames': []
+    }),
+    'live_activity_onboarding': "true",
+    'live_activity_onboarding_variant': "setup_ready_on_background",
+    'register_live_activity_push_to_start_token': "true",
+    'live_activity_remove_stale_start_token': "true",
+    'notification_preferences_live_activities': "true",
+    'notification_preferences': "true",
+    'notification_reply_body_visible': "true",
+    'prompt_notification_permissions_after_friending': "true",
+    'activity_bar_enabled': "true",
+    'journal_activity_bar_enabled': "true",
+    'journal_settings': JSON.stringify({
+      'debug_menu_enabled': false,
+      'focus_animation': false,
+      'compact_header': true,
+      'friends_button': false,
+      'reverse_scroll_direction': false,
+      'streak_visualization': true,
+      'streak_visualization_style': "gradient",
+      'streak_header_minimum_count': 0x0,
+      'streak_visualization_minimum_count': 0x2,
+      'overlay_indicators': {
+        'location': false,
+        'music': true,
+        'static_content': true,
+        'weather': true
+      }
+    }),
+    'qr_code_config': JSON.stringify({
+      'profile_enabled': true,
+      'scanning_enabled': true
+    }),
+    'birthday_feature_config': JSON.stringify({
+      'profile_menu': true,
+      'prompt_interval': 0x127500,
+      'show_frame': true
+    }),
+    'calendar_friend_birthdays': JSON.stringify({
+      'fetching': true,
+      'calendar_display': true,
+      'feature_popup': true,
+      'settings_visibility_toggle_enabled': true,
+      'fetch_ttl_seconds': 0x15180
+    }),
+    'custom_profile_pics': "true",
+    'profile_menu_v2_enabled': "true"
+  });
+  Object.assign(obj.entries, {
+    'cdn_domain_replacements': JSON.stringify({
+      'firebasestorage.googleapis.com': "cdn.locketcamera.com"
+    }),
+    'cdn_domain_replacements_video': "true",
+    'storage_bucket': "gs://locket-img",
+    'storage_bucket_video': "gs://locket-video",
+    'camera_filter_storage_bucket': "gs://locket-filters",
+    'image_cache_max_age_sec': "157680000",
+    'image_cache_max_size': "400000000",
+    'history_cache_age_days': "1000",
+    'user_cache_max_age_sec': "691200",
+    'friends_cache_max_age_sec': "2592000",
+    'image_fetch_cache': "true",
+    'image_cache_use_shared': "true",
+    'use_doc_dir_for_image_cache': "true",
+    'efficient_history_cache_invalidation': "true",
+    'timestamp_based_history_fetches': "true",
+    'get_latest_moment_v2': "true",
+    'fetch_users_from_cloud_function': "true",
+    'refresh_interval': '60',
+    'firestore_refresh_v2': "true",
+    'firestore_refresh_v3': "true",
+    'keychain_access_retries': "true",
+    'blocked_users_cached_sync_enabled': "true",
+    'beta_features_enabled': "true",
+    'join_testflight_enabled': "true",
+    'safety_center': "true",
+    'help_center': "true",
+    'support_v2': "true",
+    'privacy_choices_setting': "true",
+    'request_att_permission': "true",
+    'invite_link_preview_variant': '4',
+    'share_history_config': JSON.stringify({
+      'prompt_enabled': false,
+      'fetching_enabled': true
+    }),
+    'share_history_prompt_enabled': "false",
+    'use_thumbnails_for_sharing': "true",
+    'use_thumbnails_in_timeline': "true",
+    'upload_use_webp_thumbnails': "true",
+    'persist_onboarding_step': "true",
+    'onboarding_contact_permission_step': "true"
+  });
+  Object.assign(obj.entries, {
+    'overlay_navigator_enabled': "true",
+    'overlays_v2_config': JSON.stringify({
+      'suggestions_enabled': true
+    }),
+    'captions_enabled': "true",
+    'music_caption_enabled': "true",
+    'music_caption_song_preview_enabled': "true",
+    'link_caption_link_enabled': "true",
+    'overlay_dynamic_captions': JSON.stringify(["standard", "poll", "color_palette", "review", "music", "location", "weather", "time", "streak", "star_sign", "party_time", "locket_count", "good_morning", "goodnight", "ootd", "miss_you", "custom", "halloween_2026"]),
+    'overlay_items': JSON.stringify([{
+      'section': "🎨 General",
+      'items': [{
+        'overlay_id': "caption:standard",
+        'source': "local",
+        'caption': {
+          'type': "standard"
+        },
+        'sort_order': 0x0
+      }, {
+        'overlay_id': "caption:poll",
+        'source': "local",
+        'caption': {
+          'type': "poll"
+        },
+        'sort_order': 0x1
+      }, {
+        'overlay_id': "caption:color_palette",
+        'source': "local",
+        'caption': {
+          'type': "color_palette"
+        },
+        'sort_order': 0x2
+      }, {
+        'overlay_id': "caption:review",
+        'source': "local",
+        'caption': {
+          'type': "review"
+        },
+        'sort_order': 0x3
+      }, {
+        'overlay_id': "caption:music",
+        'source': "local",
+        'caption': {
+          'type': "music"
+        },
+        'sort_order': 0x4
+      }, {
+        'overlay_id': "caption:location",
+        'source': "local",
+        'caption': {
+          'type': "location"
+        },
+        'sort_order': 0x5
+      }, {
+        'overlay_id': "caption:weather",
+        'source': "local",
+        'caption': {
+          'type': "weather"
+        },
+        'sort_order': 0x6
+      }, {
+        'overlay_id': "caption:time",
+        'source': "local",
+        'caption': {
+          'type': "time"
+        },
+        'sort_order': 0x7
+      }, {
+        'overlay_id': "caption:streak",
+        'source': "local",
+        'caption': {
+          'type': "streak"
+        },
+        'sort_order': 0x8
+      }, {
+        'overlay_id': "caption:star_sign",
+        'source': "local",
+        'caption': {
+          'type': "star_sign"
+        },
+        'sort_order': 0x9
+      }, {
+        'overlay_id': "caption:quote",
+        'source': "local",
+        'caption': {
+          'type': "quote"
+        },
+        'sort_order': 0xa
+      }, {
+        'overlay_id': "caption:breaking_news",
+        'source': "local",
+        'caption': {
+          'type': "breaking_news"
+        },
+        'sort_order': 0xb
+      }]
+    }, {
+      'section': "🎨 Holiday Caption",
+      'items': [{
+        'overlay_id': "caption:halloween_2026",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#150804", "#C8540D"]
+          },
+          'icon': {
+            'type': "image",
+            'data': "https://storage.googleapis.com/locket-public/journal_calendar_assets/holiday_indicators/halloween_indicator%403x.png",
+            'source': "url"
+          },
+          'max_lines': 0x1,
+          'text': "Halloween",
+          'localized_text': {
+            'en': "Halloween",
+            'vn': "Halloween"
+          },
+          'text_color': "#FFB182",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:autumn_2026",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FFE0A0", "#F6A53A"]
+          },
+          'icon': {
+            'data': '🍂',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Xin chào Mùa Thu",
+          'localized_text': {
+            'en': "Xin chào Mùa Thu",
+            'vn': "Xin chào Mùa Thu"
+          },
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:election_day_vote_2026",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#3B5BDB", "#E64980"]
+          },
+          'icon': {
+            'data': "🇺🇸",
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "VOTE",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        },
+        'region': ['VN']
+      }, {
+        'overlay_id': "caption:election_day_i_voted_2026",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FFFFFF", "#BBC3DD"]
+          },
+          'icon': {
+            'data': "🗳️",
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "I voted!",
+          'text_color': "#000000",
+          'type': "static_content"
+        },
+        'region': ['VN']
+      }, {
+        'overlay_id': "caption:diwali_2026",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FD8205", "#FED78B"]
+          },
+          'icon': {
+            'data': '🪔',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Diwali",
+          'text_color': "#731B0D",
+          'type': "static_content"
+        },
+        'region': ['VN']
+      }, {
+        'overlay_id': "caption:veterans_day_2026",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FFFBF8", "#E6DDD8"]
+          },
+          'icon': {
+            'data': "🇺🇸",
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Thank You Veterans",
+          'text_color': "#2C5E8F",
+          'type': "static_content"
+        },
+        'region': ['VN']
+      }, {
+        'overlay_id': "caption:thanksgiving_2026",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#CEAF76", "#91643E"]
+          },
+          'icon': {
+            'data': '🦃',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Happy Thanksgiving!",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        },
+        'region': ['VN']
+      }, {
+        'overlay_id': "caption:black_friday_2026",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#1A1A1A", "#454545"]
+          },
+          'icon': {
+            'data': "🛍️",
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Black Friday",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        },
+        'region': ['VN']
+      }, {
+        'overlay_id': "caption:hanukkah_2026",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#2539B6", "#4862F7"]
+          },
+          'icon': {
+            'data': '🕎',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Happy Hanukkah!",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        },
+        'region': ['VN']
+      }, {
+        'overlay_id': "caption:christmas_eve_2026",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#2FA85F", "#176B3A"]
+          },
+          'icon': {
+            'data': "🕯️",
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Christmas Eve",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        },
+        'region': ['VN']
+      }, {
+        'overlay_id': "caption:christmas_eve_2026",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#2FA85F", "#176B3A"]
+          },
+          'icon': {
+            'data': "🕯️",
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Giáng sinh an lành",
+          'localized_text': {
+            'en': "Giáng sinh an lành",
+            'vn': "Giáng sinh an lành"
+          },
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        },
+        'region': ['VN']
+      }, {
+        'overlay_id': "caption:christmas_day_2026",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#E53935", "#A81818"]
+          },
+          'icon': {
+            'data': '🎄',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Merry Christmas!",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        },
+        'region': ['VN']
+      }, {
+        'overlay_id': "caption:christmas_day_2026",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#E53935", "#A81818"]
+          },
+          'icon': {
+            'data': '🎄',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Giáng sinh an lành",
+          'localized_text': {
+            'en': "Giáng sinh an lành",
+            'vn': "Giáng sinh an lành"
+          },
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        },
+        'region': ['VN']
+      }, {
+        'overlay_id': "caption:new_years_eve_2026",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FFC64B", "#FFEDBF"]
+          },
+          'icon': {
+            'data': '🥂',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "New Year's Eve",
+          'localized_text': {
+            'en': "New Year's Eve",
+            'vi': "Xin chào 2027!"
+          },
+          'text_color': "#643F00",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:new_years_day_2027",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#3B00EC", "#823FFF"]
+          },
+          'icon': {
+            'data': '💫',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Happy New Year!",
+          'localized_text': {
+            'en': "Happy New Year!",
+            'vi': "Xin chào 2027!"
+          },
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:new_years_day_2027_alternate",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FF0062", "#FF783F"]
+          },
+          'max_lines': 0x1,
+          'text': "2027",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:no_memory",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'image': {
+              'type': "image",
+              'data': "https://public.locketcamera.com/locket-public/overlays/forgotten_island/forgotten_island_bg.png",
+              'source': "url"
+            },
+            'colors': ["#1A1A2E", "#16213E"]
+          },
+          'max_lines': 0x1,
+          'text': "NO MEMORY LEFT BEHIND",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }]
+    }, {
+      'section': "🎨 Decorative by Locket",
+      'items': [{
+        'overlay_id': "caption:toi_nho_em",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FFFFFF", "#6D9EEB"]
+          },
+          'max_lines': 0x1,
+          'text': "보고 싶어 🥺",
+          'text_color': "#000000E6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:party_time",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#5EFFF5", "#FCFF57"]
+          },
+          'icon': {
+            'data': '🪩',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Party Time!",
+          'text_color': "#000000E6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:good_morning",
+        'source': "remote",
+        'daily_start_hour': 0x5,
+        'daily_end_hour': 0xa,
+        'caption': {
+          'background': {
+            'colors': ["#EF7402", "#EABF0F"]
+          },
+          'icon': {
+            'data': '☀️',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Good morning",
+          'text_color': "#FFFFFFE5",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:goodnight",
+        'source': "remote",
+        'daily_start_hour': 19.5,
+        'daily_end_hour': 0x18,
+        'caption': {
+          'background': {
+            'colors': ["#370C6F", "#575CD4"]
+          },
+          'icon': {
+            'data': '🌙',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Goodnight",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:miss_you",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#EC0C00", "#FF493F"]
+          },
+          'icon': {
+            'data': '🥰',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Miss you",
+          'text_color': "#FFFFFFDB",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:ootd",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FFFFFF", "#DBDBDB"]
+          },
+          'icon': {
+            'data': '🕶',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "OOTD",
+          'text_color': "#101010E6",
+          'type': "static_content"
+        }
+      }]
+    }, {
+      'section': "🎨 Decorative by Ng Huy Hoang",
+      'items': [{
+        'overlay_id': "caption:nochynnguyen",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#B8E7FF", "#A8F5D0", "#DCCBFF"]
+          },
+          'icon': {
+            'data': "tortoise.fill",
+            'type': "sf_symbol",
+            'color': "#183153"
+          },
+          'max_lines': 0x1,
+          'text': "nochynnguyen 🦀",
+          'text_color': "#183153",
+          'type': "static_content"
+        }
+      'items': [{
+        'overlay_id': "caption:nghuyhoang.31",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#B8E7FF", "#A8F5D0", "#DCCBFF"]
+          },
+          'icon': {
+            'data': "tortoise.fill",
+            'type': "sf_symbol",
+            'color': "#183153"
+          },
+          'max_lines': 0x1,
+          'text': "nghuyhoang.31",
+          'text_color': "#183153",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:cu",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FFD6A5", "#FFF1A8", "#FFC4D6"]
+          },
+          'max_lines': 0x1,
+          'text': "Cu 🐎",
+          'text_color': "#633B24",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:tuat",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#2C1A0E", "#5D4037", "#D7A86E"]
+          },
+          'icon': {
+            'data': '🐕',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Tuất",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:snake_vibes",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#2E7D32", "#66BB6A"]
+          },
+          'icon': {
+            'data': '🐍',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Snake Vibes",
+          'localized_text': {
+            'en': "Snake Vibes",
+            'vn': "Chất rắn"
+          },
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:du_an_ma",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#263238", "#455A64"]
+          },
+          'icon': {
+            'data': '👻',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "dự án ma",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:love_vietnam",
+        'source': "remote",
+        'alt_text': "Tôi yêu Việt Nam",
+        'caption': {
+          'background': {
+            'image': {
+              'type': "image",
+              'data': "star_sign_background",
+              'source': "local"
+            },
+            'colors': ["#DA251D", "#DA251D"]
+          },
+          'icon': {
+            'type': "image",
+            'data': "https://storage.googleapis.com/locket-public/journal_calendar_assets/holiday_indicators/valentines_indicator%403x.png",
+            'source': "url"
+          },
+          'max_lines': 0x1,
+          'text': "Tôi yêu Việt Nam",
+          'text_color': "#FFFF00",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:film_diary",
+        'source': "remote",
+        'alt_text': "Một ngày rất chill",
+        'caption': {
+          'background': {
+            'image': {
+              'type': "image",
+              'data': "https://public.locketcamera.com/locket-public/gold_promos/gold_promo_camera_roll.png",
+              'source': "url"
+            },
+            'colors': ["#D2B48C", "#8B4513"]
+          },
+          'icon': {
+            'type': "image",
+            'data': "https://public.locketcamera.com/locket-public/journal_calendar_assets/holiday_indicators/st_patricks_indicator%403x.png",
+            'source': "url"
+          },
+          'max_lines': 0x1,
+          'text': "Một ngày rất chill",
+          'text_color': "#FFFDD0",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:strangers",
+        'source': "remote",
+        'alt_text': "Người lạ",
+        'caption': {
+          'background': {
+            'image': {
+              'type': "image",
+              'data': "https://public.locketcamera.com/locket-public/gold_promos/gold_promo_views.png",
+              'source': "url"
+            },
+            'colors': ["#1C1C1E", "#2C2C2E"]
+          },
+          'icon': {
+            'data': "eye.fill",
+            'type': "sf_symbol",
+            'color': "#0A84FF"
+          },
+          'max_lines': 0x1,
+          'text': "Người lạ",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:genz_flex",
+        'source': "remote",
+        'alt_text': "Mood: Chill",
+        'caption': {
+          'background': {
+            'image': {
+              'type': "image",
+              'data': "https://public.locketcamera.com/locket-public/gold_promos/gold_promo_widgets.png",
+              'source': "url"
+            },
+            'colors': ["#FF9A9E", "#FECFEF"]
+          },
+          'icon': {
+            'data': "camera.fill",
+            'type': "sf_symbol",
+            'color': "#FF007F"
+          },
+          'max_lines': 0x1,
+          'text': "Mood: Chill 💅",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }]
+    }, {
+      'section': "🎨 Tình yêu & Thả thính 💕",
+      'items': [{
+        'overlay_id': "caption:em_nho_anhh",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FF6B81", "#FF8E9E", "#FFB3C6"]
+          },
+          'icon': {
+            'data': '🥺',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "em nhớ anhh",
+          'text_color': "#8C1938",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:nho_anh_phien",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F0B5CB", "#F6D0DF", "#DCCAF0"]
+          },
+          'icon': {
+            'data': '🥺',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "nhớ anh tới mức hơi phiền",
+          'text_color': "#70445A",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:i_love_you",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FF8FAB", "#FFC2D1", "#FFE5EC"]
+          },
+          'icon': {
+            'data': '💗',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "i love you",
+          'text_color': "#8A304F",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:yeu_cuc_dang",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F2B5C8", "#F8D5D9", "#F6E5D2"]
+          },
+          'icon': {
+            'data': '🎀',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "yêu cục dàng",
+          'text_color': "#754454",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:yeu_emmm",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F2AFC6", "#F7C9D9", "#E5CFF4"]
+          },
+          'icon': {
+            'data': '💗',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Yeu Emmm",
+          'text_color': "#70445C",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:yeu_anhhh",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#B8C9F2", "#D5DDF8", "#E8CFF0"]
+          },
+          'icon': {
+            'data': '🫶',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Yeu Anhhh",
+          'text_color': "#414C72",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:baby_love",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FFB6C1", "#FF69B4", "#FF1493"]
+          },
+          'icon': {
+            'data': '🧸',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Baby Love 💖",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:muon_duoc_om",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FF9A9E", "#FECFEF"]
+          },
+          'icon': {
+            'data': '🫂',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Muốn được ôm",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:cho_hun_mieng",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F3AFC7", "#F8D0D8", "#F4C9BB"]
+          },
+          'icon': {
+            'data': '😘',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "cho hun miếng coi",
+          'text_color': "#754252",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:me_anh_me_ngu",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#C4C8EF", "#DED3F4", "#EBCDE4"]
+          },
+          'icon': {
+            'data': '💤',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "mê anh hơn mê ngủ",
+          'text_color': "#4F4770",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:be_be_can_do",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FF8FAB", "#FFC2D1", "#FFE5EC"]
+          },
+          'icon': {
+            'data': '🎀',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "em bé cần được dỗ",
+          'text_color': "#812D4A",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:iu_thi_noi",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FFD166", "#FFE8A3", "#FFF3D0"]
+          },
+          'icon': {
+            'data': '🤭',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "iu thì nói, đừng có ngại",
+          'text_color': "#704510",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:iu_hong_thi_bao",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FF6B6B", "#FF9999", "#FFD1C9"]
+          },
+          'icon': {
+            'data': '🎀',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "iu hong thì bảo",
+          'text_color': "#812626",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:anh_thuong_em",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#A0C4FF", "#BDE0FE", "#DFF3FF"]
+          },
+          'icon': {
+            'data': '🥹',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "anh có thương em thiệt hong",
+          'text_color': "#23466F",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:yeu_em_nhiem_vu",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#B7E4C7", "#D8F3DC", "#F0FFF1"]
+          },
+          'icon': {
+            'data': '🫡',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "yêu em là nhiệm vụ cả đời",
+          'text_color': "#24563A",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:crush_nhin",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#CDB4DB", "#E2CFEA", "#F3E5F5"]
+          },
+          'icon': {
+            'data': '🫠',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "crush nhìn em một cái là xong",
+          'text_color': "#593B68",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:ngoai_le_cua_em",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#80CBC4", "#B2DFDB", "#E0F2F1"]
+          },
+          'icon': {
+            'data': '🫶',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "anh là ngoại lệ của em",
+          'text_color': "#205953",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:dang_ban_tuong_tu",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#1A2980", "#26D0CE"]
+          },
+          'icon': {
+            'data': '💭',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Đang bận tương tư",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:mac_bay_tinh_yeu",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#EE9CA7", "#FFDDE1"]
+          },
+          'icon': {
+            'data': '💘',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Mắc bẫy tình yêu",
+          'text_color': "#000000E6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:minh_cuoi_nhau",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F0B8CD", "#F7D4DF", "#E7C9EF"]
+          },
+          'icon': {
+            'data': '💍',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "hông ấy mình cưới nhau đi",
+          'text_color': "#70465B",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:wedding_time",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FFE4E1", "#E73C7E"]
+          },
+          'icon': {
+            'data': '💍',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Wedding Time!",
+          'localized_text': {
+            'en': "Wedding Time!",
+            'vn': "Đám cưới nè!"
+          },
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:dating_time",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#E91E63", "#F44336"]
+          },
+          'icon': {
+            'data': '💕',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Dating Time!",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:tuong_love_hoa_ra_lop",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#C9184A", "#FF4D6D", "#FFB3C6"]
+          },
+          'icon': {
+            'data': "❤️‍🩹",
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Tưởng love hoá ra lốp",
+          'text_color': "#64152F",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:cam_thay_hanh_phuc",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#EC407A", "#F8BBD0"]
+          },
+          'icon': {
+            'data': "🇻🇳",
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Cảm thấy hạnh phúc",
+          'localized_text': {
+            'en': "Feeling Happy",
+            'vn': "Cảm thấy hạnh phúc"
+          },
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:cho_anh_chut_thoi",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F4A6B7", "#F6BFA6", "#F8D9A0"]
+          },
+          'icon': {
+            'data': "heart.fill",
+            'type': "sf_symbol",
+            'color': "#E85D75"
+          },
+          'max_lines': 0x1,
+          'text': "Chờ anh chút thôi",
+          'text_color': "#593744",
+          'type': "static_content"
+        }
+      }]
+    }, {
+      'section': "🎨 Gen Z & Flex 💅",
+      'items': [{
+        'overlay_id': "caption:feeling_cute",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F8BBD0", "#E91E63"]
+          },
+          'icon': {
+            'data': '🌷',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Feeling Cute",
+          'localized_text': {
+            'en': "Feeling Cute",
+            'vn': "Cảm thấy dthw"
+          },
+          'text_color': "#FFFFFFE5",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:cutie_pie",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FFDEE9", "#FFB6C1", "#FF9AA2"]
+          },
+          'icon': {
+            'data': '🎀',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Cutie Pie 🌸",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:hello_kitty",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FFD1DC", "#FFB7C5", "#FFC0CB"]
+          },
+          'icon': {
+            'data': '🌸',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Hello Kitty 🐱",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:ngoan_xinh_iu",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F3C1D4", "#F8DDE5", "#E8CFF0"]
+          },
+          'icon': {
+            'data': '💗',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "ngoan xinh iu của ai đây",
+          'text_color': "#71465D",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:xinh_dep_tuyet_voi",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FC5C7D", "#6A82FB"]
+          },
+          'icon': {
+            'data': '💅',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Xinh đẹp tuyệt vời",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:hom_nay_slay",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#C5B5E8", "#DDD0F2", "#F0C9DD"]
+          },
+          'icon': {
+            'type': "sf_symbol",
+            'data': "sparkles",
+            'color': "#514368"
+          },
+          'max_lines': 0x1,
+          'text': "hôm nay cũng slay",
+          'text_color': "#514368",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:tinh_hoa_hoi_tu",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'image': {
+              'type': "image",
+              'data': "star_sign_background",
+              'source': "local"
+            },
+            'colors': ["#FFD700", "#FF8C00"]
+          },
+          'icon': {
+            'type': "sf_symbol",
+            'data': "wand.and.sparkles",
+            'color': "#000000E6"
+          },
+          'max_lines': 0x1,
+          'text': "Tinh hoa hội tụ",
+          'text_color': "#000000E6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:xinh_gai_an_phim_1",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F77062", "#FE5196"]
+          },
+          'icon': {
+            'data': '💅',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Xinh gái ấn phím 1",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:xinh_la_tai_nang",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F0B5CA", "#F5D2DD", "#EAD1F0"]
+          },
+          'icon': {
+            'data': '🎀',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "xinh là một loại tài năng",
+          'text_color': "#70435B",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:dep_trai_co_gi_sai",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FF5722", "#FFC107"]
+          },
+          'icon': {
+            'data': '😎',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Đẹp trai có gì sai",
+          'text_color': "#000000E6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:dep_khong_ly_do",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#E5B7CD", "#F0D0DC", "#DCCCF0"]
+          },
+          'icon': {
+            'data': '🪞',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "đẹp không cần lý do",
+          'text_color': "#67455C",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:cha_nay_tu_luyen_ghe",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FFDEE9", "#B5FFFC", "#FAD0C4", "#FFD1FF"]
+          },
+          'icon': {
+            'data': '🪞',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Cha này tự luyến ghê",
+          'text_color': "#000000E6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:phu_tinh_khong_phu_ban",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#8E2DE2", "#4A00E0"]
+          },
+          'icon': {
+            'data': "🕶️",
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Phụ tình không phụ bản",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:main_character",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#D6B8E8", "#E8CDEB", "#F3D2D9"]
+          },
+          'icon': {
+            'type': "sf_symbol",
+            'data': "movieclapper.fill",
+            'color': "#5A4366"
+          },
+          'max_lines': 0x1,
+          'text': "main character của cuộc đời mình",
+          'text_color': "#5A4366",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:vibe_khong_phai_ai",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#80D8FF", "#A0F0E0", "#D9FFF5"]
+          },
+          'icon': {
+            'data': '🪩',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "vibe này ko phải ai cũng có",
+          'text_color': "#174C58",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:khi_chat",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FFB36B", "#FFD49B", "#FFF0C2"]
+          },
+          'icon': {
+            'data': '😎',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "không hoàn hảo nhưng có khí chất",
+          'text_color': "#713D20",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:sieu_cap_ba_khi",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#EC407A", "#F44336"]
+          },
+          'icon': {
+            'data': '🐉',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "siêu cấp bá khí",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:bung_no",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FF6B6B", "#FF8E53", "#FFD166"]
+          },
+          'icon': {
+            'data': '💥',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Bùng nổ",
+          'text_color': "#702B16",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:ba_khi",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#8EACCD", "#B5C8DE", "#D7C7E6"]
+          },
+          'icon': {
+            'data': '😎',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "bá khí ngang ngược",
+          'text_color': "#35475D",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:du_ba_khi_chua",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#CBB4DE", "#DFCBEA", "#F2E3F7"]
+          },
+          'icon': {
+            'data': '👑',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Đủ bá khí chưa?",
+          'text_color': "#4C385C",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:oach_xa_lach",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#11998E", "#38EF7D"]
+          },
+          'icon': {
+            'data': '🥬',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "oách xà lách",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:cung_cung_di",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FF7043", "#FF8A50", "#FFCA70"]
+          },
+          'icon': {
+            'data': '🚀',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Cũng cứng đi",
+          'text_color': "#592313",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:ra_duong_ne_moi_anh",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#BCC5D6", "#D7DEEA", "#EDE8F5"]
+          },
+          'icon': {
+            'data': "🕶️",
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Ra đường nể mỗi anh",
+          'text_color': "#384358",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:nhin_la_biet_uy_tin",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#2980B9", "#2C3E50"]
+          },
+          'icon': {
+            'data': '👌',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Nhìn là biết uy tín",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:flex_den_hoi_tho_cuoi",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#00BFA5", "#64E8C8", "#C4FFF0"]
+          },
+          'icon': {
+            'data': '💎',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Flex đến hơi thở cuối",
+          'text_color': "#064D43",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:tui_khong_hon_thua",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#8E2430", "#C0394B", "#F08A8E"]
+          },
+          'icon': {
+            'data': '😎',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "tui không hơn thua, tui hơn hẳn",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:hon_hom_qua",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#B9D7D0", "#D6E6D7", "#E8DFC6"]
+          },
+          'icon': {
+            'data': '🫶',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "tui không hơn ai, tui hơn hôm qua",
+          'text_color': "#3F554E",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:khong_phai_gu",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FF6F91", "#FF9A9E", "#FFD1BA"]
+          },
+          'icon': {
+            'data': '💅',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "không phải gu của tất cả, may quá",
+          'text_color': "#70243D",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:quan_trong_lam",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#7566D9", "#9B8AFB", "#D2C8FF"]
+          },
+          'icon': {
+            'data': '💅',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "ủa tưởng mình quan trọng lắm?",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:cai_net_ky",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#B7D96C", "#D9ED9A", "#F1F7C8"]
+          },
+          'icon': {
+            'data': '😒',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "cái nết kỳ ghê",
+          'text_color': "#35451B",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:ghet_dua_kia_ghe",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#52647A", "#7D91A8", "#BBC9D8"]
+          },
+          'icon': {
+            'data': '😒',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "ghét đứa kia ghê 😒",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:khong_ghet_khong_ua",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FFAB40", "#FFD180", "#FFF0C2"]
+          },
+          'icon': {
+            'data': '😒',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "không ghét, chỉ không ưa",
+          'text_color': "#633B12",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:toi_song_the_day",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#202124", "#525866", "#AAB2C0"]
+          },
+          'icon': {
+            'data': '😎',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Tôi sống thế đấy",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:che_manh",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FF4E50", "#F9D423"]
+          },
+          'icon': {
+            'data': '👎',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Chê mạnh",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:chua_du_wow",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FFD1DC", "#FFB7C5", "#FFE4E1"]
+          },
+          'icon': {
+            'data': '🎀',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Chưa đủ wow",
+          'text_color': "#6E4254",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:roi_let_luon",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FF9A9E", "#FECFEF", "#FBC2EB", "#A6C1EE"]
+          },
+          'icon': {
+            'data': '💅',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "rồi lét luôn",
+          'text_color': "#000000E6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:roi_gay_luon",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FF6EC7", "#7873F5", "#4ADEDE", "#FFE66D"]
+          },
+          'icon': {
+            'data': '🌈',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "rồi gay luôn",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:dang_truc_tiep",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#0000001A", "#0000001A"],
+            'material_blur': "regular"
+          },
+          'icon': {
+            'data': "circle.fill",
+            'type': "sf_symbol",
+            'color': "#FF3B5C"
+          },
+          'max_lines': 0x1,
+          'text': "ĐANG TRỰC TIẾP",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:ae_san_san",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#C5DDF1", "#C9E8E9", "#D8EAD8"]
+          },
+          'icon': {
+            'data': '🚀',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "ae sãn sàn",
+          'text_color': "#405D70",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:ae_tao_ma_cao",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#C7D5ED", "#D2D1ED", "#E0CDEB"]
+          },
+          'icon': {
+            'data': '✈️',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "ae tao ma cao",
+          'text_color': "#4F5879",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:quay_rua_fen",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#C8E1D2", "#D2E8C9", "#E3E9C5"]
+          },
+          'icon': {
+            'data': '🎉',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "quậy rứa fen",
+          'text_color': "#49664E",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:cung_fomo",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#E6C8E7", "#EBD0E5", "#EFD6D8"]
+          },
+          'icon': {
+            'data': '👀',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "cũng fomo theo =))",
+          'text_color': "#654B69",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:the_ma_lai_hay",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#D1D8EA", "#DCD6EC", "#E9D9E8"]
+          },
+          'icon': {
+            'data': "lightbulb.fill",
+            'type': "sf_symbol",
+            'color': "#9295BE"
+          },
+          'max_lines': 0x1,
+          'text': "thế mà lại hay",
+          'text_color': "#545677",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:10_diem",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F6D9A8", "#F4D1B0", "#EFD0C7"]
+          },
+          'icon': {
+            'data': '🏆',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "10 điểm không có nhưng",
+          'text_color': "#6D5436",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:co_tai_tai_lanh",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F2C8B8", "#F0D0B1", "#E9D8B8"]
+          },
+          'icon': {
+            'data': "crown.fill",
+            'type': "sf_symbol",
+            'color': "#BE8C62"
+          },
+          'max_lines': 0x1,
+          'text': "có tài ghê, tài lanh",
+          'text_color': "#6A503B",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:noi_it_lam_nhieu",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#C4DFD6", "#CDE6D5", "#E0E9C9"]
+          },
+          'icon': {
+            'data': "target",
+            'type': "sf_symbol",
+            'color': "#6F9C84"
+          },
+          'max_lines': 0x1,
+          'text': "nói ít thôi, làm nhiều lên",
+          'text_color': "#426450",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:quyet_khong_mat_chuoi",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#C6E2D2", "#D1E8C9", "#E2E9BD"]
+          },
+          'icon': {
+            'data': "flame.fill",
+            'type': "sf_symbol",
+            'color': "#78A77E"
+          },
+          'max_lines': 0x1,
+          'text': "quyết k để mất chuỗi :))",
+          'text_color': "#46664C",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:tru_diem_aura",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#D2C6EA", "#DCCAE9", "#EACBE0"]
+          },
+          'icon': {
+            'data': '📉',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "trừ điểm aura",
+          'text_color': "#5F4C70",
+          'type': "static_content"
+        }
+      }]
+    }, {
+      'section': "🎨 Meme & Xà lơ 🤡",
+      'items': [{
+        'overlay_id': "caption:cuoi_vcl_m_oi",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F7971E", "#FFD200", "#FFEE58"]
+          },
+          'icon': {
+            'data': '😂',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Cười vcl m oi",
+          'text_color': "#000000E6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:cuoi_xiu",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FFEB3B", "#FF9800"]
+          },
+          'icon': {
+            'data': '😎',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Cười xỉu",
+          'text_color': "#000000E6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:luon_vui_tuoi",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#00F2FE", "#4FACFE"]
+          },
+          'icon': {
+            'data': '🤡',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Luôn vui tươi",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:nau_xoi",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#B8E04A", "#D9F477", "#F5FFB8"]
+          },
+          'icon': {
+            'data': '🙀',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Nấu xói",
+          'text_color': "#394713",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:con_vien_la_lan",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#A8C3A0", "#DCE5D1"]
+          },
+          'icon': {
+            'data': '🍂',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "côn viên lá làn",
+          'text_color': "#344536",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:gian_dang_iu_hong",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#A8E6CF", "#D4F1BE", "#FFF1B6"]
+          },
+          'icon': {
+            'data': '🪳',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Gián đáng iu hong",
+          'text_color': "#315847",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:am_cha_hui",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F1C0D2", "#F5D9E1", "#E7D1F2"]
+          },
+          'icon': {
+            'data': '🎀',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "ăm chã húi, bà chã hơm",
+          'text_color': "#70475C",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:hong_drama",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#8A2387", "#E94057", "#F27121"]
+          },
+          'icon': {
+            'data': '🍿',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Hóng drama",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:ke_chuyen_nghe_choi",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#8A2387", "#E94057"]
+          },
+          'icon': {
+            'data': '🍿',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Kể chuyện nghe chơi",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:drama_ai_hong",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F0C4A8", "#F3D8B8", "#D8C6E5"]
+          },
+          'icon': {
+            'data': '🍿',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "thân ai nấy lo, drama ai nấy hóng",
+          'text_color': "#624736",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:check_var",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#11998E", "#38EF7D"]
+          },
+          'icon': {
+            'data': '📺',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Check VAR liền",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:co_bien_co_bien",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FF512F", "#F09819", "#FFD200"]
+          },
+          'icon': {
+            'type': "sf_symbol",
+            'data': "light.beacon.max.fill",
+            'color': "#FFFFFFE6"
+          },
+          'max_lines': 0x1,
+          'text': "Có biến có biến",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:so_ho_la_bao",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F5B8A9", "#F6D0B2", "#E8BFCB"]
+          },
+          'icon': {
+            'data': '🚨',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "sơ hở là báo",
+          'text_color': "#713F40",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:bot_bao",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#7AA6C2", "#B0C9D9", "#DCE8EF"]
+          },
+          'icon': {
+            'data': '🚨',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "bớt báo giùm cái",
+          'text_color': "#29485D",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:ai_so_thi_di_ve",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#B71C1C", "#FF5722"]
+          },
+          'icon': {
+            'data': '🏃',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "ai sợ thì đi về",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:chay_ngay_di",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#D31027", "#EA384D"]
+          },
+          'icon': {
+            'data': "🏃💨",
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Chạy ngay đi",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:len_chua_khong_biet_lay_ai",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#D7CCC8", "#EFEBE9", "#F5F5F0"]
+          },
+          'icon': {
+            'data': "🙏🥺",
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "lên chùa không biết lạy ai",
+          'text_color': "#5D4037",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:dam_nhau_khong",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#E53935", "#FF7043"]
+          },
+          'icon': {
+            'data': '🥊',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "đấm nhau không",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:hao_han",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#292E49", "#8E3B46", "#E09F3E"]
+          },
+          'icon': {
+            'data': "🗡️",
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Hảo hán",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:mong_ton_hoa_sen",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#D8B4E2", "#F8BBD0"]
+          },
+          'icon': {
+            'data': '🪷',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Mong tôn hoa sen thấy cảnh này",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:con_cai_nit",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#D7CCC8", "#8D6E63"]
+          },
+          'icon': {
+            'data': '🧶',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "còn cái nịt",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:minh_la_lop",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#263238", "#455A64"]
+          },
+          'icon': {
+            'data': '🛞',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Mình là lốp",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:hay_ra_de_qua_a",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FFF59D", "#80DEEA"]
+          },
+          'icon': {
+            'data': '🥺',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Hay ra dẻ quá à!",
+          'text_color': "#000000E6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:mac_co_qua_hai_oi",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FFB74D", "#F8BBD0"]
+          },
+          'icon': {
+            'data': '😭',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Mắc cỡ quá hai ơi",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:than_chua_ma_don",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#607D8B", "#37474F"]
+          },
+          'icon': {
+            'data': '😔',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Thân chưa mà dỡn",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:ai_muon",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FF6B35", "#FF9F1C", "#FFE0A3"]
+          },
+          'icon': {
+            'data': '🤨',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "ủa rồi ai mượn?",
+          'text_color': "#6B2814",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:co_ra_dai_khong",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FF4D6D", "#FF8E72", "#FFD6A5"]
+          },
+          'icon': {
+            'data': '😭',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "có ra dại không",
+          'text_color': "#6B1833",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:he_dieu_hanh_la",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#287271", "#57A99A", "#B5E5D5"]
+          },
+          'icon': {
+            'data': '🤨',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "bạn mình nhưng hệ điều hành lạ",
+          'text_color': "#153F3D",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:ai_cung_khac",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#343A40", "#59636E", "#AAB4BE"]
+          },
+          'icon': {
+            'data': '🤡',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "ai rồi cũng khác, riêng bạn thì lạ",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:tuong_tuong",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#3977D5", "#78A9F5", "#D0E4FF"]
+          },
+          'icon': {
+            'data': '🤡',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "tưởng gì, hóa ra tưởng tượng",
+          'text_color': "#173767",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:be_hong_sai",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F4A7C3", "#FFD1DC", "#FFF0F3"]
+          },
+          'icon': {
+            'data': '😌',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "bé hông có sai, tại đời sai",
+          'text_color': "#802D50",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:khong_vua_long",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#D5A64B", "#E8C979", "#FFF0BF"]
+          },
+          'icon': {
+            'data': '😌',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "sống sao cho vừa lòng thiên hạ? thôi khỏi",
+          'text_color': "#594015",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:boc_trung_sit_rit",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#9C27B0", "#7B1FA2"]
+          },
+          'icon': {
+            'data': '🎁',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Bóc trúng sít rịt",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:hen_lam_moi_xui_duoc_vay_a",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#00BCD4", "#0097A7"]
+          },
+          'icon': {
+            'data': '😅',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Hên lắm mới xui được vậy á",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:giam_suc_manh_con_tuong",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#4CAF50", "#00BCD4"]
+          },
+          'icon': {
+            'data': '🎮',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Giảm sức mạnh con tướng",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:phu_huynh_dung_xem",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FF0844", "#FFB199"]
+          },
+          'icon': {
+            'data': '🙈',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Phụ huynh đừng xem",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:khong_van_de_gi_luon",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#087E8B", "#39B8A5", "#B8F2E6"]
+          },
+          'icon': {
+            'data': '👌',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Không vấn đề gì luôn",
+          'text_color': "#103F43",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:xin_vinh_biet_cu",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#232526", "#414345"]
+          },
+          'icon': {
+            'data': "🕯️",
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Xin vĩnh biệt cụ",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:et_o_et",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F3C4C4", "#F1C9B9", "#EED9B9"]
+          },
+          'icon': {
+            'data': "sos.circle.fill",
+            'type': "sf_symbol",
+            'color': "#C77D78"
+          },
+          'max_lines': 0x1,
+          'text': "ét ô ét",
+          'text_color': "#704B48",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:nao_khong_treu_ban",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#C9DCEB", "#D1E5E7", "#DDE9D8"]
+          },
+          'icon': {
+            'data': "hand.raised.fill",
+            'type': "sf_symbol",
+            'color': "#719BAA"
+          },
+          'max_lines': 0x1,
+          'text': "nào không trêu bạn",
+          'text_color': "#47616B",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:than_chua_ma_gion",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#D5D1C4", "#DFD8C8", "#E9DDC9"]
+          },
+          'icon': {
+            'data': "hand.raised.slash.fill",
+            'type': "sf_symbol",
+            'color': "#A18E72"
+          },
+          'max_lines': 0x1,
+          'text': "thân chưa mà giỡn 🤨",
+          'text_color': "#5F5646",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:an_noi_xa_lo",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#E8C6C6", "#EACBC1", "#EBD8C7"]
+          },
+          'icon': {
+            'data': '🤡',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "ăn nói xà lơ 🤡",
+          'text_color': "#684B4B",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:tuong_ai_cung_co",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F2D2B7", "#EED1C8", "#E8D2DF"]
+          },
+          'icon': {
+            'data': '💅',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "tôi tưởng ai cũng có chứ taa 💅",
+          'text_color': "#6B5148",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:ve_ke_kh_ai_tin",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#E7C9DF", "#E9CDE8", "#D9D0EF"]
+          },
+          'icon': {
+            'data': '🤫',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "về kể kh ai tin :))",
+          'text_color': "#644C68",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:mac_co_qua",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F4BDD0", "#EEC5DD", "#E2C8ED"]
+          },
+          'icon': {
+            'data': '🥹',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "mắc cỡ quá m ơi :))",
+          'text_color': "#694A67",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:ilove_lapxuong",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F3C4B9", "#F1C9C1", "#EBCFD0"]
+          },
+          'icon': {
+            'data': "heart.fill",
+            'type': "sf_symbol",
+            'color': "#D66F78"
+          },
+          'max_lines': 0x1,
+          'text': "i love lạp xưởng ❤️❤️❤️",
+          'text_color': "#70474B",
+          'type': "static_content"
+        }
+      }]
+    }, {
+      'section': "🎨 Tâm trạng & Bất ổn 🫠",
+      'items': [{
+        'overlay_id': "caption:bat_on_that_su",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#636363", "#A2AB58"]
+          },
+          'icon': {
+            'data': '🫠',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Bất ổn thật sự",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:nay_la_het_cuu",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#607D8B", "#455A64"]
+          },
+          'icon': {
+            'type': "sf_symbol",
+            'data': "bolt.badge.xmark",
+            'color': "#FFFFFFE6"
+          },
+          'max_lines': 0x1,
+          'text': "Này là hết cứu",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:het_cuu_thiet",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#B8C9E8", "#D5D5F0", "#E9CDE0"]
+          },
+          'icon': {
+            'data': '🫠',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "hết cứu thiệt chứ",
+          'text_color': "#454660",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:toi_cong_chuyen",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F2B5A7", "#F6D1B5", "#E9C2D5"]
+          },
+          'icon': {
+            'data': '💀',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "tới công chuyện nữa rồi",
+          'text_color': "#634044",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:toang_that_roi",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F44336", "#B71C1C"]
+          },
+          'icon': {
+            'data': '🐉',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Toang thật rồi",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:toi_roi_toi_roi",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F7253E", "#FF6B35", "#FFC857"]
+          },
+          'icon': {
+            'data': '❗',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Tới rồi tới rồi",
+          'text_color': "#58151B",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:goi_xong_lun",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F3B6AF", "#F6D2C2", "#EAC8D9"]
+          },
+          'icon': {
+            'data': '😭',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "gòi xong lun á",
+          'text_color': "#6A4549",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:xiu_ngang",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#C0B7E5", "#D8D0F0", "#EACDE2"]
+          },
+          'icon': {
+            'data': '💀',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "xĩu ngang xĩu dọc",
+          'text_color': "#504567",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:guc_nga",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#3A1C71", "#D76D77"]
+          },
+          'icon': {
+            'data': '📉',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Gục ngã",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:bat_luc",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#2C3E50", "#3498DB"]
+          },
+          'icon': {
+            'data': "🏳️",
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Bất lực",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:rot_nuoc_mat",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#1CB5E0", "#000046"]
+          },
+          'icon': {
+            'data': '😭',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Rớt nước mắt",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:tien_dinh",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FF9A8B", "#FF6A88"]
+          },
+          'icon': {
+            'data': "🌪️",
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Tiền đình",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:nao_bao_tri",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#B8E0D2", "#D8EAD8", "#C9D9F0"]
+          },
+          'icon': {
+            'data': '🧠',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "não đang bảo trì",
+          'text_color': "#35564F",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:overthinking_vai_chuong",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#2C3E50", "#4CA1AF"]
+          },
+          'icon': {
+            'data': '🤯',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Overthinking vai chưởng",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:tram_cam_nhe",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#1F1C2C", "#928DAB"]
+          },
+          'icon': {
+            'data': '🫠',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Trầm cảm nhẹ",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:khong_cam_xuc",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#434343", "#000000"]
+          },
+          'icon': {
+            'data': '🗿',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Không cảm xúc",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:mieng_cuoi_long_khong",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#526A82", "#8CA6B8", "#D5E3E8"]
+          },
+          'icon': {
+            'data': '🙂',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "miệng cười nhưng lòng thì không",
+          'text_color': "#233746",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:hom_nay_toi_buon",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#141E30", "#243B55"]
+          },
+          'icon': {
+            'data': '🥀',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "hôm nay tôi buồn",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:dem_nay_noi_buon",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#283B66", "#526C9E", "#A9C1D9"]
+          },
+          'icon': {
+            'data': '🌙',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "đêm nay ai ôm nỗi buồn",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:em_on_ap_luc",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FFB26B", "#FFD08A", "#FFF0B5"]
+          },
+          'icon': {
+            'data': '🥲',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "em ổn, ổn áp lực",
+          'text_color': "#70401F",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:mot_minh",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#AEB8D1", "#C7C7DF", "#DED0E0"]
+          },
+          'icon': {
+            'data': '🫂',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "thôi thì mình lại một mình",
+          'text_color': "#45475F",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:nan_nhan",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F3C7D9", "#F6D9D0", "#E5CFF0"]
+          },
+          'icon': {
+            'data': '🥹',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "tui là nạn nhân",
+          'text_color': "#70495D",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:ai_cuu_tui",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F0B6B6", "#F5D0C3", "#E8C6DE"]
+          },
+          'icon': {
+            'data': "sos",
+            'type': "sf_symbol",
+            'color': "#6A4248"
+          },
+          'max_lines': 0x1,
+          'text': "òi ai cứu tui",
+          'text_color': "#6A4248",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:song_gio_phu_doi_trai",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#3A1C71", "#D76D77"]
+          },
+          'icon': {
+            'data': "🌪️",
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Sóng gió phủ đời trai",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:thuong_nguoi_khong_thuong",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#C8A6C4", "#D9B9D0", "#E7C8D6"]
+          },
+          'icon': {
+            'data': '💔',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "thương người không thương mình",
+          'text_color': "#5D3F59",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:tu_da_tinh",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#52658F", "#9A8FBF", "#F2B6B8"]
+          },
+          'icon': {
+            'data': '🫠',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "lại tự mình đa tình",
+          'text_color': "#373653",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:khong_du_tot",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#AFC6D8", "#C8D5E2", "#E0D1DE"]
+          },
+          'icon': {
+            'type': "sf_symbol",
+            'data': "cloud.sun.rain.fill",
+            'color': "#455467"
+          },
+          'max_lines': 0x1,
+          'text': "chắc tại mình không đủ tốt",
+          'text_color': "#455467",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:hy_vong_that_vong",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#8E354A", "#C45D69", "#F0B6A8"]
+          },
+          'icon': {
+            'data': '🥀',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "một chút hy vọng, một đống thất vọng",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:het_duyen_het_thuong",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#334E68", "#627D98", "#BCCCDC"]
+          },
+          'icon': {
+            'data': '💭',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "hết duyên hay hết thương?",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:nguoi_vui_nho",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#455A64", "#78909C", "#CFD8DC"]
+          },
+          'icon': {
+            'data': '🩶',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "người vui có nhớ người buồn không",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:da_xem_chua_rep",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#2979FF", "#64B5F6", "#BBDEFB"]
+          },
+          'icon': {
+            'data': '📱',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "đã xem, chưa rep, đã đau",
+          'text_color': "#15345C",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:dung_im_lang",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FF8FA3", "#FFB3C6", "#FFE0E9"]
+          },
+          'icon': {
+            'data': '🥺',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "đừng im lặng với em mà",
+          'text_color': "#812D49",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:nho_thi_nho",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#E5A642", "#F4CB78", "#FFF0C2"]
+          },
+          'icon': {
+            'data': '🙂',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "nhớ thì nhớ, quay lại thì thôi",
+          'text_color': "#633F13",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:em_hong_doi",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#65A30D", "#A3C957", "#E2F0B0"]
+          },
+          'icon': {
+            'data': '🥲',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "em hong có dỗi, em chỉ buồn",
+          'text_color': "#2F4712",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:doi_roi",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FF5F6D", "#FFC371"]
+          },
+          'icon': {
+            'data': '😤',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Dỗi rồi",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:dung_choc_be",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F1BDD0", "#F8DCE5", "#E8D1F2"]
+          },
+          'icon': {
+            'data': '🥺',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "thui mừ đừng có chọc bé",
+          'text_color': "#70475D",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:dung_lam_be_quao",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FF8A5B", "#FFB36B", "#FFE3A3"]
+          },
+          'icon': {
+            'data': '😾',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "đừng có làm bé quạo",
+          'text_color': "#71351F",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:xin_lui_duoc_chua",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F6D365", "#FDA085"]
+          },
+          'icon': {
+            'data': '🥺',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Xin lũi được chưa",
+          'text_color': "#000000",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:biet_roi_kho",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FF7A59", "#FFAD73", "#FFE0A3"]
+          },
+          'icon': {
+            'data': '🥲',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "bíc gòi khổ lém",
+          'text_color': "#71351F",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:hong_be_oi",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#58C9A5", "#A4E6C8", "#E0F7D9"]
+          },
+          'icon': {
+            'data': '🥹',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "hong bé ơi",
+          'text_color': "#205844",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:khum_biet_nua",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#5367C5", "#8F9FE8", "#D5D8FF"]
+          },
+          'icon': {
+            'data': '🫠',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "khum có bíc nữa",
+          'text_color': "#29346F",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:cai_deo_ma",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FF6B6B", "#FF8E53", "#FFD166"]
+          },
+          'icon': {
+            'data': '🤬',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "cái đéo má ??",
+          'text_color': "#542323",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:cai_gi_vay_troi",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FF512F", "#FF8C42", "#FFD166"]
+          },
+          'icon': {
+            'data': '❗',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Cái gì vậy trời",
+          'text_color': "#672016",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:khong_the_tin_noi",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#3867FF", "#725CFF", "#B9A5FF"]
+          },
+          'icon': {
+            'data': '❓',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Không thể tin nổi",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:vl_m_oi",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#20212D", "#51566D", "#A8B4C9"]
+          },
+          'icon': {
+            'data': '😳',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "vl m ơi?",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:ua_alo",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FFB347", "#FFD166", "#FFF0A8"]
+          },
+          'icon': {
+            'data': "questionmark",
+            'type': "sf_symbol",
+            'color': "#654018"
+          },
+          'max_lines': 0x1,
+          'text': "Ủa alo",
+          'text_color': "#654018",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:alo_gi_da",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#00A896", "#55CDB5", "#B8F0D8"]
+          },
+          'icon': {
+            'data': '😭',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Ủa alo, gì dạ?",
+          'text_color': "#104B45",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:ho",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#E63946", "#F07167", "#FFB4A2"]
+          },
+          'icon': {
+            'data': '🤨',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "hỏ?",
+          'text_color': "#681D2A",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:lai_phai_lo",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#70C1B3", "#B7E4A8", "#F9F7A8"]
+          },
+          'icon': {
+            'data': '🫠',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "lại phải lọ",
+          'text_color': "#294B42",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:noi_chuyen_met",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#6D597A", "#9A789D", "#D5B8D2"]
+          },
+          'icon': {
+            'data': '🫠',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "nói chuyện nghe mắc mệt",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:het_noi_noi",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#52734D", "#86A873", "#D5E6A8"]
+          },
+          'icon': {
+            'data': '🙄',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "đúng là hết nói nổi",
+          'text_color': "#263D27",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:chan_bo_may_di",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#6A0572", "#AB1745", "#FF7B54"]
+          },
+          'icon': {
+            'data': '🙄',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Chan bố mày đi",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:tuyet_doi_khong_nghe",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FF416C", "#FF4B2B"]
+          },
+          'icon': {
+            'data': '🙉',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Tuyệt đối không nghe",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:khong_thay_khong_nghe",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#C4D9CB", "#E5E6D0", "#F3D9C5"]
+          },
+          'icon': {
+            'data': '🙈',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "không biết, không thấy, không nghe",
+          'text_color': "#425348",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:noi_it_lo",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#145A64", "#398A8C", "#B8E0D2"]
+          },
+          'icon': {
+            'data': '🤫',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "nói ít thôi, lộ hết bây giờ",
+          'text_color': "#12383D",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:nguoi_im_lang_gap_nguoi_hay_noi",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#232526", "#414345", "#6C7A89", "#B0BEC5"]
+          },
+          'icon': {
+            'data': '🤐',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Người im lặng gặp người hay nói",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:noi_het_bi_mat_thi_co_yeu_hong",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#D8B4E2", "#EAC7D8", "#C4D7F2"]
+          },
+          'icon': {
+            'data': '🤫',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Nói hết bí mật thì có yêu hong",
+          'text_color': "#55415F",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:eh_nha_ma",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F6C5B9", "#F2BFC8", "#E9C6DB"]
+          },
+          'icon': {
+            'data': "exclamationmark.bubble.fill",
+            'type': "sf_symbol",
+            'color': "#C47C89"
+          },
+          'max_lines': 0x1,
+          'text': "ê nha má",
+          'text_color': "#70454D",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:e_question",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#C8DDEB", "#D4E3EB", "#E2DCE9"]
+          },
+          'icon': {
+            'data': "questionmark.circle.fill",
+            'type': "sf_symbol",
+            'color': "#789CB5"
+          },
+          'max_lines': 0x1,
+          'text': "ê ????",
+          'text_color': "#4B5E70",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:chiu_luon_a",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#D3D0E8", "#DCD2E9", "#E8D9E6"]
+          },
+          'icon': {
+            'data': '🤷',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "chịu luôn á",
+          'text_color': "#5B5472",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:dien_dau",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#D2C8E8", "#DEC9E4", "#EBCBD8"]
+          },
+          'icon': {
+            'data': "brain.head.profile",
+            'type': "sf_symbol",
+            'color': "#A07DAD"
+          },
+          'max_lines': 0x1,
+          'text': "điên đầu quá đi mất",
+          'text_color': "#624C6B",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:mac_met",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#D8C8E8", "#E2CBE6", "#EBCFDF"]
+          },
+          'icon': {
+            'data': "battery.0percent",
+            'type': "sf_symbol",
+            'color': "#A183B3"
+          },
+          'max_lines': 0x1,
+          'text': "mắc mệt quá m ơi",
+          'text_color': "#604D6C",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:y_la_met",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#C7DCE8", "#D2E2E8", "#E0E5E3"]
+          },
+          'icon': {
+            'data': "cloud.fill",
+            'type': "sf_symbol",
+            'color': "#7D9EAB"
+          },
+          'max_lines': 0x1,
+          'text': "ý là mệt á 🥲",
+          'text_color': "#4B626B",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:lai_mot_minh",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#C9CEE3", "#D5D0E8", "#E2D7E8"]
+          },
+          'icon': {
+            'data': '🥲',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "lại một mình nầy",
+          'text_color': "#51546E",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:alone",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#C9CDE2", "#D5CDE5", "#E3D2E4"]
+          },
+          'icon': {
+            'data': '🌙',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "alone 😭",
+          'text_color': "#505571",
+          'type': "static_content"
+        }
+      }]
+    }, {
+      'section': "🎨 Deadline, Học hành & Tiền 💸",
+      'items': [{
+        'overlay_id': "caption:deadline_ruot",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#ED213A", "#93291E"]
+          },
+          'icon': {
+            'data': '🔥',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Deadline dí tụt quần",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:doi_tru_deadline",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F0D1A4", "#F5E2BD", "#D5D9EF"]
+          },
+          'icon': {
+            'data': '📚',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "đời cho gì nhận nấy, trừ deadline",
+          'text_color': "#5B4A35",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:di_lam_vi_dam_me",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FDC830", "#F37335"]
+          },
+          'icon': {
+            'data': '🤡',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Đi làm vì đam mê",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:ca_o_ran_doc",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#0F2027", "#1B5E20", "#66BB6A"]
+          },
+          'icon': {
+            'data': '🐍',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Cả ổ rắn độc",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:nghien_cuu_khoa_hoc",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#0F2027", "#2C5364"]
+          },
+          'icon': {
+            'data': '☕',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Cần nạp cafein gấp",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:tien_dau_ma_tieu",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#11998E", "#38EF7D"]
+          },
+          'icon': {
+            'data': '💸',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Tiền đâu mà tiêu",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:luc_nao_co_tien_thi_moi_di_a",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#0F2027", "#203A43", "#2C5364"]
+          },
+          'icon': {
+            'data': '💸',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Lúc nào có tiền thì mới đi á",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:doc_so_tai_khoan",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#1E90FF", "#00D4FF"]
+          },
+          'icon': {
+            'data': '💳',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "đọc số tài khoản",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:co_tien_lam_phien_thien_ha",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#BFA06A", "#E8D5AD", "#F6EBDD"]
+          },
+          'icon': {
+            'data': '💰',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Có tiền làm phiền thiên hạ",
+          'text_color': "#493824",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:co_tien_noi_tiep",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#075E54", "#16A085", "#B7E4C7"]
+          },
+          'icon': {
+            'data': '💸',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "có tiền thì nói chuyện tiếp",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:doc_lap_tai_chinh",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#B8C8B3", "#D9DFC5", "#EAD9B7"]
+          },
+          'icon': {
+            'data': '💰',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "độc lập tài chính, độc thân tình cảm",
+          'text_color': "#405340",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:cu_tu_tu_khoai_se_nhu",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#56AB2F", "#A8E063"]
+          },
+          'icon': {
+            'data': '🥔',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Cứ từ từ khoai sẽ nhừ",
+          'text_color': "#000000E6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:kiem_tra_nhan_pham",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#654EA3", "#EAAFC8"]
+          },
+          'icon': {
+            'data': '🎲',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Kiểm tra nhân phẩm",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:gac_buon_ngu",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#C9D5EE", "#D8D5F0", "#E9D9EF"]
+          },
+          'icon': {
+            'data': "moon.zzz.fill",
+            'type': "sf_symbol",
+            'color': "#7888BD"
+          },
+          'max_lines': 0x1,
+          'text': "gấc buồn ngủ",
+          'text_color': "#424B70",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:luoi_hoc_quaa",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#D4C6F0", "#E2CBEF", "#F0D5E8"]
+          },
+          'icon': {
+            'data': '📚',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "lười học quáa",
+          'text_color': "#59476F",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:deadline_di",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F1C6B8", "#EDCDB4", "#E7D8B8"]
+          },
+          'icon': {
+            'data': "figure.run",
+            'type': "sf_symbol",
+            'color': "#C18A6E"
+          },
+          'max_lines': 0x1,
+          'text': "+1 máy bị deadline dí 🏃🏾‍♂️💨",
+          'text_color': "#694F40",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:chay_vi",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F2C4B6", "#EFC8B1", "#E9D2B8"]
+          },
+          'icon': {
+            'data': '💸',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "cháy ví",
+          'text_color': "#6B4B3E",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:het_tien_vi_cai_nay",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F4C6B4", "#EFC2B5", "#E6C8C9"]
+          },
+          'icon': {
+            'data': "wallet.bifold.fill",
+            'type': "sf_symbol",
+            'color': "#C17F72"
+          },
+          'max_lines': 0x1,
+          'text': "hết tiền vì cái này =))",
+          'text_color': "#704C47",
+          'type': "static_content"
+        }
+      }]
+    }, {
+      'section': "🎨 Daily & Đời thường ☕",
+      'items': [{
+        'overlay_id': "caption:ngay_moi_vui_ve",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FFB703", "#FFD166", "#FFF0A8"]
+          },
+          'icon': {
+            'data': '☀️',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Ngày mới vui vẻ",
+          'text_color': "#69420A",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:coffee_time",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#4E342E", "#8D6E63"]
+          },
+          'icon': {
+            'data': '☕',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Coffee Time!",
+          'localized_text': {
+            'en': "Coffee Time!",
+            'vn': "Giờ uống cà phê!"
+          },
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:matcha_latte",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#C8E6C9", "#A5D6A7", "#81C784"]
+          },
+          'icon': {
+            'data': '🍃',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Matcha Latte 🍵",
+          'text_color': "#1B5E20E6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:mixue_time",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FFF9C4", "#F8BBD0"]
+          },
+          'icon': {
+            'data': '🍦',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Mixue Time!",
+          'localized_text': {
+            'en': "Mixue Time!",
+            'vn': "Giờ Mixue!"
+          },
+          'text_color': "#000000E6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:tien_mua_tra_sua",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#D7B77D", "#EAD6AA", "#F5E7CC"]
+          },
+          'icon': {
+            'data': '🧋',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "tiền không mua được tất cả, nhưng mua được trà sữa",
+          'text_color': "#5D472B",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:an_com_chua",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FF9800", "#F57C00"]
+          },
+          'icon': {
+            'data': "🍽️",
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Ăn cơm chưa?",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:dinner_time",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FFCCBC", "#FF8A80"]
+          },
+          'icon': {
+            'data': "🍽️",
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Dinner Time!",
+          'localized_text': {
+            'en': "Dinner Time!",
+            'vn': "Giờ ăn tối!"
+          },
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:di_choi_khong",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#E91E63", "#C2185B"]
+          },
+          'icon': {
+            'data': '✈️',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Đi chơi không?",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:tuyet_voi_uong_nao",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F0C58E", "#F5D9A9", "#EBC6B8"]
+          },
+          'icon': {
+            'data': '🥂',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "tuyệt vời, uống nào!",
+          'text_color': "#65462D",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:shopping_time",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#B3E5FC", "#FFFFFF"]
+          },
+          'icon': {
+            'data': "🛍️",
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Shopping Time!",
+          'localized_text': {
+            'en': "Shopping Time!",
+            'vn': "Giờ mua sắm!"
+          },
+          'text_color': "#000000E6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:cinema_time",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#1A237E", "#455A64"]
+          },
+          'icon': {
+            'data': '🎬',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Cinema Time!",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:tuyet_doi_dien_anh",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#455A64", "#263238"]
+          },
+          'icon': {
+            'data': '📷',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Tuyệt đối điện ảnh",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:qua_la_dien_anh",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#26A69A", "#00897B"]
+          },
+          'icon': {
+            'data': '📷',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Quá là điện ảnh",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:locket_time",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#ECEFF1", "#B3E5FC"]
+          },
+          'icon': {
+            'data': '📷',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Locket Time!",
+          'text_color': "#000000E6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:chilling_time",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#E1BEE7", "#F8BBD0"]
+          },
+          'icon': {
+            'data': '🌴',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Chilling Time!",
+          'localized_text': {
+            'en': "Chilling Time!",
+            'vn': "Giờ thư giãn!"
+          },
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:graduation_day",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#1A237E", "#283593"]
+          },
+          'icon': {
+            'data': '🎓',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Happy Graduation Day!",
+          'localized_text': {
+            'en': "Happy Graduation Day!",
+            'vn': "Chúc mừng tốt nghiệp!"
+          },
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:bien_oiiii",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#56CFE1", "#72EFDD", "#B8F3FF"]
+          },
+          'icon': {
+            'data': '🌊',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Biển ơiiii",
+          'text_color': "#124559",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:hoi_chieu_troi_mua",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'image': {
+              'type': "image",
+              'data': "cloud_cover",
+              'source': "local"
+            },
+            'colors': ["#546E7A", "#263238"]
+          },
+          'icon': {
+            'data': "🌧️",
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Hồi chiều trời mưa...",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:rainy_day",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'image': {
+              'type': "image",
+              'data': "cloud_cover",
+              'source': "local"
+            },
+            'colors': ["#6D4C41", "#8D6E63", "#BCAAA4"]
+          },
+          'icon': {
+            'data': '☕',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Rainy Day ☕🌧️",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:cam_lanh",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#2193B0", "#6DD5ED"]
+          },
+          'icon': {
+            'data': '🤧',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Cảm lạnh",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:bau_troi_da_ly_huong",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#B8A1D9", "#D8C6E8", "#A9B8E8"]
+          },
+          'icon': {
+            'type': "sf_symbol",
+            'data': "cloud.moon.fill",
+            'color': "#FFFFFF"
+          },
+          'max_lines': 0x1,
+          'text': "nhìn bầu trời màu dạ lý hương",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:night_vibes",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#B993D6", "#8CA6DB", "#C9B1FF"]
+          },
+          'icon': {
+            'data': '🪐',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Night Vibes 🌌",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:2am_thoughts",
+        'source': "remote",
+        'daily_start_hour': 0x1,
+        'daily_end_hour': 0x3,
+        'caption': {
+          'background': {
+            'colors': ["#0F2027", "#203A43", "#2C5364"]
+          },
+          'icon': {
+            'type': "sf_symbol",
+            'data': "cloud.bolt.fill",
+            'color': "#FFFFFFE6"
+          },
+          'max_lines': 0x1,
+          'text': "2:00 AM Thoughts 🌙",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:ngu_ngon",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#3F51B5", "#1A237E"]
+          },
+          'icon': {
+            'type': "sf_symbol",
+            'data': "moon.zzz.fill",
+            'color': "#FFFFFFE6"
+          },
+          'max_lines': 0x1,
+          'text': "Ngủ ngon",
+          'text_color': "#FFFFFFE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:sweet_dream",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#A1C4FD", "#C2E9FB", "#E0F7FA"]
+          },
+          'icon': {
+            'data': '☁️',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "Sweet Dream 🧊",
+          'text_color': "#1A237EE6",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:nhiem_vu_di_ngu",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#172554", "#334EAC", "#91A7FF"]
+          },
+          'icon': {
+            'data': '🫡',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "nhiệm vụ hệ thống: đi ngủ",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:da_den_luc_tat_nguon",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#283593", "#5C6BC0", "#B3C5FF"]
+          },
+          'icon': {
+            'data': '😴',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "đã đến lúc tắt nguồn",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:nao_nghi_lam_tay_van_online",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FF6B35", "#FF9F1C", "#FFE0A3"]
+          },
+          'icon': {
+            'data': '🤡',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "não nghỉ làm, tay vẫn online",
+          'text_color': "#672812",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:buon_ngu_chua_chiu_ngu",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#7B2CBF", "#B185DB", "#E0C3FC"]
+          },
+          'icon': {
+            'data': '🫠',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "buồn ngủ nhưng chưa chịu ngủ",
+          'text_color': "#39204F",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:pin_nguoi_dung_con_1",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#D62828", "#F77F00", "#FCBF49"]
+          },
+          'icon': {
+            'data': '🚨',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "cảnh báo: pin người dùng còn 1%",
+          'text_color': "#651515",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:nhiem_vu_hom_nay_nam_im",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#168AAD", "#52B69A", "#D9ED92"]
+          },
+          'icon': {
+            'data': '🛌',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "nhiệm vụ hôm nay: nằm im",
+          'text_color': "#17483F",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:mai_tinh_nay_ngu",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#343A40", "#6C757D", "#ADB5BD"]
+          },
+          'icon': {
+            'data': '💀',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "mai tính, nay ngủ",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:offline_de_hoi_sinh",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#006D77", "#83C5BE", "#EDF6F9"]
+          },
+          'icon': {
+            'data': '💤',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "offline để hồi sinh",
+          'text_color': "#164E52",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:xin_moii",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F6B6C8", "#EBC6E8", "#D8C8F4"]
+          },
+          'icon': {
+            'data': '👋',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "xin mờii",
+          'text_color': "#633F59",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:helo_ca_nha_iu",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F4C3D5", "#EBC6E8", "#D8D1F2"]
+          },
+          'icon': {
+            'data': '💗',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "hé lô cả nhà iu",
+          'text_color': "#694A68",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:ca_nha_thay_em_cute",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F4C5D9", "#F5D2C8", "#F7DFCA"]
+          },
+          'icon': {
+            'data': "face.smiling.fill",
+            'type': "sf_symbol",
+            'color': "#C77F9B"
+          },
+          'max_lines': 0x1,
+          'text': "cả nhà thấy em cute hong ạ",
+          'text_color': "#704B59",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:com_nuoc_chua",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F5C9B8", "#F4D5B6", "#F4E1C5"]
+          },
+          'icon': {
+            'data': '🍚',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "cơm nước gì chưa người đẹp",
+          'text_color': "#6D5140",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:an_nho",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F8D5A8", "#F6C6A8", "#F3B9A9"]
+          },
+          'icon': {
+            'data': '🍜',
+            'type': "emoji"
+          },
+          'max_lines': 0x1,
+          'text': "ăn nhó",
+          'text_color': "#704A36",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:chup_moi_cho_an",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F5C5A9", "#F5D5B6", "#F8E2BE"]
+          },
+          'icon': {
+            'data': "camera.fill",
+            'type': "sf_symbol",
+            'color': "#C27F5E"
+          },
+          'max_lines': 0x1,
+          'text': "chụp mới cho ăn",
+          'text_color': "#684B3D",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:nham_nham",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#F8D7A7", "#F5CBA1", "#F2BDA5"]
+          },
+          'icon': {
+            'data': "birthday.cake.fill",
+            'type': "sf_symbol",
+            'color': "#D18D59"
+          },
+          'max_lines': 0x1,
+          'text': "nhăm nhăm",
+          'text_color': "#704D35",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:lanh_thay_me",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#BEDCEB", "#C9E5EE", "#D9E9EF"]
+          },
+          'icon': {
+            'data': "snowflake",
+            'type': "sf_symbol",
+            'color': "#6D9DB8"
+          },
+          'max_lines': 0x1,
+          'text': "lạnh thấy mẹ 🥶",
+          'text_color': "#405D70",
+          'type': "static_content"
+        }
+      }]
+    }, {
+      'section': "🎨 Chứng nhận của Locket",
+      'items': [{
+        'overlay_id': "caption:locket_cuti",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#35B5E8", "#19A1D8"]
+          },
+          'icon': {
+            'data': "checkmark.seal.fill",
+            'type': "sf_symbol"
+          },
+          'max_lines': 0x1,
+          'text': "Locket xác nhận bạn cutii",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:locket_xinh",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FFD45C", "#F5B91E"]
+          },
+          'icon': {
+            'data': "checkmark.seal.fill",
+            'type': "sf_symbol"
+          },
+          'max_lines': 0x1,
+          'text': "Locket xác nhận bạn xjnh gái",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:locket_dep",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#258DEB", "#1672D4"]
+          },
+          'icon': {
+            'data': "checkmark.seal.fill",
+            'type': "sf_symbol"
+          },
+          'max_lines': 0x1,
+          'text': "Locket xác nhận bạn đẹp chai",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:locket_dangiu",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FF638B", "#F44772"]
+          },
+          'icon': {
+            'data': "checkmark.seal.fill",
+            'type': "sf_symbol"
+          },
+          'max_lines': 0x1,
+          'text': "Locket xác nhận bạn dangiu",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:gai_dep",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#FF91AE", "#F8759B"]
+          },
+          'icon': {
+            'data': "checkmark.seal.fill",
+            'type': "sf_symbol"
+          },
+          'max_lines': 0x1,
+          'text': "Đã xác minh bạn là gái đẹp",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:trai_dep",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#4A9FEF", "#267DD7"]
+          },
+          'icon': {
+            'data': "checkmark.seal.fill",
+            'type': "sf_symbol"
+          },
+          'max_lines': 0x1,
+          'text': "Đã xác minh bạn là trai đẹp",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:be_ngoan",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#E9B9C5", "#D9A4B3"]
+          },
+          'icon': {
+            'data': "checkmark.seal.fill",
+            'type': "sf_symbol"
+          },
+          'max_lines': 0x1,
+          'text': "Đã xác nhận bạn là bé ngoan",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }, {
+        'overlay_id': "caption:tuyen_duong",
+        'source': "remote",
+        'caption': {
+          'background': {
+            'colors': ["#D94A77", "#B82D59"]
+          },
+          'icon': {
+            'data': "checkmark.seal.fill",
+            'type': "sf_symbol"
+          },
+          'max_lines': 0x1,
+          'text': "Locket tuyên dương bạn cute",
+          'text_color': "#FFFFFF",
+          'type': "static_content"
+        }
+      }]
+    }])
+  });
+}
+$done({
+  'body': JSON.stringify(obj)
+});
