@@ -2397,7 +2397,7 @@ if (ua.includes("Locket")) {
           'text_color': "#183153",
           'type': "static_content"
         }
-      'items': [{
+      {
         'overlay_id': "caption:nghuyhoang.31",
         'source': "remote",
         'caption': {
