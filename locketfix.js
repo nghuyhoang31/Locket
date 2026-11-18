@@ -139,9 +139,9 @@ Object.assign(obj.entries, {
         title: "Đã Kích Hoạt 💛",
         feature_set: [
             {
-                title: "TikTok @locketdaubuoi ✨",
+                title: "TikTok @nghuyhoang.31 ✨",
                     body: "Nhớ Follow Kênh Ủng Hộ Mình Nhé 💛",
-                    imageURL: "https://i.ibb.co/fzjjDTw8/locketgold-nghuyhoang.png"
+                    imageURL: "https://i.ibb.co/5XKWH4HS/locketgold-nghuyhoang-vip.jpg"
             }
         ],
         primary_button_title: "Xong",
