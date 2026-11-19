@@ -1,0 +1,43 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>DNSSettings</key>
+            <dict>
+                <key>DNSProtocol</key>
+                <string>HTTPS</string>
+                <key>ServerURL</key>
+                <string>https://my.ublockdns.com/z451ak95</string>
+            </dict>
+            <key>PayloadDisplayName</key>
+            <string>Locket Gold DNS</string>
+            <key>PayloadIdentifier</key>
+            <string>com.nghuyhoang31.dns</string>
+            <key>PayloadType</key>
+            <string>com.apple.dnsSettings.managed</string>
+            <key>PayloadUUID</key>
+            <string>11111111-2222-4333-8444-555555555555</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>Locket Gold 💛</string>
+    <key>PayloadOrganization</key>
+    <string>nghuyhoang.31</string>
+    <key>PayloadIdentifier</key>
+    <string>com.nghuyhoang31.locketgold</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>AAAAAAAA-BBBB-4CCC-8DDD-EEEEEEEEEEEE</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>PayloadDescription</key>
+    <string>Hồ sơ cấu hình VIP Locket Gold @nghuyhoang.31</string>
+</dict>
+</plist>
